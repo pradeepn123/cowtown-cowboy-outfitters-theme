@@ -2,6 +2,17 @@
   "type": "header",
   "name": "Footer group",
   "sections": {
+    "6a2575ed-9112-4718-ac41-27b599029f16": {
+      "type": "email-signup",
+      "settings": {
+        "heading": "Saddle Up for Exclusive Offers!",
+        "description": "<p>Subscribe to our newsletter and ride the trail of savings.<\/p>",
+        "color_bg": "#151515",
+        "color_text": "#ffffff",
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": false
+      }
+    },
     "footer": {
       "type": "footer",
       "blocks": {
@@ -44,6 +55,7 @@
         },
         "919dfa59-648f-4330-afcc-8bb0c24dab8f": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "column_size": "small",
             "title": "GET IN TOUCH",
@@ -56,6 +68,7 @@
         },
         "d7a48274-cce6-4e4a-9105-6038567d1f88": {
           "type": "signup",
+          "disabled": true,
           "settings": {
             "column_size": "medium",
             "title": "",
@@ -82,6 +95,7 @@
     }
   },
   "order": [
+    "6a2575ed-9112-4718-ac41-27b599029f16",
     "footer"
   ]
 }
