@@ -1,0 +1,868 @@
+{
+  "sections": {
+    "16479477632637c9a7": {
+      "type": "slideshow",
+      "blocks": {
+        "164794776393e76b8e-2": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/slideshow_ariat_1.webp",
+            "slide_link": "",
+            "video_background": false,
+            "video": "",
+            "subheading": "Stride in Style",
+            "heading": "Ariat's Western Picks",
+            "heading_size": "h1-large",
+            "content": "Explore the essence of Western elegance with Ariat's latest collection.",
+            "description_size": "small",
+            "content_position": "middle-left",
+            "text_alignment": "left",
+            "content_size": "medium",
+            "overlay_color": "#000000",
+            "overlay_opacity": 70,
+            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.4) 100%)",
+            "button_1_text": "Shop Ariat",
+            "button_1_link": "",
+            "button_1_outline": true,
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_outline": false
+          }
+        },
+        "f82bbf87-42d7-4ad0-8564-51405be350fe": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/slideshow_durango.webp",
+            "slide_link": "",
+            "video_background": false,
+            "video": "",
+            "subheading": "Boot Up",
+            "heading": "Durango Boots Collection",
+            "heading_size": "h1-large",
+            "content": "Embark on a journey of rugged elegance with Durango Boots.",
+            "description_size": "small",
+            "content_position": "middle-left",
+            "text_alignment": "left",
+            "content_size": "medium",
+            "overlay_color": "#000000",
+            "overlay_opacity": 70,
+            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.4) 100%)",
+            "button_1_text": "Shop Durango",
+            "button_1_link": "",
+            "button_1_outline": true,
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_outline": false
+          }
+        },
+        "31679652-1084-484b-ac4f-2af933d4b939": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/slideshow_montana_1.webp",
+            "slide_link": "",
+            "video_background": false,
+            "video": "",
+            "subheading": "Western Elegance",
+            "heading": "Timeless Western Jewelry",
+            "heading_size": "h1-large",
+            "content": "Elevate your style with Montana Silversmiths, where each piece of jewelry is a testament to the enduring allure of the West.",
+            "description_size": "small",
+            "content_position": "middle-left",
+            "text_alignment": "left",
+            "content_size": "medium",
+            "overlay_color": "#000000",
+            "overlay_opacity": 70,
+            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.4) 100%)",
+            "button_1_text": "Shop Montana Silversmiths",
+            "button_1_link": "",
+            "button_1_outline": true,
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_outline": false
+          }
+        }
+      },
+      "block_order": [
+        "164794776393e76b8e-2",
+        "f82bbf87-42d7-4ad0-8564-51405be350fe",
+        "31679652-1084-484b-ac4f-2af933d4b939"
+      ],
+      "settings": {
+        "desktop_height": "desktop-height-image",
+        "mobile_height": "mobile-height-image",
+        "full_width": true,
+        "autoplay": true,
+        "autoplay_length": 5,
+        "transition": "swipe",
+        "disable_top_spacing": true,
+        "disable_bottom_spacing": true
+      }
+    },
+    "8ff44aa4-745b-49a9-a762-c825c4f0521f": {
+      "type": "featured-collection",
+      "settings": {
+        "heading": "Newest Arrivals",
+        "heading_left": true,
+        "description": "",
+        "full_width": true,
+        "collection": "newest-arrivals",
+        "display_type": "carousel",
+        "product_limit": 8,
+        "columns_desktop": 4,
+        "show_view_all": true,
+        "mobile_swipe": true,
+        "show_progress_bar": true,
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": false
+      }
+    },
+    "f26e5480-9169-4167-bcea-a81d08266fc1": {
+      "type": "multicolumn",
+      "blocks": {
+        "d445ff35-842b-4161-b554-9202c690f34d": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/WebPhoto_5__63243.1704213995.1280.1280.png",
+            "image_full_width": false,
+            "retina": true,
+            "title": "Shirts",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "da9a5c82-5d46-47b2-bbb0-c6ebf2c6eef6": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Womens_Ariat_R.E.A.L._High_Rise_Fernanda_Boot_Cut_Jean_10040802__56010.1673718552.1280.1280.png",
+            "image_full_width": false,
+            "retina": true,
+            "title": "Jeans",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "5e2469e5-97a5-4091-a13e-b1295939a155": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Corral_Boot_Z5009__84478__40552.1662234838.1280.1280.png",
+            "image_full_width": false,
+            "retina": true,
+            "title": "Boots",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "212a8879-4182-48fb-9d58-cdd353b08239": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/nocona_belt__18498__14906__79008.1662663269.1280.1280.png",
+            "image_full_width": false,
+            "retina": true,
+            "title": "Belts",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "4646ab80-e900-4fc9-8a8a-b31b4741a00c": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/20193a1cNocona_Ladies_Rectangle_Buckle_Floral_Filigree_prd_85598_s_37927__34815.1692129903.1280.1280.jpg",
+            "image_full_width": false,
+            "retina": true,
+            "title": "Buckles",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "a3421fd0-fb4c-4f03-aaa3-f33401b12672": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Horseshoe_Up_Horseshoe_Down_Bracelet_by_Montana_Silversmiths_BC620__76457__34436.1677087244.1280.1280.png",
+            "image_full_width": false,
+            "retina": true,
+            "title": "Jewelry",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "29afcbe3-42b6-43f3-bf9e-ba1c4ee9b9b1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/8b1575a8Ariat_Rodeo_Wallet_Croc_Floral_Embossed_Brown_prd_84366_s_a3552802__73747.1680807946.1280.1280.jpg",
+            "image_full_width": false,
+            "retina": true,
+            "title": "Accessories",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "d445ff35-842b-4161-b554-9202c690f34d",
+        "da9a5c82-5d46-47b2-bbb0-c6ebf2c6eef6",
+        "5e2469e5-97a5-4091-a13e-b1295939a155",
+        "212a8879-4182-48fb-9d58-cdd353b08239",
+        "4646ab80-e900-4fc9-8a8a-b31b4741a00c",
+        "a3421fd0-fb4c-4f03-aaa3-f33401b12672",
+        "29afcbe3-42b6-43f3-bf9e-ba1c4ee9b9b1"
+      ],
+      "settings": {
+        "heading": "Shop By Category",
+        "heading_left": true,
+        "description": "",
+        "full_width": true,
+        "display_type": "carousel",
+        "image_ratio": "square",
+        "columns_desktop": 5,
+        "text_alignment": "center",
+        "heading_size": "h5",
+        "mobile_swipe": true,
+        "show_progress_bar": true,
+        "disable_top_spacing": true,
+        "disable_bottom_spacing": false
+      }
+    },
+    "fbcbe02d-91df-4452-abeb-1610e1240d03": {
+      "type": "multicolumn",
+      "blocks": {
+        "9cd1e880-fdbd-4a83-a777-297648bd2f15": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/brand-ariat.png",
+            "image_full_width": false,
+            "retina": true,
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1b9a30e8-1201-4719-9456-d6e7c065c8f5": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/brand-justin_boots.png",
+            "image_full_width": false,
+            "retina": true,
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "78f2cd22-e42c-4755-972b-1190b79cc5e9": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/brand-roper.png",
+            "image_full_width": false,
+            "retina": true,
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "b7914f6b-c3bf-4751-be33-461fae2043c7": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/brand-lucchese.png",
+            "image_full_width": false,
+            "retina": true,
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "450727ba-091a-4000-8f65-bebd9fc9abde": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/brand-wrangler.png",
+            "image_full_width": false,
+            "retina": true,
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "0f336811-3b1f-4e7b-89a8-bb361e433fa7": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/brand-tony_lama_boots.png",
+            "image_full_width": false,
+            "retina": true,
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "d555141e-2ffb-4701-ab03-2b87a23b5de3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/brand-dan_post.png",
+            "image_full_width": false,
+            "retina": true,
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "30c98383-f18b-4ae3-a3ee-76ca6018acb0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/brand-durango.png",
+            "image_full_width": false,
+            "retina": true,
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "9cd1e880-fdbd-4a83-a777-297648bd2f15",
+        "1b9a30e8-1201-4719-9456-d6e7c065c8f5",
+        "78f2cd22-e42c-4755-972b-1190b79cc5e9",
+        "b7914f6b-c3bf-4751-be33-461fae2043c7",
+        "450727ba-091a-4000-8f65-bebd9fc9abde",
+        "0f336811-3b1f-4e7b-89a8-bb361e433fa7",
+        "d555141e-2ffb-4701-ab03-2b87a23b5de3",
+        "30c98383-f18b-4ae3-a3ee-76ca6018acb0"
+      ],
+      "settings": {
+        "heading": "Shop By Brands",
+        "heading_left": true,
+        "description": "",
+        "full_width": true,
+        "display_type": "carousel",
+        "image_ratio": "adapt",
+        "columns_desktop": 6,
+        "text_alignment": "left",
+        "heading_size": "h5",
+        "mobile_swipe": false,
+        "show_progress_bar": true,
+        "disable_top_spacing": true,
+        "disable_bottom_spacing": false
+      }
+    },
+    "166143150135dd97e2": {
+      "type": "gallery",
+      "blocks": {
+        "6a1c724d-715f-4918-acea-e9f4464d74de": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/shop_men.webp",
+            "subheading": "Elevate His Style",
+            "title": "Men's Western Wardrobe",
+            "text": "Explore the rugged charm and authentic allure of our Western wear collection for men.",
+            "link_label": "Shop Men",
+            "link": "shopify:\/\/collections\/men",
+            "use_text_button": false,
+            "block_link": ""
+          }
+        },
+        "bbdd3a28-ed72-4073-b920-e0710a00f80b": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/shop_women.webp",
+            "subheading": "Radiate Her Elegance",
+            "title": "Women's Western Chic",
+            "text": "Discover the blend of femininity and frontier flair in our Western wear collection for women.",
+            "link_label": "Shop Women",
+            "link": "shopify:\/\/collections\/women",
+            "use_text_button": false,
+            "block_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "6a1c724d-715f-4918-acea-e9f4464d74de",
+        "bbdd3a28-ed72-4073-b920-e0710a00f80b"
+      ],
+      "settings": {
+        "columns_desktop": 2,
+        "section_width": "full-width-row",
+        "mobile_swipe": false,
+        "image_ratio": "adapt",
+        "content_position": "bottom-left",
+        "text_alignment": "left",
+        "column_spacing": "large",
+        "heading_size": "h3",
+        "overlay_color": "#000000",
+        "overlay_opacity": 20,
+        "disable_top_spacing": true,
+        "disable_bottom_spacing": true
+      }
+    },
+    "1661512437fd38dfb2": {
+      "type": "featured-collection-list",
+      "blocks": {
+        "6f36cf8f-9b45-49f6-9ceb-e098c331d610": {
+          "type": "collection",
+          "settings": {
+            "collection": "mens-apparel",
+            "image": "shopify:\/\/shop_images\/slideshow_bootbarn_2.webp"
+          }
+        },
+        "0da7006d-3f7c-445e-beea-4a390b373aad": {
+          "type": "collection",
+          "settings": {
+            "collection": "hats",
+            "image": "shopify:\/\/shop_images\/shop_men.webp"
+          }
+        },
+        "55dc7437-dab4-4e15-b317-316d02faadb7": {
+          "type": "collection",
+          "settings": {
+            "collection": "jewelry",
+            "image": "shopify:\/\/shop_images\/shop_women.webp"
+          }
+        },
+        "71a1e8d7-01d1-40d2-9ef1-6f2631328763": {
+          "type": "collection",
+          "settings": {
+            "collection": "accessories",
+            "image": "shopify:\/\/shop_images\/slideshow_montana_1.webp"
+          }
+        }
+      },
+      "block_order": [
+        "6f36cf8f-9b45-49f6-9ceb-e098c331d610",
+        "0da7006d-3f7c-445e-beea-4a390b373aad",
+        "55dc7437-dab4-4e15-b317-316d02faadb7",
+        "71a1e8d7-01d1-40d2-9ef1-6f2631328763"
+      ],
+      "settings": {
+        "desktop_height": "desktop-height-550",
+        "mobile_height": "mobile-height-500",
+        "full_width": true,
+        "content_position": "middle-center",
+        "heading_size": "h1-large",
+        "color_text": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30,
+        "disable_top_spacing": true,
+        "disable_bottom_spacing": true
+      }
+    },
+    "1661426105a80f3333": {
+      "type": "scrolling-text",
+      "blocks": {
+        "0b2612d0-8401-4857-a46a-9487c6340ed5": {
+          "type": "text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/star1.svg",
+            "text": "Boots",
+            "link": "shopify:\/\/collections\/boots",
+            "outline_text": false
+          }
+        },
+        "581d9c79-a7ba-4a9b-885e-faeadeb9fa3b": {
+          "type": "text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/star2.svg",
+            "text": "Vests",
+            "link": "shopify:\/\/collections\/vests",
+            "outline_text": true
+          }
+        },
+        "2f139978-619f-4e66-a406-7a196266c43f": {
+          "type": "text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/star1.svg",
+            "text": "Buckles",
+            "link": "shopify:\/\/collections\/buckles",
+            "outline_text": false
+          }
+        },
+        "01afd524-1a0a-4858-acc7-7b894e222bbf": {
+          "type": "text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/star2.svg",
+            "text": "Hats",
+            "link": "shopify:\/\/collections\/hats",
+            "outline_text": true
+          }
+        }
+      },
+      "block_order": [
+        "0b2612d0-8401-4857-a46a-9487c6340ed5",
+        "581d9c79-a7ba-4a9b-885e-faeadeb9fa3b",
+        "2f139978-619f-4e66-a406-7a196266c43f",
+        "01afd524-1a0a-4858-acc7-7b894e222bbf"
+      ],
+      "settings": {
+        "height": "height-auto",
+        "full_width": true,
+        "direction": "left",
+        "speed": "30s",
+        "text_size": 64,
+        "text_uppercase": true,
+        "image_size": "small",
+        "color_bg": "#ffffff",
+        "color_text": "#151515",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0,
+        "disable_top_spacing": true,
+        "disable_bottom_spacing": true
+      }
+    },
+    "08d3c50a-9689-42c1-b21c-074151adbbb9": {
+      "type": "countdown-banner",
+      "settings": {
+        "section_width": "full-width-row-full",
+        "section_layout": "vertical",
+        "desktop_height": "desktop-height-550",
+        "mobile_height": "mobile-height-500",
+        "bg_image": "shopify:\/\/shop_images\/clearance_sale.webp",
+        "subheading": "Limited Time offer",
+        "heading": "Outerwear Sale",
+        "heading_size": "h1",
+        "content": "GET 25% OFF ON SELECT STYLES",
+        "content_size": "large",
+        "button_text": "Shop Outerwear",
+        "button_link": "shopify:\/\/collections\/outerwear",
+        "timer_year": 2024,
+        "timer_month": "01",
+        "timer_day": "15",
+        "timer_hour": "15",
+        "timer_minute": "16",
+        "color_bg": "#cf7239",
+        "color_text": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 20,
+        "disable_top_spacing": true,
+        "disable_bottom_spacing": true
+      }
+    },
+    "502217ba-4e27-404e-96cb-0b35e2f6eb9b": {
+      "type": "collection-tabs",
+      "blocks": {
+        "template--15321576013905__502217ba-4e27-404e-96cb-0b35e2f6eb9b-collection-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "mens-outerwear"
+          }
+        },
+        "template--15321576013905__502217ba-4e27-404e-96cb-0b35e2f6eb9b-collection-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "womens-outerwear"
+          }
+        }
+      },
+      "block_order": [
+        "template--15321576013905__502217ba-4e27-404e-96cb-0b35e2f6eb9b-collection-1",
+        "template--15321576013905__502217ba-4e27-404e-96cb-0b35e2f6eb9b-collection-2"
+      ],
+      "settings": {
+        "heading": "Shop Outerwear",
+        "heading_left": true,
+        "description": "",
+        "full_width": true,
+        "product_limit": 8,
+        "columns_desktop": 4,
+        "show_view_all": true,
+        "show_progress_bar": true,
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": false
+      }
+    },
+    "cd3dab0c-8d94-4792-89b3-6eee9ec2865d": {
+      "type": "background-video",
+      "settings": {
+        "desktop_height": "desktop-height-550",
+        "mobile_height": "mobile-height-500",
+        "full_width": true,
+        "subheading": "Discover Lucchese",
+        "heading": "Craftsmanship in Every Frame",
+        "text": "Step into a world of unparalleled craftsmanship with Lucchese. Witness the artistry, heritage, and commitment to quality that define each pair.",
+        "lightbox_button": false,
+        "video": "https:\/\/www.youtube.com\/watch?v=_-EitsYcNGw",
+        "overlay_opacity": 25,
+        "disable_top_spacing": true,
+        "disable_bottom_spacing": true
+      }
+    },
+    "1662459178b0886a69": {
+      "type": "rich-text",
+      "blocks": {
+        "4551cbda-76ff-4a07-a279-a29df7956af6": {
+          "type": "subheading",
+          "settings": {
+            "text": "CUSTOMERS LOVE US"
+          }
+        }
+      },
+      "block_order": [
+        "4551cbda-76ff-4a07-a279-a29df7956af6"
+      ],
+      "settings": {
+        "section_width": "grid",
+        "text_width": "medium",
+        "text_position": "center",
+        "text_alignment": "center",
+        "color_bg": "rgba(0,0,0,0)",
+        "color_text": "#151515",
+        "color_links": "#151515",
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": true
+      }
+    },
+    "16615358507b6ff1a8": {
+      "type": "testimonials",
+      "blocks": {
+        "60961cb1-416e-4c98-a9ec-2a41dfae8911": {
+          "type": "quote",
+          "settings": {
+            "stars": "",
+            "text": "Add your customer or client quote here to showcase them.",
+            "author": "Testimonial author"
+          }
+        },
+        "2bf39bcc-dfc9-43ae-b6a4-9cecdb3197c9": {
+          "type": "quote",
+          "settings": {
+            "stars": "",
+            "text": "Add your customer or client quote here to showcase them.",
+            "author": "Testimonial author"
+          }
+        },
+        "f0e5414e-308c-4a64-91b5-1f08b8650731": {
+          "type": "quote",
+          "settings": {
+            "stars": "",
+            "text": "Add your customer or client quote here to showcase them.",
+            "author": "Testimonial author"
+          }
+        }
+      },
+      "block_order": [
+        "60961cb1-416e-4c98-a9ec-2a41dfae8911",
+        "2bf39bcc-dfc9-43ae-b6a4-9cecdb3197c9",
+        "f0e5414e-308c-4a64-91b5-1f08b8650731"
+      ],
+      "settings": {
+        "full_width": true,
+        "text_size": "large",
+        "pagination": "dots",
+        "autoplay": true,
+        "autoplay_length": 5,
+        "color_bg": "rgba(0,0,0,0)",
+        "color_text": "#151515",
+        "disable_top_spacing": true,
+        "disable_bottom_spacing": false
+      }
+    },
+    "03248644-d65d-4e3a-83e5-1feae16a04b9": {
+      "type": "scrolling-text",
+      "blocks": {
+        "template--15321576013905__03248644-d65d-4e3a-83e5-1feae16a04b9-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "the best of the West in the East",
+            "link": "",
+            "outline_text": false
+          }
+        },
+        "6647f68a-e9c7-4613-be78-be55241833a8": {
+          "type": "text",
+          "settings": {
+            "text": "Cowtown Cowboy Outfitters",
+            "link": "",
+            "outline_text": true
+          }
+        }
+      },
+      "block_order": [
+        "template--15321576013905__03248644-d65d-4e3a-83e5-1feae16a04b9-text-1",
+        "6647f68a-e9c7-4613-be78-be55241833a8"
+      ],
+      "settings": {
+        "height": "height-auto",
+        "full_width": true,
+        "direction": "left",
+        "speed": "20s",
+        "text_size": 22,
+        "text_uppercase": true,
+        "image_size": "large",
+        "color_bg": "#cf7239",
+        "color_text": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0,
+        "disable_top_spacing": true,
+        "disable_bottom_spacing": true
+      }
+    },
+    "032f7543-efbd-474e-8506-0174251add02": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15321576013905__032f7543-efbd-474e-8506-0174251add02-subheading-1": {
+          "type": "subheading",
+          "settings": {
+            "text": "ESTD 1958"
+          }
+        },
+        "3b251c5f-beea-4cb7-af47-f861509e8684": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ccow-logo-color.png",
+            "retina": true
+          }
+        },
+        "template--15321576013905__032f7543-efbd-474e-8506-0174251add02-heading-1": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "text": "Western Tradition, Modern Style!",
+            "size": "h3"
+          }
+        },
+        "template--15321576013905__032f7543-efbd-474e-8506-0174251add02-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We offer a diverse range of high-quality merchandise for your entire family. As a full-line western wear store, we hand-select the very best cowboy boots for men, women, and children.<\/p>",
+            "size": "text-size-regular"
+          }
+        },
+        "template--15321576013905__032f7543-efbd-474e-8506-0174251add02-button-1": {
+          "type": "button",
+          "settings": {
+            "link_label": "About Us",
+            "link": "shopify:\/\/pages\/about-us",
+            "button_outline": false
+          }
+        },
+        "39c79d83-46d0-48c9-8f7b-160b652a1799": {
+          "type": "button",
+          "settings": {
+            "link_label": "Visit Outlet",
+            "link": "https:\/\/maps.app.goo.gl\/23RA8YfMaemeyga78",
+            "button_outline": true
+          }
+        }
+      },
+      "block_order": [
+        "template--15321576013905__032f7543-efbd-474e-8506-0174251add02-subheading-1",
+        "3b251c5f-beea-4cb7-af47-f861509e8684",
+        "template--15321576013905__032f7543-efbd-474e-8506-0174251add02-heading-1",
+        "template--15321576013905__032f7543-efbd-474e-8506-0174251add02-text-1",
+        "template--15321576013905__032f7543-efbd-474e-8506-0174251add02-button-1",
+        "39c79d83-46d0-48c9-8f7b-160b652a1799"
+      ],
+      "settings": {
+        "section_width": "grid",
+        "text_width": "medium",
+        "text_position": "center",
+        "text_alignment": "center",
+        "color_bg": "rgba(0,0,0,0)",
+        "color_text": "#151515",
+        "color_links": "#151515",
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": false
+      }
+    },
+    "1647955648d6a0baee": {
+      "type": "featured-blog",
+      "settings": {
+        "heading": "Latest Blog Posts",
+        "heading_left": true,
+        "description": "<p>Dive into a world of fashion insights, trendspotting, and expert tips. <\/p>",
+        "full_width": true,
+        "blog": "default-blog",
+        "post_limit": 4,
+        "columns_desktop": 4,
+        "mobile_swipe": true,
+        "image_ratio": "landscape",
+        "show_date": true,
+        "show_excerpt": false,
+        "show_view_all": true,
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": true
+      }
+    },
+    "16620983071df6eb29": {
+      "type": "text-with-icons",
+      "blocks": {
+        "1662098307788ca717-0": {
+          "type": "icon",
+          "settings": {
+            "icon": "truck",
+            "heading": "Free Shipping",
+            "text": "<p>Enjoy <em>free shipping<\/em> on orders over $99!<\/p>"
+          }
+        },
+        "1662098307788ca717-1": {
+          "type": "icon",
+          "settings": {
+            "icon": "star",
+            "heading": "Gift Wrapping",
+            "text": "<p>Add a special touch to your purchases with <em>gift wrapping<\/em>.<\/p>"
+          }
+        },
+        "1662098307788ca717-2": {
+          "type": "icon",
+          "settings": {
+            "icon": "return",
+            "heading": "Easy Returns",
+            "text": "<p>Not satisfied? No worries! <em>Return <\/em>within 30 days.<\/p>"
+          }
+        },
+        "2c4a636c-cb89-4faf-82e6-13a0e7241006": {
+          "type": "icon",
+          "settings": {
+            "icon": "check_mark",
+            "heading": "Legacy of Six Decades",
+            "text": "<p>Offering the best in Western wear, <em>since 1958<\/em>.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1662098307788ca717-0",
+        "1662098307788ca717-1",
+        "1662098307788ca717-2",
+        "2c4a636c-cb89-4faf-82e6-13a0e7241006"
+      ],
+      "settings": {
+        "text_alignment": "left",
+        "icon_position": "left",
+        "icon_size": "medium",
+        "heading_size": "medium",
+        "mobile_swipe": true,
+        "color_bg": "#733b2e",
+        "color_heading": "#ffffff",
+        "color_text": "#ffffff",
+        "disable_top_spacing": true,
+        "disable_bottom_spacing": true
+      }
+    }
+  },
+  "order": [
+    "16479477632637c9a7",
+    "8ff44aa4-745b-49a9-a762-c825c4f0521f",
+    "f26e5480-9169-4167-bcea-a81d08266fc1",
+    "fbcbe02d-91df-4452-abeb-1610e1240d03",
+    "166143150135dd97e2",
+    "1661512437fd38dfb2",
+    "1661426105a80f3333",
+    "08d3c50a-9689-42c1-b21c-074151adbbb9",
+    "502217ba-4e27-404e-96cb-0b35e2f6eb9b",
+    "cd3dab0c-8d94-4792-89b3-6eee9ec2865d",
+    "1662459178b0886a69",
+    "16615358507b6ff1a8",
+    "03248644-d65d-4e3a-83e5-1feae16a04b9",
+    "032f7543-efbd-474e-8506-0174251add02",
+    "1647955648d6a0baee",
+    "16620983071df6eb29"
+  ]
+}

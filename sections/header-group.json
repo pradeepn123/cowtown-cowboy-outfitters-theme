@@ -1,0 +1,73 @@
+{
+  "type": "header",
+  "name": "Header group",
+  "sections": {
+    "announcement-bar": {
+      "type": "announcement-bar",
+      "blocks": {
+        "5b1ab378-833d-4a94-a02e-8325ec1551d0": {
+          "type": "text",
+          "settings": {
+            "icon": "shirt",
+            "text": "Outerwear Sale - Up To 25% Off",
+            "link": ""
+          }
+        },
+        "38f3bb15-dcd0-44fe-be18-3b671198b186": {
+          "type": "text",
+          "settings": {
+            "icon": "truck",
+            "text": "Free Shipping on Orders Above $99 USD",
+            "link": ""
+          }
+        },
+        "668cd72b-2934-4bd6-a2fa-4c48e85ad524": {
+          "type": "text",
+          "settings": {
+            "icon": "none",
+            "text": "Add campaign text here.",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "5b1ab378-833d-4a94-a02e-8325ec1551d0",
+        "38f3bb15-dcd0-44fe-be18-3b671198b186",
+        "668cd72b-2934-4bd6-a2fa-4c48e85ad524"
+      ],
+      "settings": {
+        "announcement_bar": true,
+        "announcement_bar_homepage_only": false,
+        "announcement_bar_layout": "marquee",
+        "direction": "left",
+        "speed": "20s",
+        "autoplay": false,
+        "autoplay_length": 5
+      }
+    },
+    "header": {
+      "type": "header",
+      "settings": {
+        "sticky_header": true,
+        "logo": "shopify:\/\/shop_images\/ccow-logo-color.png",
+        "logo_height_range": 50,
+        "logo_height_range_mobile": 40,
+        "style": "style1",
+        "header_shadow": "header--shadow-small",
+        "menu": "main-menu",
+        "transparent_header": true,
+        "logo_light": "shopify:\/\/shop_images\/ccow-logo-white.png",
+        "show_language_switcher": false,
+        "show_currency_switcher": false,
+        "mobile_secondary_menu": "",
+        "mobile_promo_heading": "Promotion heading",
+        "mobile_promo_link_label": "Shop",
+        "mobile_promo_link": ""
+      }
+    }
+  },
+  "order": [
+    "announcement-bar",
+    "header"
+  ]
+}
