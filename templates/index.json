@@ -219,7 +219,7 @@
         "description": "",
         "full_width": true,
         "display_type": "carousel",
-        "image_ratio": "adapt",
+        "image_ratio": "square",
         "columns_desktop": 5,
         "text_alignment": "center",
         "heading_size": "h6",
