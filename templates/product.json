@@ -22,6 +22,12 @@
             "show_products_rating": true
           }
         },
+        "d20d07fc-1acd-491b-88c9-4c436a6f489e": {
+          "type": "sku",
+          "settings": {
+            "sku_style": "style_vendor"
+          }
+        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
@@ -30,9 +36,20 @@
             "color_picker_size": "regular",
             "color_picker_use_variants": false,
             "variant_is_disabled": true,
-            "sizing_guide_text": "",
-            "sizing_guide_icon": "none",
+            "sizing_guide_text": "Sizing Guide",
+            "sizing_guide_icon": "shirt",
             "sizing_guide_page": ""
+          }
+        },
+        "e72fd1ac-fe4d-4e65-a0cb-b9a4193c5198": {
+          "type": "inventory_level",
+          "settings": {
+            "show_inventory_notice": "always",
+            "show_inventory_count": "always",
+            "inventory_notice_pulse": true,
+            "inventory_notice_bar": true,
+            "inventory_notice_threshold": 10,
+            "inventory_notice_base": 20
           }
         },
         "buy_buttons": {
@@ -74,7 +91,9 @@
       "block_order": [
         "e431a79e-9c7b-4a53-a79a-0cb918617ecf",
         "title",
+        "d20d07fc-1acd-491b-88c9-4c436a6f489e",
         "variant_picker",
+        "e72fd1ac-fe4d-4e65-a0cb-b9a4193c5198",
         "buy_buttons",
         "95b7e00a-0453-4eb0-9cf0-1dae84d8b822",
         "0b3e272b-c86a-4dba-946c-c6912251371c",
