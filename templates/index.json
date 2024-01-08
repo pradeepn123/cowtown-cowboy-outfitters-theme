@@ -222,8 +222,8 @@
         "image_ratio": "square",
         "columns_desktop": 5,
         "text_alignment": "center",
-        "heading_size": "h5",
-        "mobile_swipe": true,
+        "heading_size": "h6",
+        "mobile_swipe": false,
         "show_progress_bar": true,
         "disable_top_spacing": true,
         "disable_bottom_spacing": false
