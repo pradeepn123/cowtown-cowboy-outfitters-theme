@@ -97,7 +97,7 @@
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/ccow-logo-black.png",
-            "position": "text-center"
+            "position": "text-left"
           }
         },
         "9a8d8a96-6d94-48b4-8390-130a7f9b1701": {
