@@ -232,29 +232,6 @@
         "border_separator": true,
         "border_separator_full": true
       }
-    },
-    "679561e1-0a6e-42ae-85fd-ef6768efa9ab": {
-      "type": "collection-list",
-      "settings": {
-        "heading": "Shop by Category",
-        "heading_left": true,
-        "description": "<p>Add a short description for your collections<\/p>",
-        "full_width": true,
-        "collection_list": [
-
-        ],
-        "image_ratio": "square",
-        "layout": "carousel",
-        "style": "style1",
-        "columns_desktop": 4,
-        "columns_mobile": "1",
-        "show_progress_bar": true,
-        "mobile_swipe": true,
-        "overlay_color": "#000000",
-        "overlay_opacity": 30,
-        "disable_top_spacing": true,
-        "disable_bottom_spacing": false
-      }
     }
   },
   "order": [
@@ -265,7 +242,6 @@
     "1704709393e2ce0209",
     "product-recommendations",
     "99e1f32a-bc59-4a01-8af7-b240a296ef02",
-    "c27d9d6a-19cf-4717-8b68-f81ada440885",
-    "679561e1-0a6e-42ae-85fd-ef6768efa9ab"
+    "c27d9d6a-19cf-4717-8b68-f81ada440885"
   ]
 }
