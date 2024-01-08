@@ -76,6 +76,20 @@
             "custom_liquid": "{{ product.description }}"
           }
         },
+        "a38a706a-2cba-4bb8-a6b6-45fcfde8a9b9": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ccow-logo-color.png",
+            "position": "text-left"
+          }
+        },
+        "9a8d8a96-6d94-48b4-8390-130a7f9b1701": {
+          "type": "text",
+          "settings": {
+            "text": "Cowtown Cowboy Outfitters is a family-owned and operated business that has been proudly supplying the very best in western wear since 1958. We aren't big, we aren't corporate, we are a small town business and we care about our customers. Give us the opportunity to serve you & become part of our family!",
+            "text_style": "style_body"
+          }
+        },
         "95b7e00a-0453-4eb0-9cf0-1dae84d8b822": {
           "type": "side_panel",
           "settings": {
@@ -93,22 +107,9 @@
             "side_panel_3_page": ""
           }
         },
-        "0b3e272b-c86a-4dba-946c-c6912251371c": {
-          "type": "description",
-          "disabled": true,
-          "settings": {
-          }
-        },
         "4fd23485-293f-46a0-8a4c-34d0e25ea41b": {
           "type": "share",
           "settings": {
-          }
-        },
-        "a89a927b-9142-4edc-951c-5092bbe78d69": {
-          "type": "complementary",
-          "settings": {
-            "block_heading": "Pairs well with",
-            "product_list_limit": 10
           }
         }
       },
@@ -121,10 +122,10 @@
         "e72fd1ac-fe4d-4e65-a0cb-b9a4193c5198",
         "buy_buttons",
         "74bbeec9-f11d-455d-bf1d-80a940469f70",
+        "a38a706a-2cba-4bb8-a6b6-45fcfde8a9b9",
+        "9a8d8a96-6d94-48b4-8390-130a7f9b1701",
         "95b7e00a-0453-4eb0-9cf0-1dae84d8b822",
-        "0b3e272b-c86a-4dba-946c-c6912251371c",
-        "4fd23485-293f-46a0-8a4c-34d0e25ea41b",
-        "a89a927b-9142-4edc-951c-5092bbe78d69"
+        "4fd23485-293f-46a0-8a4c-34d0e25ea41b"
       ],
       "settings": {
         "full_width": true,
