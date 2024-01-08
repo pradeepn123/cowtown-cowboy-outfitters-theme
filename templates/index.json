@@ -469,8 +469,8 @@
           "type": "text",
           "settings": {
             "image": "shopify:\/\/shop_images\/star1.svg",
-            "text": "Boots",
-            "link": "shopify:\/\/collections\/boots",
+            "text": "Home Decor",
+            "link": "shopify:\/\/collections\/home-decor",
             "outline_text": false
           }
         },
@@ -478,8 +478,8 @@
           "type": "text",
           "settings": {
             "image": "shopify:\/\/shop_images\/star2.svg",
-            "text": "Vests",
-            "link": "shopify:\/\/collections\/vests",
+            "text": "Toys",
+            "link": "shopify:\/\/collections\/toys",
             "outline_text": true
           }
         },
@@ -487,8 +487,8 @@
           "type": "text",
           "settings": {
             "image": "shopify:\/\/shop_images\/star1.svg",
-            "text": "Buckles",
-            "link": "shopify:\/\/collections\/buckles",
+            "text": "Cologne",
+            "link": "shopify:\/\/collections\/cologne",
             "outline_text": false
           }
         },
@@ -496,8 +496,8 @@
           "type": "text",
           "settings": {
             "image": "shopify:\/\/shop_images\/star2.svg",
-            "text": "Hats",
-            "link": "shopify:\/\/collections\/hats",
+            "text": "Boot Care",
+            "link": "shopify:\/\/collections\/boot-care",
             "outline_text": true
           }
         }
