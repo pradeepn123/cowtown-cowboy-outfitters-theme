@@ -417,14 +417,14 @@
         "0da7006d-3f7c-445e-beea-4a390b373aad": {
           "type": "collection",
           "settings": {
-            "collection": "mens-apparel",
+            "collection": "apparel",
             "image": "shopify:\/\/shop_images\/shop_men.webp"
           }
         },
         "71a1e8d7-01d1-40d2-9ef1-6f2631328763": {
           "type": "collection",
           "settings": {
-            "collection": "mens-footwear",
+            "collection": "footwear",
             "image": "shopify:\/\/shop_images\/slideshow_montana_1.webp"
           }
         },
@@ -438,7 +438,7 @@
         "f8a00187-00e6-43cc-a1de-8250df6886c8": {
           "type": "collection",
           "settings": {
-            "collection": "mens-wedding-collection"
+            "collection": "wedding-collection"
           }
         }
       },
