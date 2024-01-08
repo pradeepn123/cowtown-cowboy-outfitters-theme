@@ -223,15 +223,6 @@
         "disable_top_spacing": true,
         "disable_bottom_spacing": false
       }
-    },
-    "c27d9d6a-19cf-4717-8b68-f81ada440885": {
-      "type": "spacer",
-      "settings": {
-        "spacer_mobile": 0,
-        "spacer_desktop": 40,
-        "border_separator": true,
-        "border_separator_full": true
-      }
     }
   },
   "order": [
@@ -241,7 +232,6 @@
     "dc3a7e96-fa89-4b4a-aa7c-d90584fb15ec",
     "1704709393e2ce0209",
     "product-recommendations",
-    "99e1f32a-bc59-4a01-8af7-b240a296ef02",
-    "c27d9d6a-19cf-4717-8b68-f81ada440885"
+    "99e1f32a-bc59-4a01-8af7-b240a296ef02"
   ]
 }
