@@ -454,7 +454,7 @@
         "mobile_height": "mobile-height-500",
         "full_width": true,
         "content_position": "middle-center",
-        "heading_size": "h1-large",
+        "heading_size": "h1",
         "color_text": "#ffffff",
         "overlay_color": "#000000",
         "overlay_opacity": 30,
