@@ -513,7 +513,7 @@
         "full_width": true,
         "direction": "left",
         "speed": "30s",
-        "text_size": 64,
+        "text_size": 48,
         "text_uppercase": true,
         "image_size": "small",
         "color_bg": "#ffffff",
