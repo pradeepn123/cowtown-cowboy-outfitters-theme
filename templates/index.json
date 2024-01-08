@@ -715,25 +715,11 @@
     "032f7543-efbd-474e-8506-0174251add02": {
       "type": "rich-text",
       "blocks": {
-        "template--15321576013905__032f7543-efbd-474e-8506-0174251add02-subheading-1": {
-          "type": "subheading",
-          "settings": {
-            "text": "ESTD 1958"
-          }
-        },
         "3b251c5f-beea-4cb7-af47-f861509e8684": {
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/ccow-logo-color.png",
             "retina": true
-          }
-        },
-        "template--15321576013905__032f7543-efbd-474e-8506-0174251add02-heading-1": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "text": "Western Tradition, Modern Style!",
-            "size": "h3"
           }
         },
         "template--15321576013905__032f7543-efbd-474e-8506-0174251add02-text-1": {
@@ -761,9 +747,7 @@
         }
       },
       "block_order": [
-        "template--15321576013905__032f7543-efbd-474e-8506-0174251add02-subheading-1",
         "3b251c5f-beea-4cb7-af47-f861509e8684",
-        "template--15321576013905__032f7543-efbd-474e-8506-0174251add02-heading-1",
         "template--15321576013905__032f7543-efbd-474e-8506-0174251add02-text-1",
         "template--15321576013905__032f7543-efbd-474e-8506-0174251add02-button-1",
         "39c79d83-46d0-48c9-8f7b-160b652a1799"
