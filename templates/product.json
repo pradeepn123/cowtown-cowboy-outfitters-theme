@@ -173,7 +173,7 @@
       ],
       "settings": {
         "section_width": "full-width-row",
-        "text_width": "medium",
+        "text_width": "xlarge",
         "text_position": "left",
         "text_alignment": "left",
         "color_bg": "rgba(0,0,0,0)",
