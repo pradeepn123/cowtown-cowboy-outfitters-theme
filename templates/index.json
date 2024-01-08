@@ -772,6 +772,15 @@
         "disable_bottom_spacing": false
       }
     },
+    "be0b3259-d7d8-4f28-9d8e-72de277573f3": {
+      "type": "spacer",
+      "settings": {
+        "spacer_mobile": 0,
+        "spacer_desktop": 0,
+        "border_separator": true,
+        "border_separator_full": true
+      }
+    },
     "1647955648d6a0baee": {
       "type": "featured-blog",
       "settings": {
@@ -862,6 +871,7 @@
     "16615358507b6ff1a8",
     "03248644-d65d-4e3a-83e5-1feae16a04b9",
     "032f7543-efbd-474e-8506-0174251add02",
+    "be0b3259-d7d8-4f28-9d8e-72de277573f3",
     "1647955648d6a0baee",
     "16620983071df6eb29"
   ]
