@@ -149,6 +149,32 @@
         "border_separator_full": true
       }
     },
+    "dc3a7e96-fa89-4b4a-aa7c-d90584fb15ec": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15359156256849__dc3a7e96-fa89-4b4a-aa7c-d90584fb15ec-heading-1": {
+          "type": "heading",
+          "settings": {
+            "text": "Customer Reviews",
+            "size": "h3"
+          }
+        }
+      },
+      "block_order": [
+        "template--15359156256849__dc3a7e96-fa89-4b4a-aa7c-d90584fb15ec-heading-1"
+      ],
+      "settings": {
+        "section_width": "full-width-row",
+        "text_width": "medium",
+        "text_position": "left",
+        "text_alignment": "left",
+        "color_bg": "transparent",
+        "color_text": "#151515",
+        "color_links": "#151515",
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": true
+      }
+    },
     "1704709393e2ce0209": {
       "type": "apps",
       "blocks": {
@@ -195,6 +221,7 @@
     "breadcrumbs",
     "main-product",
     "1662552569cce2536d",
+    "dc3a7e96-fa89-4b4a-aa7c-d90584fb15ec",
     "1704709393e2ce0209",
     "product-recommendations",
     "99e1f32a-bc59-4a01-8af7-b240a296ef02"
