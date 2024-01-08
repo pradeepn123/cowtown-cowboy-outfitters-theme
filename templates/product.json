@@ -91,7 +91,7 @@
         "display_captions": false,
         "hide_variants": true,
         "lightbox": true,
-        "enable_video_looping": false
+        "enable_video_looping": true
       }
     },
     "16623877721f33fb14": {
