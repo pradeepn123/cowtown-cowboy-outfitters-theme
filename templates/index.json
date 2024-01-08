@@ -477,7 +477,7 @@
         "581d9c79-a7ba-4a9b-885e-faeadeb9fa3b": {
           "type": "text",
           "settings": {
-            "image": "shopify:\/\/shop_images\/star2.svg",
+            "image": "shopify:\/\/shop_images\/icon-toys.svg",
             "text": "Toys",
             "link": "shopify:\/\/collections\/toys",
             "outline_text": true
@@ -486,7 +486,7 @@
         "2f139978-619f-4e66-a406-7a196266c43f": {
           "type": "text",
           "settings": {
-            "image": "shopify:\/\/shop_images\/star1.svg",
+            "image": "shopify:\/\/shop_images\/icon-cologne.svg",
             "text": "Cologne",
             "link": "shopify:\/\/collections\/cologne",
             "outline_text": false
@@ -495,7 +495,7 @@
         "01afd524-1a0a-4858-acc7-7b894e222bbf": {
           "type": "text",
           "settings": {
-            "image": "shopify:\/\/shop_images\/star2.svg",
+            "image": "shopify:\/\/shop_images\/icon-boot_care.svg",
             "text": "Boot Care",
             "link": "shopify:\/\/collections\/boot-care",
             "outline_text": true
