@@ -145,7 +145,7 @@
     "99e1f32a-bc59-4a01-8af7-b240a296ef02": {
       "type": "recently-viewed-products",
       "settings": {
-        "heading": "Recently viewed products",
+        "heading": "Recently viewed products.",
         "heading_left": true,
         "description": "<p>Pick up where you left off<\/p>",
         "full_width": true,
