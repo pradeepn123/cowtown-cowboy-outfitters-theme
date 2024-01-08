@@ -60,10 +60,9 @@
         "show_language_switcher": false,
         "show_currency_switcher": false,
         "mobile_secondary_menu": "",
-        "mobile_promo_image": "shopify:\/\/shop_images\/gallery-apprel.webp",
-        "mobile_promo_heading": "test",
-        "mobile_promo_link_label": "test",
-        "mobile_promo_link": "shopify:\/\/collections"
+        "mobile_promo_heading": "",
+        "mobile_promo_link_label": "",
+        "mobile_promo_link": ""
       }
     }
   },
