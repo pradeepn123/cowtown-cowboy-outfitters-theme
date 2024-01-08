@@ -468,7 +468,7 @@
         "0b2612d0-8401-4857-a46a-9487c6340ed5": {
           "type": "text",
           "settings": {
-            "image": "shopify:\/\/shop_images\/star1.svg",
+            "image": "shopify:\/\/shop_images\/icon-home_decor.svg",
             "text": "Home Decor",
             "link": "shopify:\/\/collections\/home-decor",
             "outline_text": false
