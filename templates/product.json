@@ -158,17 +158,25 @@
             "text": "Customer Reviews",
             "size": "h3"
           }
+        },
+        "a76e32b9-4144-4315-80ac-65ccf80ebe03": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Hear it from our customers!<\/p>",
+            "size": "text-size-regular"
+          }
         }
       },
       "block_order": [
-        "template--15359156256849__dc3a7e96-fa89-4b4a-aa7c-d90584fb15ec-heading-1"
+        "template--15359156256849__dc3a7e96-fa89-4b4a-aa7c-d90584fb15ec-heading-1",
+        "a76e32b9-4144-4315-80ac-65ccf80ebe03"
       ],
       "settings": {
         "section_width": "full-width-row",
         "text_width": "medium",
         "text_position": "left",
         "text_alignment": "left",
-        "color_bg": "transparent",
+        "color_bg": "rgba(0,0,0,0)",
         "color_text": "#151515",
         "color_links": "#151515",
         "disable_top_spacing": false,
