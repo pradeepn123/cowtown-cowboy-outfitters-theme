@@ -74,18 +74,6 @@
             "title": "",
             "text": "<h5>Saddle Up for Exclusive Offers!<\/h5><p>Subscribe to our newsletter and ride the trail of savings.<\/p>"
           }
-        },
-        "5d64fb67-b2c4-477e-bcd7-8516a2e9fc46": {
-          "type": "text",
-          "settings": {
-            "column_size": "medium",
-            "title": "",
-            "text": "",
-            "text_size": "small",
-            "button_text": "",
-            "button_link": "",
-            "show_social_links": false
-          }
         }
       },
       "block_order": [
@@ -94,8 +82,7 @@
         "a09a8a35-bedc-4119-aa04-3ce886faba9d",
         "e0b88d47-869d-4fcb-aad5-2e9bd6ad0c80",
         "919dfa59-648f-4330-afcc-8bb0c24dab8f",
-        "d7a48274-cce6-4e4a-9105-6038567d1f88",
-        "5d64fb67-b2c4-477e-bcd7-8516a2e9fc46"
+        "d7a48274-cce6-4e4a-9105-6038567d1f88"
       ],
       "settings": {
         "full_width": true,
