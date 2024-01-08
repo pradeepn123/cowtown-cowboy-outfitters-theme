@@ -122,7 +122,7 @@
         "d445ff35-842b-4161-b554-9202c690f34d": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/WebPhoto_5__63243.1704213995.1280.1280.png",
+            "image": "shopify:\/\/shop_images\/category_shirts.webp",
             "image_full_width": false,
             "retina": true,
             "title": "Shirts",
@@ -134,7 +134,7 @@
         "da9a5c82-5d46-47b2-bbb0-c6ebf2c6eef6": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Womens_Ariat_R.E.A.L._High_Rise_Fernanda_Boot_Cut_Jean_10040802__56010.1673718552.1280.1280.png",
+            "image": "shopify:\/\/shop_images\/category_jeans.webp",
             "image_full_width": false,
             "retina": true,
             "title": "Jeans",
@@ -146,7 +146,7 @@
         "5e2469e5-97a5-4091-a13e-b1295939a155": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Corral_Boot_Z5009__84478__40552.1662234838.1280.1280.png",
+            "image": "shopify:\/\/shop_images\/category_boots.webp",
             "image_full_width": false,
             "retina": true,
             "title": "Boots",
@@ -158,7 +158,7 @@
         "212a8879-4182-48fb-9d58-cdd353b08239": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/nocona_belt__18498__14906__79008.1662663269.1280.1280.png",
+            "image": "shopify:\/\/shop_images\/category_belts.webp",
             "image_full_width": false,
             "retina": true,
             "title": "Belts",
@@ -170,7 +170,7 @@
         "4646ab80-e900-4fc9-8a8a-b31b4741a00c": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/20193a1cNocona_Ladies_Rectangle_Buckle_Floral_Filigree_prd_85598_s_37927__34815.1692129903.1280.1280.jpg",
+            "image": "shopify:\/\/shop_images\/category_buckles.webp",
             "image_full_width": false,
             "retina": true,
             "title": "Buckles",
@@ -182,7 +182,7 @@
         "a3421fd0-fb4c-4f03-aaa3-f33401b12672": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Horseshoe_Up_Horseshoe_Down_Bracelet_by_Montana_Silversmiths_BC620__76457__34436.1677087244.1280.1280.png",
+            "image": "shopify:\/\/shop_images\/category_jewelry.webp",
             "image_full_width": false,
             "retina": true,
             "title": "Jewelry",
@@ -194,7 +194,7 @@
         "29afcbe3-42b6-43f3-bf9e-ba1c4ee9b9b1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/8b1575a8Ariat_Rodeo_Wallet_Croc_Floral_Embossed_Brown_prd_84366_s_a3552802__73747.1680807946.1280.1280.jpg",
+            "image": "shopify:\/\/shop_images\/category_accessories.webp",
             "image_full_width": false,
             "retina": true,
             "title": "Accessories",
@@ -219,7 +219,7 @@
         "description": "",
         "full_width": true,
         "display_type": "carousel",
-        "image_ratio": "square",
+        "image_ratio": "portrait",
         "columns_desktop": 5,
         "text_alignment": "center",
         "heading_size": "h5",
