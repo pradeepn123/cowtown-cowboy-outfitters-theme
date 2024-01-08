@@ -133,9 +133,9 @@
     "product-recommendations": {
       "type": "product-recommendations",
       "settings": {
-        "heading": "YOU MAY ALSO LIKE",
+        "heading": "You may also like",
         "heading_left": true,
-        "description": "<p>Combine your style with these products<\/p>",
+        "description": "<p>Your style, our suggestions. Explore similar products.<\/p>",
         "full_width": true,
         "mobile_swipe": true,
         "disable_top_spacing": true,
@@ -147,7 +147,7 @@
       "settings": {
         "heading": "Recently viewed products",
         "heading_left": true,
-        "description": "<p>Describe your recently viewed products here<\/p>",
+        "description": "<p>Pick up where you left off<\/p>",
         "full_width": true,
         "mobile_swipe": true,
         "disable_top_spacing": true,
