@@ -831,6 +831,7 @@
           "type": "icon",
           "settings": {
             "icon": "check_mark",
+            "image": "shopify:\/\/shop_images\/icon-legacy.svg",
             "heading": "Legacy of Six Decades",
             "text": "<p>Offering the best in Western wear, <em>since 1958<\/em>.<\/p>"
           }
