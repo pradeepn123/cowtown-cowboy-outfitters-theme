@@ -202,6 +202,15 @@
       "settings": {
       }
     },
+    "d4a50e3c-aca5-442f-ad82-d44e842c1216": {
+      "type": "spacer",
+      "settings": {
+        "spacer_mobile": 10,
+        "spacer_desktop": 40,
+        "border_separator": true,
+        "border_separator_full": true
+      }
+    },
     "product-recommendations": {
       "type": "product-recommendations",
       "settings": {
@@ -210,7 +219,7 @@
         "description": "<p>Your style, our suggestions. Explore similar products.<\/p>",
         "full_width": true,
         "mobile_swipe": true,
-        "disable_top_spacing": true,
+        "disable_top_spacing": false,
         "disable_bottom_spacing": false
       }
     },
@@ -233,6 +242,7 @@
     "1662552569cce2536d",
     "dc3a7e96-fa89-4b4a-aa7c-d90584fb15ec",
     "1704709393e2ce0209",
+    "d4a50e3c-aca5-442f-ad82-d44e842c1216",
     "product-recommendations",
     "99e1f32a-bc59-4a01-8af7-b240a296ef02"
   ]
