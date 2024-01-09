@@ -177,7 +177,7 @@
         "logo_light": "shopify:\/\/shop_images\/ccow-logo-white.png",
         "show_language_switcher": false,
         "show_currency_switcher": false,
-        "mobile_secondary_menu": "secondary-header",
+        "mobile_secondary_menu": "",
         "mobile_promo_heading": "",
         "mobile_promo_link_label": "",
         "mobile_promo_link": ""
