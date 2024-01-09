@@ -48,6 +48,24 @@
     "header": {
       "type": "header",
       "blocks": {
+        "3898c2f0-d8a2-45b7-8c6d-c1f6f15dd0d2": {
+          "type": "megamenu",
+          "settings": {
+            "position": "1",
+            "promo_1_heading": "Promotion heading",
+            "promo_1_link_label": "Shop",
+            "promo_1_link": "",
+            "promo_2_heading": "Promotion heading",
+            "promo_2_link_label": "Shop",
+            "promo_2_link": "",
+            "promo_3_heading": "Promotion heading",
+            "promo_3_link_label": "Shop",
+            "promo_3_link": "",
+            "promo_4_heading": "Promotion heading",
+            "promo_4_link_label": "Shop",
+            "promo_4_link": ""
+          }
+        },
         "bc111df6-f2c4-40b2-a9c5-69c6e5b0f54d": {
           "type": "megamenu",
           "settings": {
@@ -65,10 +83,87 @@
             "promo_4_link_label": "Shop",
             "promo_4_link": ""
           }
+        },
+        "9c605af5-6286-43c1-aeb3-9df5426d9f06": {
+          "type": "megamenu",
+          "settings": {
+            "position": "3",
+            "promo_1_heading": "Promotion heading",
+            "promo_1_link_label": "Shop",
+            "promo_1_link": "",
+            "promo_2_heading": "Promotion heading",
+            "promo_2_link_label": "Shop",
+            "promo_2_link": "",
+            "promo_3_heading": "Promotion heading",
+            "promo_3_link_label": "Shop",
+            "promo_3_link": "",
+            "promo_4_heading": "Promotion heading",
+            "promo_4_link_label": "Shop",
+            "promo_4_link": ""
+          }
+        },
+        "bedaf674-87b6-4817-a2a1-d65ab5cf77ac": {
+          "type": "megamenu",
+          "settings": {
+            "position": "4",
+            "promo_1_heading": "Promotion heading",
+            "promo_1_link_label": "Shop",
+            "promo_1_link": "",
+            "promo_2_heading": "Promotion heading",
+            "promo_2_link_label": "Shop",
+            "promo_2_link": "",
+            "promo_3_heading": "Promotion heading",
+            "promo_3_link_label": "Shop",
+            "promo_3_link": "",
+            "promo_4_heading": "Promotion heading",
+            "promo_4_link_label": "Shop",
+            "promo_4_link": ""
+          }
+        },
+        "89314a03-38c3-4aaa-90e9-fe51e62bb038": {
+          "type": "megamenu",
+          "settings": {
+            "position": "5",
+            "promo_1_heading": "Promotion heading",
+            "promo_1_link_label": "Shop",
+            "promo_1_link": "",
+            "promo_2_heading": "Promotion heading",
+            "promo_2_link_label": "Shop",
+            "promo_2_link": "",
+            "promo_3_heading": "Promotion heading",
+            "promo_3_link_label": "Shop",
+            "promo_3_link": "",
+            "promo_4_heading": "Promotion heading",
+            "promo_4_link_label": "Shop",
+            "promo_4_link": ""
+          }
+        },
+        "c86c1ade-ea63-43b7-a257-72b15391ae66": {
+          "type": "megamenu",
+          "settings": {
+            "position": "6",
+            "promo_1_heading": "Promotion heading",
+            "promo_1_link_label": "Shop",
+            "promo_1_link": "",
+            "promo_2_heading": "Promotion heading",
+            "promo_2_link_label": "Shop",
+            "promo_2_link": "",
+            "promo_3_heading": "Promotion heading",
+            "promo_3_link_label": "Shop",
+            "promo_3_link": "",
+            "promo_4_heading": "Promotion heading",
+            "promo_4_link_label": "Shop",
+            "promo_4_link": ""
+          }
         }
       },
       "block_order": [
-        "bc111df6-f2c4-40b2-a9c5-69c6e5b0f54d"
+        "3898c2f0-d8a2-45b7-8c6d-c1f6f15dd0d2",
+        "bc111df6-f2c4-40b2-a9c5-69c6e5b0f54d",
+        "9c605af5-6286-43c1-aeb3-9df5426d9f06",
+        "bedaf674-87b6-4817-a2a1-d65ab5cf77ac",
+        "89314a03-38c3-4aaa-90e9-fe51e62bb038",
+        "c86c1ade-ea63-43b7-a257-72b15391ae66"
       ],
       "settings": {
         "sticky_header": true,
