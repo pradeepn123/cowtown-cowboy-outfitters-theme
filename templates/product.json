@@ -24,6 +24,7 @@
         },
         "d20d07fc-1acd-491b-88c9-4c436a6f489e": {
           "type": "sku",
+          "disabled": true,
           "settings": {
             "sku_style": "style_vendor"
           }
