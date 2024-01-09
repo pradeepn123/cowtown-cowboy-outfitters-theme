@@ -599,7 +599,7 @@
         "video": "https:\/\/www.youtube.com\/watch?v=_-EitsYcNGw",
         "overlay_opacity": 25,
         "disable_top_spacing": true,
-        "disable_bottom_spacing": true
+        "disable_bottom_spacing": false
       }
     },
     "1662459178b0886a69": {
@@ -615,6 +615,7 @@
       "block_order": [
         "4551cbda-76ff-4a07-a279-a29df7956af6"
       ],
+      "disabled": true,
       "settings": {
         "section_width": "grid",
         "text_width": "medium",
@@ -660,6 +661,7 @@
         "2bf39bcc-dfc9-43ae-b6a4-9cecdb3197c9",
         "f0e5414e-308c-4a64-91b5-1f08b8650731"
       ],
+      "disabled": true,
       "settings": {
         "full_width": true,
         "text_size": "large",
@@ -670,6 +672,25 @@
         "color_text": "#151515",
         "disable_top_spacing": true,
         "disable_bottom_spacing": false
+      }
+    },
+    "17047971555c38cd6f": {
+      "type": "apps",
+      "blocks": {
+        "df19ee3b-7df7-48d5-97b9-c26f208a93cc": {
+          "type": "shopify:\/\/apps\/okendo-product-reviews-ugc\/blocks\/reviews-carousel\/bb689e69-ea70-4661-8fb7-ad24a2e23c29",
+          "settings": {
+            "show_heading": true,
+            "heading": "Customers Love Us",
+            "badge_link": "",
+            "product": ""
+          }
+        }
+      },
+      "block_order": [
+        "df19ee3b-7df7-48d5-97b9-c26f208a93cc"
+      ],
+      "settings": {
       }
     },
     "03248644-d65d-4e3a-83e5-1feae16a04b9": {
@@ -708,7 +729,7 @@
         "color_text": "#ffffff",
         "overlay_color": "#000000",
         "overlay_opacity": 0,
-        "disable_top_spacing": true,
+        "disable_top_spacing": false,
         "disable_bottom_spacing": true
       }
     },
@@ -847,25 +868,6 @@
         "disable_top_spacing": true,
         "disable_bottom_spacing": true
       }
-    },
-    "17047971555c38cd6f": {
-      "type": "apps",
-      "blocks": {
-        "df19ee3b-7df7-48d5-97b9-c26f208a93cc": {
-          "type": "shopify:\/\/apps\/okendo-product-reviews-ugc\/blocks\/reviews-carousel\/bb689e69-ea70-4661-8fb7-ad24a2e23c29",
-          "settings": {
-            "show_heading": true,
-            "heading": "Reviews",
-            "badge_link": "",
-            "product": ""
-          }
-        }
-      },
-      "block_order": [
-        "df19ee3b-7df7-48d5-97b9-c26f208a93cc"
-      ],
-      "settings": {
-      }
     }
   },
   "order": [
@@ -881,11 +883,11 @@
     "cd3dab0c-8d94-4792-89b3-6eee9ec2865d",
     "1662459178b0886a69",
     "16615358507b6ff1a8",
+    "17047971555c38cd6f",
     "03248644-d65d-4e3a-83e5-1feae16a04b9",
     "032f7543-efbd-474e-8506-0174251add02",
     "be0b3259-d7d8-4f28-9d8e-72de277573f3",
     "1647955648d6a0baee",
-    "16620983071df6eb29",
-    "17047971555c38cd6f"
+    "16620983071df6eb29"
   ]
 }
