@@ -604,6 +604,22 @@
       },
       {
         "type": "header",
+        "content": "Title"
+      },
+      {
+        "type": "color",
+        "id": "title_text_color",
+        "label": "Title Text Color",
+        "default": "#ffffff"
+      },
+      {
+        "type": "color",
+        "id": "title_text_color_hover",
+        "label": "Title Text Color on Hover",
+        "default": "#000000"
+      },
+      {
+        "type": "header",
         "content": "Badges"
       },
       {

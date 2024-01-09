@@ -31,7 +31,7 @@
 		{{ article.published_at | date: "%B %d %Y" }}
 	</aside>
 	{% endif %}
-	<h5><a href="{{ article.url }}" title="{{ article.title | escape }}">{{ article.title }}</a></h5>
+	<h5><a href="{{ article.url }}" title="{{ article.title | escape }}">{{ article.title | truncate: 30 }}</a></h5>
 	{% if show_excerpt %}
 	<div class="post-excerpt">
 		<p>{{ article.excerpt_or_content | strip_html | truncatewords: 30 }}</p>

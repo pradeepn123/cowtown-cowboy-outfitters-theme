@@ -1,0 +1,16 @@
+*, h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6, .logolink.text-logo, .heading-font, .h1-xlarge, .h1-large, .customer-addresses .my-address .address-index{
+    font-family: 'Krona One', sans-serif;
+}
+a {
+    color: #000000;
+}
+
+.section-header.section-header--left .section-header--content{
+    justify-content: flex-start;
+}
+.section-header.section-header--center .section-header--content{
+    justify-content: center;
+}
+.section-header.section-header--right .section-header--content{
+    justify-content: flex-end;
+}

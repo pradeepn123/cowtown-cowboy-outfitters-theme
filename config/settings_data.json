@@ -22,6 +22,8 @@
     "products_hover_images_count": 3,
     "products_hover_dots": true,
     "enable_quick_add": false,
+    "title_text_color": "#151515",
+    "title_text_color_hover": "#cf7239",
     "badge_position": "top left",
     "sibling_style": "swatch",
     "free_shipping": true,
