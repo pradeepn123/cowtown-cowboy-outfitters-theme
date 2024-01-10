@@ -2,7 +2,9 @@
   "current": {
     "heading_font": "syne_n7",
     "heading_font_scale": 100,
+    "heading_font_line_height_scale": 120,
     "body_font": "inter_n4",
+    "body_font_line_height_scale": 100,
     "navigation_uppercase": true,
     "product_title_uppercase": true,
     "button_uppercase": true,
