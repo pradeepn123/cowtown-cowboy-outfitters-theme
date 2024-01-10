@@ -46,6 +46,15 @@
         "facets_desktop": "drawer"
       }
     },
+    "05d4b2e3-a1e8-4fc6-a2f2-54ecc52c0caf": {
+      "type": "spacer",
+      "settings": {
+        "spacer_mobile": 50,
+        "spacer_desktop": 100,
+        "border_separator": true,
+        "border_separator_full": true
+      }
+    },
     "166366972953e881f5": {
       "type": "collection-list",
       "settings": {
@@ -54,30 +63,33 @@
         "description": "",
         "full_width": true,
         "collection_list": [
-          "clothing",
-          "denim",
-          "dresses",
-          "knitwear",
-          "long",
-          "pants"
+          "apparel",
+          "footwear",
+          "jewelry",
+          "wedding-collection",
+          "home-decor",
+          "toys",
+          "hats",
+          "belts"
         ],
         "image_ratio": "square",
-        "layout": "grid",
+        "layout": "carousel",
         "style": "style1",
         "columns_desktop": 6,
-        "columns_mobile": "1",
+        "columns_mobile": "2",
         "show_progress_bar": true,
         "mobile_swipe": true,
         "overlay_color": "#000000",
         "overlay_opacity": 0,
         "disable_top_spacing": true,
-        "disable_bottom_spacing": true
+        "disable_bottom_spacing": false
       }
     }
   },
   "order": [
     "main-collection-banner",
     "product-grid",
+    "05d4b2e3-a1e8-4fc6-a2f2-54ecc52c0caf",
     "166366972953e881f5"
   ]
 }
