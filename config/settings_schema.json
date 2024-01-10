@@ -298,6 +298,18 @@
       },
       {
         "type": "color",
+        "id": "color_product_title",
+        "label": "Product Title",
+        "default": "#151515"
+      },
+      {
+        "type": "color",
+        "id": "color_product_title_hover",
+        "label": "Product Title Hover",
+        "default": "#151515"
+      },
+      {
+        "type": "color",
         "id": "color_stars",
         "label": "Star ratings",
         "default": "#FD9A52"

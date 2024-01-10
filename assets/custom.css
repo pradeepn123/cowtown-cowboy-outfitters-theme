@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&display=swap');
+
+h1, h2, h3, h4{
+    font-family: 'Krona One', sans-serif !important;
+}
+product-card .product-card-info .product-card-title {
+    color: var(--color-product-title);
+}
+
+product-card:hover .product-card-info .product-card-title,
+product-card:focus .product-card-info .product-card-title {
+  color: var(--color-product-title-hover);
+}
+
+.section-header.section-header--left .section-header--content{
+    justify-content: flex-start;
+}
+.section-header.section-header--center .section-header--content{
+    justify-content: center;
+}
+.section-header.section-header--right .section-header--content{
+    justify-content: flex-end;
+}

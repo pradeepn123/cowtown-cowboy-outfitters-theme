@@ -27,6 +27,8 @@
 	assign outline_button_label = settings.outline_button_label
 
 	assign color_price = settings.color_price
+	assign color_product_title = settings.color_product_title
+	assign color_product_title_hover = settings.color_product_title_hover
 	assign color_stars = settings.color_stars
 	assign color_dots = settings.color_dots
 
@@ -171,6 +173,12 @@
 
 		{%- if color_price -%}
 			--color-price: {{ color_price }};
+		{%- endif -%}
+		{%- if color_product_title -%}
+			--color-product-title: {{ color_product_title }};
+		{%- endif -%}
+		{%- if color_product_title_hover -%}
+			--color-product-title-hover: {{ color_product_title_hover }};
 		{%- endif -%}
 		{%- if color_stars -%}
 			--color-star: {{ color_stars }};
