@@ -7,6 +7,7 @@
 
 	assign color_bg = section.settings.color_bg | downcase
 	assign color_text = section.settings.color_text
+	assign btn_bgcolor = section.settings.btn_bgcolor
 	assign color_links = section.settings.color_links
 
 	assign disable_top_spacing = section.settings.disable_top_spacing
@@ -19,7 +20,7 @@
 -%}
 <div class="row {{ section_width }}">
 	<div class="small-12 columns">
-		<div class="rich-text text-{{ text_alignment }} text-position-{{ text_position }} text-width-{{ text_width }} section-spacing-padding{% if disable_top_spacing %} section-spacing--disable-top{% endif %}{% if disable_bottom_spacing %} section-spacing--disable-bottom{% endif %}"style="--color-bg: {{ color_bg }}; --color-text: {{ color_text }}; --solid-button-background: {{ color_text }}; --outline-button-label: {{ color_text }}; --solid-button-label: {{ solid_button_label }}; --bg-body: {{ color_bg }}; --color-accent: {{ color_links }}; --color-accent-rgb:  {{ color_links | color_extract: 'red' }}, {{ color_links | color_extract: 'green' }}, {{ color_links | color_extract: 'blue' }};">
+		<div class="rich-text text-{{ text_alignment }} text-position-{{ text_position }} text-width-{{ text_width }} section-spacing-padding{% if disable_top_spacing %} section-spacing--disable-top{% endif %}{% if disable_bottom_spacing %} section-spacing--disable-bottom{% endif %}"style="--color-bg: {{ color_bg }}; --color-text: {{ color_text }}; --solid-button-background: {{ btn_bgcolor }}; --outline-button-label: {{ color_text }}; --solid-button-label: {{ solid_button_label }}; --bg-body: {{ color_bg }}; --color-accent: {{ color_links }}; --color-accent-rgb:  {{ color_links | color_extract: 'red' }}, {{ color_links | color_extract: 'green' }}, {{ color_links | color_extract: 'blue' }};">
 			<div class="rich-text__inner">
 				{% for block in section.blocks %}
 					{%- case block.type -%}
@@ -158,12 +159,18 @@
         "label": "Background",
         "default": "transparent"
       },
-			{
-        "type": "color",
-        "id": "color_text",
-        "label": "Text",
-        "default": "#151515"
-      },
+		{
+			"type": "color",
+			"id": "color_text",
+			"label": "Text",
+			"default": "#151515"
+		},
+		{
+			"type": "color",
+			"id": "btn_bgcolor",
+			"label": "Button background color",
+			"default": "#151515"
+		},
 			{
         "type": "color",
         "id": "color_links",

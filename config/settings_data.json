@@ -1,8 +1,10 @@
 {
   "current": {
     "heading_font": "syne_n7",
-    "heading_font_scale": 125,
+    "heading_font_scale": 100,
+    "heading_font_line_height_scale": 120,
     "body_font": "inter_n4",
+    "body_font_line_height_scale": 100,
     "navigation_uppercase": true,
     "product_title_uppercase": true,
     "button_uppercase": true,
@@ -31,6 +33,8 @@
     "search_product_collection": "newest-arrivals",
     "search_product_collection_limit": 2,
     "currency_code_enabled": true,
+    "title_text_color": "#151515",
+    "title_text_color_hover": "#cf7239",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",

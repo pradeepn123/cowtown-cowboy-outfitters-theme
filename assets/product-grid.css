@@ -117,7 +117,7 @@
         left: 0;
         width: 100%;
         height: 100%;
-        object-fit: cover;
+        object-fit: contain;
         z-index: 5; }
       .product-card .product-featured-image-link .thb-placeholder {
         position: absolute;

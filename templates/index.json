@@ -102,7 +102,7 @@
       "type": "featured-collection",
       "settings": {
         "heading": "Newest Arrivals",
-        "heading_left": true,
+        "title_alignment": "left",
         "description": "",
         "full_width": true,
         "collection": "newest-arrivals",
@@ -215,12 +215,13 @@
       ],
       "settings": {
         "heading": "Shop By Category",
-        "heading_left": true,
+        "title_alignment": "left",
         "description": "",
         "full_width": true,
         "display_type": "carousel",
         "image_ratio": "square",
         "columns_desktop": 5,
+        "columns_mobile": 2,
         "text_alignment": "center",
         "heading_size": "h6",
         "mobile_swipe": true,
@@ -341,12 +342,13 @@
       ],
       "settings": {
         "heading": "Shop By Brands",
-        "heading_left": true,
+        "title_alignment": "left",
         "description": "",
         "full_width": true,
         "display_type": "carousel",
         "image_ratio": "adapt",
         "columns_desktop": 6,
+        "columns_mobile": 1,
         "text_alignment": "left",
         "heading_size": "h6",
         "mobile_swipe": true,
@@ -575,7 +577,7 @@
       ],
       "settings": {
         "heading": "Shop Outerwear",
-        "heading_left": true,
+        "title_alignment": "left",
         "description": "",
         "full_width": true,
         "product_limit": 8,
@@ -615,7 +617,6 @@
       "block_order": [
         "4551cbda-76ff-4a07-a279-a29df7956af6"
       ],
-      "disabled": true,
       "settings": {
         "section_width": "grid",
         "text_width": "medium",
@@ -623,6 +624,7 @@
         "text_alignment": "center",
         "color_bg": "rgba(0,0,0,0)",
         "color_text": "#151515",
+        "btn_bgcolor": "#151515",
         "color_links": "#151515",
         "disable_top_spacing": false,
         "disable_bottom_spacing": true
@@ -634,25 +636,25 @@
         "60961cb1-416e-4c98-a9ec-2a41dfae8911": {
           "type": "quote",
           "settings": {
-            "stars": "",
-            "text": "Add your customer or client quote here to showcase them.",
-            "author": "Testimonial author"
+            "stars": "5",
+            "text": "Always a great experience purchasing anything from Cowtown Cowboy Outfitters.",
+            "author": "Ann Letis"
           }
         },
         "2bf39bcc-dfc9-43ae-b6a4-9cecdb3197c9": {
           "type": "quote",
           "settings": {
-            "stars": "",
-            "text": "Add your customer or client quote here to showcase them.",
-            "author": "Testimonial author"
+            "stars": "5",
+            "text": "Super quick and easy on-line process!",
+            "author": "Joe B"
           }
         },
         "f0e5414e-308c-4a64-91b5-1f08b8650731": {
           "type": "quote",
           "settings": {
-            "stars": "",
-            "text": "Add your customer or client quote here to showcase them.",
-            "author": "Testimonial author"
+            "stars": "5",
+            "text": "Your website is easy to navigate! And purchasing is a breeze. Thank you!!!",
+            "author": "Cindy F"
           }
         }
       },
@@ -661,7 +663,6 @@
         "2bf39bcc-dfc9-43ae-b6a4-9cecdb3197c9",
         "f0e5414e-308c-4a64-91b5-1f08b8650731"
       ],
-      "disabled": true,
       "settings": {
         "full_width": true,
         "text_size": "large",
@@ -690,6 +691,7 @@
       "block_order": [
         "df19ee3b-7df7-48d5-97b9-c26f208a93cc"
       ],
+      "disabled": true,
       "settings": {
       }
     },
@@ -780,6 +782,7 @@
         "text_alignment": "center",
         "color_bg": "rgba(0,0,0,0)",
         "color_text": "#151515",
+        "btn_bgcolor": "#cf7239",
         "color_links": "#151515",
         "disable_top_spacing": false,
         "disable_bottom_spacing": false
