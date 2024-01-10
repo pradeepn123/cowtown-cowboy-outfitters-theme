@@ -55,6 +55,18 @@
         "border_separator_full": true
       }
     },
+    "9944eb65-f6a0-442e-8e66-e23f73668155": {
+      "type": "recently-viewed-products",
+      "settings": {
+        "heading": "Recently viewed products",
+        "heading_left": true,
+        "description": "<p>Describe your recently viewed products here<\/p>",
+        "full_width": true,
+        "mobile_swipe": true,
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": false
+      }
+    },
     "166366972953e881f5": {
       "type": "collection-list",
       "settings": {
@@ -90,6 +102,7 @@
     "main-collection-banner",
     "product-grid",
     "05d4b2e3-a1e8-4fc6-a2f2-54ecc52c0caf",
+    "9944eb65-f6a0-442e-8e66-e23f73668155",
     "166366972953e881f5"
   ]
 }
