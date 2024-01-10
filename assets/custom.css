@@ -91,3 +91,8 @@ product-card:focus .product-card-info .product-card-title {
         width: 30%;
     }
 }
+
+.product-information--inner .product-information--image.top-divider--true {
+    border-top: 1px solid var(--color-border);
+    padding-top: 10px;
+}
