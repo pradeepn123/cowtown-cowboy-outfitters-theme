@@ -28,7 +28,7 @@
 		<div class="section-header--button has--tabs">
 			{%- for block in blocks -%}
 				{%- if block.settings.collection != blank -%}
-					<a class="text-button linked-to-tab{% if forloop.first == true %} active{% endif %}" href="{{ block.settings.collection.url }}">{{ 'sections.featured_collection.shop_collection' | t: collection: block.settings.collection.title }}</a>
+					<a class="text-button linked-to-tab{% if forloop.first == true %} active{% endif %}" href="{{ block.settings.collection.url }}">{{ 'sections.featured_collection.shop_collection' | t: collection: block.settings.collection.title }}{% render 'svg-icons' with 'collection-arrow-northwest' %}</a>
 				{%- else -%}
 					<a class="text-button linked-to-tab{% if forloop.first == true %} active{% endif %}" href="#">{{ 'sections.featured_collection.shop_collection' | t: collection: 'Collection' }}</a>
 				{%- endif -%}
@@ -36,11 +36,11 @@
 		</div>
 		{%- elsif section_heading_button -%}
 		<div class="section-header--button">
-			<a class="text-button" href="{{ section_heading_button.url }}">{{ 'sections.featured_collection.shop_collection' | t: collection: section_heading_button.title }}</a>
+			<a class="text-button" href="{{ section_heading_button.url }}">{{ 'sections.featured_collection.shop_collection' | t: collection: section_heading_button.title }}{% render 'svg-icons' with 'collection-arrow-northwest' %}</a>
 		</div>
 		{%- elsif section_heading_button_blog -%}
 		<div class="section-header--button">
-			<a class="text-button" href="{{ section_heading_button_blog.url }}">{{ 'sections.featured_blog.view_all' | t }}</a>
+			<a class="text-button" href="{{ section_heading_button_blog.url }}">{{ 'sections.featured_blog.view_all' | t }}{% render 'svg-icons' with 'collection-arrow-northwest' %}</a>
 		</div>
 		{%- endif -%}
 	</div>

@@ -4,7 +4,7 @@
       "type": "main-collection-banner",
       "settings": {
         "show_collection_image": true,
-        "show_collection_description": true,
+        "show_collection_description": false,
         "show_subcollections": false,
         "make_heading_uppercase": true,
         "overlay_color": "#000000",
@@ -20,14 +20,15 @@
             "promotion_collection": "",
             "promotion_position": 7,
             "promotion_width": "1",
-            "title": "PROMOTION BANNER",
-            "text": "Add your description text for promotion banner here.",
-            "link_label": "Explore",
+            "image": "shopify:\/\/shop_images\/sale_clearance_image_1.webp",
+            "title": "CLEARANCE SALE",
+            "text": "Limited stock, irresistible prices. Shop now before it's gone!",
+            "link_label": "Shop Now",
             "link": "",
             "use_text_button": true,
-            "block_link": "",
-            "overlay_color": "#000000",
-            "overlay_opacity": 15
+            "block_link": "shopify:\/\/collections\/clearance",
+            "overlay_color": "#151515",
+            "overlay_opacity": 30
           }
         }
       },
@@ -49,8 +50,29 @@
     "05d4b2e3-a1e8-4fc6-a2f2-54ecc52c0caf": {
       "type": "spacer",
       "settings": {
-        "spacer_mobile": 50,
-        "spacer_desktop": 100,
+        "spacer_mobile": 0,
+        "spacer_desktop": 0,
+        "border_separator": true,
+        "border_separator_full": true
+      }
+    },
+    "9944eb65-f6a0-442e-8e66-e23f73668155": {
+      "type": "recently-viewed-products",
+      "settings": {
+        "heading": "Recently viewed products",
+        "heading_left": true,
+        "description": "<p>Pick up where you left off<\/p>",
+        "full_width": true,
+        "mobile_swipe": true,
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": true
+      }
+    },
+    "896d50d9-28cc-4949-9d7f-ff2c9bea19d3": {
+      "type": "spacer",
+      "settings": {
+        "spacer_mobile": 0,
+        "spacer_desktop": 0,
         "border_separator": true,
         "border_separator_full": true
       }
@@ -75,13 +97,13 @@
         "image_ratio": "square",
         "layout": "carousel",
         "style": "style1",
-        "columns_desktop": 6,
+        "columns_desktop": 5,
         "columns_mobile": "2",
         "show_progress_bar": false,
         "mobile_swipe": true,
         "overlay_color": "#000000",
         "overlay_opacity": 0,
-        "disable_top_spacing": true,
+        "disable_top_spacing": false,
         "disable_bottom_spacing": false
       }
     }
@@ -90,6 +112,8 @@
     "main-collection-banner",
     "product-grid",
     "05d4b2e3-a1e8-4fc6-a2f2-54ecc52c0caf",
+    "9944eb65-f6a0-442e-8e66-e23f73668155",
+    "896d50d9-28cc-4949-9d7f-ff2c9bea19d3",
     "166366972953e881f5"
   ]
 }
