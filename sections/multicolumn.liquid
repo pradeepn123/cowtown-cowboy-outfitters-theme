@@ -50,45 +50,47 @@
         <div class="row align-stretch no-padding {{ display_type }}">
           {%- for block in section.blocks -%}
             <div class="multicolumn__column {{ columns_mobile_class }} {{ columns_desktop_class }} columns {% if display_type == 'carousel' %}carousel__slide{% endif %}">
-              {% if block.settings.image != blank %}
-                {%- liquid
-                  assign ratio = 1
-                  assign max_width = block.settings.image.width | append: 'px'
+				{% if block.settings.card_link != blank %}<a href="{{ block.settings.card_link }}" target="_blank">{% endif %}
+					{% if block.settings.image != blank %}
+						{%- liquid
+						assign ratio = 1
+						assign max_width = block.settings.image.width | append: 'px'
 
-                  if block.settings.retina
-                    assign max_width = block.settings.image.width | divided_by: 2 | append: 'px'
-                  endif
-                  if image_ratio == 'adapt'
-                    assign ratio = block.settings.image.aspect_ratio
-                  endif
-                  if block.settings.image_full_width
-                    assign max_width = '100%'
-                  endif
-                -%}
-                <figure class="multicolumn__image" style="width: {{ max_width }};">
-                  <div
-                    class="multicolumn__image--inner aspect-ratio aspect-ratio--{{ image_ratio }}"
-                    style="--ratio-percent: {{ 1 | divided_by: ratio | times: 100 }}%;"
-                  >
-                    {%- render 'responsive-image',
-                      image: block.settings.image,
-                      sizes: '407x0,814x0',
-                      retina: block.settings.retina
-                    -%}
-                  </div>
-                </figure>
-              {% endif %}
-              {% if block.settings.title != blank %}
-                <h4 class="{{ heading_size }}">{{ block.settings.title | newline_to_br }}</h4>
-              {% endif %}
-              {% if block.settings.text != blank %}
-                <div class="rte" {{ block.shopify_attributes }}>{{ block.settings.text }}</div>
-              {% endif %}
-              {% if block.settings.link_label != blank %}
-                <a class="text-button" href="{{ block.settings.link }}"
-                  ><span>{{ block.settings.link_label }}</span></a
-                >
-              {% endif %}
+						if block.settings.retina
+							assign max_width = block.settings.image.width | divided_by: 2 | append: 'px'
+						endif
+						if image_ratio == 'adapt'
+							assign ratio = block.settings.image.aspect_ratio
+						endif
+						if block.settings.image_full_width
+							assign max_width = '100%'
+						endif
+						-%}
+						<figure class="multicolumn__image" style="width: {{ max_width }};">
+							<div
+								class="multicolumn__image--inner aspect-ratio aspect-ratio--{{ image_ratio }}"
+								style="--ratio-percent: {{ 1 | divided_by: ratio | times: 100 }}%;"
+							>
+								{%- render 'responsive-image',
+								image: block.settings.image,
+								sizes: '407x0,814x0',
+								retina: block.settings.retina
+								-%}
+							</div>
+						</figure>
+					{% endif %}
+					{% if block.settings.title != blank %}
+						<h4 class="{{ heading_size }}">{{ block.settings.title | newline_to_br }}</h4>
+					{% endif %}
+					{% if block.settings.text != blank %}
+						<div class="rte" {{ block.shopify_attributes }}>{{ block.settings.text }}</div>
+					{% endif %}
+					{% if block.settings.link_label != blank %}
+						<a class="text-button" href="{{ block.settings.link }}"
+						><span>{{ block.settings.link_label }}</span></a
+						>
+					{% endif %}
+				{% if block.settings.card_link != blank %}</a>{% endif %}
             </div>
           {%- endfor -%}
           {%- if display_type == 'carousel' -%}
@@ -116,10 +118,11 @@
       "label": "Heading",
       "default": "Multicolumn"
     },
+
     {
 		"type": "select",
 		"id": "title_alignment",
-		"label": "Text alignment",
+		"label": "Title alignment",
 		"options": [
 		  {
 			"value": "left",
@@ -311,6 +314,11 @@
           "default": true,
           "info": "Image will be displayed at half the size, making it look crisp on retina screens."
         },
+		{
+			"type": "url",
+			"id": "card_link",
+			"label": "Card Link"
+		},
         {
           "type": "text",
           "id": "title",

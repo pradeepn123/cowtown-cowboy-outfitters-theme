@@ -120,5 +120,5 @@
         transform: skew(-10deg, 0); }
     .featured-collection-list--button:not(.active) {
       -webkit-text-fill-color: transparent;
-      -webkit-text-stroke-width: 1px;
+      -webkit-text-stroke-width: 0.01em;
       -webkit-text-stroke-color: var(--color-text, #fff); }
