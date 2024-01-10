@@ -616,10 +616,6 @@
       },
       {
         "type": "header",
-        "content": "Title"
-      },
-      {
-        "type": "header",
         "content": "Badges"
       },
       {
