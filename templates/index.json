@@ -128,7 +128,7 @@
             "title": "Shirts",
             "text": "",
             "link_label": "",
-            "link": "shopify:\/\/collections\/shirts"
+            "link": ""
           }
         },
         "da9a5c82-5d46-47b2-bbb0-c6ebf2c6eef6": {
@@ -221,7 +221,7 @@
         "display_type": "carousel",
         "image_ratio": "square",
         "columns_desktop": 5,
-        "text_alignment": "center",
+        "text_alignment": "left",
         "heading_size": "h6",
         "mobile_swipe": true,
         "show_progress_bar": true,
