@@ -1,7 +1,7 @@
 {
   "current": {
     "heading_font": "syne_n7",
-    "heading_font_scale": 125,
+    "heading_font_scale": 100,
     "body_font": "inter_n4",
     "navigation_uppercase": true,
     "product_title_uppercase": true,
@@ -22,8 +22,6 @@
     "products_hover_images_count": 3,
     "products_hover_dots": true,
     "enable_quick_add": false,
-    "title_text_color": "#151515",
-    "title_text_color_hover": "#cf7239",
     "badge_position": "top left",
     "sibling_style": "swatch",
     "free_shipping": true,
@@ -33,6 +31,8 @@
     "search_product_collection": "newest-arrivals",
     "search_product_collection_limit": 2,
     "currency_code_enabled": true,
+    "title_text_color": "#151515",
+    "title_text_color_hover": "#cf7239",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
