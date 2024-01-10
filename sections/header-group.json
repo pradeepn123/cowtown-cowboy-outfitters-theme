@@ -26,7 +26,7 @@
           "settings": {
             "icon": "fire",
             "text": "New Arrivals Just In - Shop Now",
-            "link": ""
+            "link": "shopify:\/\/collections\/newest-arrivals"
           }
         }
       },
