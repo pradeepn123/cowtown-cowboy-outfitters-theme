@@ -27,15 +27,16 @@
       assign columns_desktop_class = 'medium-4 large-2'
   endcase
 -%}
-<div class="multicolumn text-{{ text_alignment }}{% if mobile_swipe and display_type == 'grid' %} swipe-on-mobile{% endif %} section-spacing{% if disable_top_spacing %} section-spacing--disable-top{% endif %}{% if disable_bottom_spacing %} section-spacing--disable-bottom{% endif %}">
+<div class="multicolumn {% if mobile_swipe and display_type == 'grid' %} swipe-on-mobile{% endif %} section-spacing{% if disable_top_spacing %} section-spacing--disable-top{% endif %}{% if disable_bottom_spacing %} section-spacing--disable-bottom{% endif %}">
   <div class="row{% if full_width %} full-width-row{% endif %}">
     <div class="small-12 columns">
-      {% render 'section-header',
-        section_heading: section_heading,
-        section_description: section_description,
-		section_title_alignment: section_title_alignment
-      %}
-      <div class="multicolumn__inner display-type--{{ display_type }}">
+		{% render 'section-header',
+			section_heading: section_heading,
+			section_description: section_description,
+			section_title_alignment: section_title_alignment,
+			section_heading_button: section_heading_button
+		%}
+      <div class="multicolumn__inner text-{{ text_alignment }} display-type--{{ display_type }}">
         <div class="row align-stretch no-padding {{ display_type }}">
           {%- for block in section.blocks -%}
             <div class="multicolumn__column small-12 {{ columns_desktop_class }} columns {% if display_type == 'carousel' %}carousel__slide{% endif %}">
