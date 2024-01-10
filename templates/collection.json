@@ -20,12 +20,12 @@
             "promotion_collection": "",
             "promotion_position": 7,
             "promotion_width": "1",
-            "title": "PROMOTION BANNER",
-            "text": "Add your description text for promotion banner here.",
-            "link_label": "Explore",
+            "title": "SALE",
+            "text": "Limited stock, irresistible prices. Shop now before it's gone!",
+            "link_label": "Shop Now",
             "link": "",
             "use_text_button": true,
-            "block_link": "",
+            "block_link": "shopify:\/\/collections\/clearance",
             "overlay_color": "#000000",
             "overlay_opacity": 15
           }
