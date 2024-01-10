@@ -22,3 +22,13 @@
       color: var(--color-text, var(--color-body)); }
   .email-signup .section-header--content .h3 {
     color: var(--color-text, var(--color-accent)); }
+
+.email-signup .email-signup--inner .section-header.section-header--left .section-header--content{
+  align-items: flex-start;
+}
+.email-signup .email-signup--inner .section-header.section-header--center .section-header--content{
+  align-items: center;
+}
+.email-signup .email-signup--inner .section-header.section-header--right .section-header--content{
+  align-items: flex-end;
+}
