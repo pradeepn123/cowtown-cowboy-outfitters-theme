@@ -816,7 +816,7 @@
       "type": "featured-blog",
       "settings": {
         "heading": "Latest Blog Posts",
-        "heading_left": true,
+        "title_alignment": "left",
         "description": "<p>Dive into a world of fashion insights, trendspotting, and expert tips. <\/p>",
         "full_width": true,
         "blog": "default-blog",

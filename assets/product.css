@@ -487,8 +487,7 @@
   display: block;
   text-align: center;
   padding-bottom: 15px;
-  margin-bottom: 20px;
-  border-bottom: 1px solid var(--color-border); }
+  margin-bottom: 20px; }
 
 .thb-product-detail .product-price-container .price {
   font-size: 1.25rem;
