@@ -20,14 +20,15 @@
             "promotion_collection": "",
             "promotion_position": 7,
             "promotion_width": "1",
-            "title": "SALE",
+            "image": "shopify:\/\/shop_images\/sale_clearance_image_1.webp",
+            "title": "CLEARANCE SALE",
             "text": "Limited stock, irresistible prices. Shop now before it's gone!",
             "link_label": "Shop Now",
             "link": "",
             "use_text_button": true,
             "block_link": "shopify:\/\/collections\/clearance",
-            "overlay_color": "#000000",
-            "overlay_opacity": 15
+            "overlay_color": "#151515",
+            "overlay_opacity": 30
           }
         }
       },
