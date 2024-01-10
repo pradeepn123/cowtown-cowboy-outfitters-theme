@@ -346,7 +346,7 @@
         "full_width": true,
         "display_type": "carousel",
         "image_ratio": "adapt",
-        "columns_desktop": 6,
+        "columns_desktop": 5,
         "text_alignment": "left",
         "heading_size": "h6",
         "mobile_swipe": true,
