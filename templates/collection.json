@@ -58,9 +58,9 @@
     "166366972953e881f5": {
       "type": "collection-list",
       "settings": {
-        "heading": "",
-        "heading_left": false,
-        "description": "",
+        "heading": "Explore More Collections",
+        "heading_left": true,
+        "description": "<p>Shop now to uncover unique pieces that suit your taste and preferences.<\/p>",
         "full_width": true,
         "collection_list": [
           "apparel",
@@ -77,7 +77,7 @@
         "style": "style1",
         "columns_desktop": 6,
         "columns_mobile": "2",
-        "show_progress_bar": true,
+        "show_progress_bar": false,
         "mobile_swipe": true,
         "overlay_color": "#000000",
         "overlay_opacity": 0,
