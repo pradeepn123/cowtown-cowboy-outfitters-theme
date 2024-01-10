@@ -75,7 +75,7 @@
         "image_ratio": "square",
         "layout": "carousel",
         "style": "style1",
-        "columns_desktop": 6,
+        "columns_desktop": 5,
         "columns_mobile": "2",
         "show_progress_bar": false,
         "mobile_swipe": true,
