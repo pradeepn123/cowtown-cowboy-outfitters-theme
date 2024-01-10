@@ -77,14 +77,28 @@
 }
 
 .collection-tabs .section-header .section-header--button.has--tabs .linked-to-tab.active{  
-  font-size: 20px;  
+  font-size: 15px;
   font-weight: 500;
   letter-spacing: -0.4px;
   text-decoration-line: underline;
   text-transform: uppercase;
 }
+
+.collection-tabs .section-header .section-header--button.has--tabs .linked-to-tab.active svg {
+  width: 16px;
+}
+
 .collection-tabs .section-header .section-header--button.has--tabs .linked-to-tab.active::before{
   background: transparent;
+}
+
+@media only screen and (min-width: 767px) {
+  .collection-tabs .section-header .section-header--button.has--tabs .linked-to-tab.active{  
+    font-size: 20px;
+  }
+  .collection-tabs .section-header .section-header--button.has--tabs .linked-to-tab.active svg {
+    width: 100%;
+  }
 }
 
 .collection-tabs .section-header.section-header--left .section-header--content h2{
