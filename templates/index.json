@@ -220,6 +220,9 @@
         "a3421fd0-fb4c-4f03-aaa3-f33401b12672",
         "29afcbe3-42b6-43f3-bf9e-ba1c4ee9b9b1"
       ],
+      "custom_css": [
+        ".multicolumn__column:hover h4 {color: #cf7239;}"
+      ],
       "settings": {
         "heading": "Shop By Category",
         "title_alignment": "left",
@@ -814,6 +817,9 @@
     },
     "1647955648d6a0baee": {
       "type": "featured-blog",
+      "custom_css": [
+        ".blog-post:hover h5 a {color: #cf7239;}"
+      ],
       "settings": {
         "heading": "Latest Blog Posts",
         "description": "<p>Dive into a world of fashion insights, trendspotting, and expert tips. <\/p>",

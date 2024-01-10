@@ -96,3 +96,13 @@ product-card:focus .product-card-info .product-card-title {
     border-top: 1px solid var(--color-border);
     padding-top: 10px;
 }
+
+.blog-posts .blog-post h5 a {
+    color: #151515;
+    display: -webkit-box;
+    max-width: 400px;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
