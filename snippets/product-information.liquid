@@ -175,7 +175,7 @@
         {%- endif -%}
       </product-recommendations>
     {%- when 'image' -%}
-      <div class="product-information--image {% if block.settings.line_spacing != blank %}top-divider--{{ block.settings.line_spacing }}{%- endif -%} {{ block.settings.position }}" {{ block.shopify_attributes }}>
+      <div class="product-information--image {% if block.settings.line_spacing != blank %} top-divider--{{ block.settings.line_spacing }} {%- endif -%} {{ block.settings.position }}" {{ block.shopify_attributes }}>
         {% if block.settings.image %}
         {%- liquid
           assign image = block.settings.image
