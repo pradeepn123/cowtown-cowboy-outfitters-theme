@@ -22,7 +22,11 @@
           "cowboy-boots-shoes-and-sandals",
           "womens-apparel",
           "wedding-collection-women",
-          "clearance-women"
+          "clearance-women",
+          "belts-womens-accessories",
+          "womens-belts",
+          "womens-jewelry",
+          "womens-accessories"
         ],
         "image_ratio": "square",
         "layout": "carousel",
