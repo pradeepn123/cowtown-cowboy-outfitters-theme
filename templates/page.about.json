@@ -144,23 +144,17 @@
     "rich_text_erpEwg": {
       "type": "rich-text",
       "blocks": {
-        "subheading_aGVq4J": {
-          "type": "subheading",
-          "settings": {
-            "text": "Subheading for this section"
-          }
-        },
         "heading_F8YyXM": {
           "type": "heading",
           "settings": {
-            "text": "Talk about your brand",
-            "size": "h3"
+            "text": "At Cowtown Cowboy Outfitters,",
+            "size": "h4"
           }
         },
         "text_NVAier": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
+            "text": "<p> we offer a diverse range of high-quality merchandise for your entire family. As a full-line western wear store, we hand-select the very best cowboy boots for men, women, and children. Our collection of cowboy hats spans a wide range of prices, from budget-friendly options to high-end felt hats.<\/p>",
             "size": "text-size-regular"
           }
         },
@@ -174,7 +168,6 @@
         }
       },
       "block_order": [
-        "subheading_aGVq4J",
         "heading_F8YyXM",
         "text_NVAier",
         "button_xWXErP"
