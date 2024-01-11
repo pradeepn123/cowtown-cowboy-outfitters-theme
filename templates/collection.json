@@ -3,7 +3,7 @@
     "main-collection-banner": {
       "type": "main-collection-banner",
       "settings": {
-        "show_collection_image": true,
+        "show_collection_image": false,
         "show_collection_description": false,
         "show_subcollections": false,
         "make_heading_uppercase": true,
@@ -14,7 +14,7 @@
     "collection_list_4jdWb3": {
       "type": "collection-list",
       "settings": {
-        "heading": "Shop By {{ collection.title }}",
+        "heading": "",
         "heading_left": false,
         "description": "",
         "full_width": true,
@@ -27,7 +27,7 @@
         "image_ratio": "square",
         "layout": "carousel",
         "style": "style1",
-        "columns_desktop": 5,
+        "columns_desktop": 6,
         "columns_mobile": "1",
         "show_progress_bar": true,
         "mobile_swipe": true,
