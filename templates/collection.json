@@ -44,7 +44,7 @@
         "enable_sorting": true,
         "show_counts": true,
         "filter_color_swatches": true,
-        "facets_desktop": "drawer"
+        "facets_desktop": "sidebar"
       }
     },
     "05d4b2e3-a1e8-4fc6-a2f2-54ecc52c0caf": {
