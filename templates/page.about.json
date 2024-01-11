@@ -163,7 +163,7 @@
           "settings": {
             "link_label": "Learn More",
             "link": "",
-            "button_outline": false
+            "button_outline": true
           }
         }
       },
