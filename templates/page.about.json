@@ -3,6 +3,12 @@
     "16616191162185f622": {
       "type": "rich-text",
       "blocks": {
+        "subheading_aNqcFz": {
+          "type": "subheading",
+          "settings": {
+            "text": "OUR STORY"
+          }
+        },
         "image_Rn8fAf": {
           "type": "image",
           "settings": {
@@ -12,9 +18,9 @@
         }
       },
       "block_order": [
+        "subheading_aNqcFz",
         "image_Rn8fAf"
       ],
-      "disabled": true,
       "settings": {
         "section_width": "full-width-row",
         "text_width": "grid",
@@ -24,56 +30,6 @@
         "color_text": "#151515",
         "btn_bgcolor": "#151515",
         "color_links": "#cf7239",
-        "disable_top_spacing": false,
-        "disable_bottom_spacing": false
-      }
-    },
-    "multicolumn_zkYW4m": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_3ExxeJ": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/ccow-logo-fancy.png",
-            "image_full_width": false,
-            "retina": true,
-            "card_link": "",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_hPnrAh": {
-          "type": "column",
-          "settings": {
-            "image_full_width": false,
-            "retina": true,
-            "card_link": "",
-            "title": "",
-            "text": "<h1>Our Story<\/h1>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_3ExxeJ",
-        "column_hPnrAh"
-      ],
-      "settings": {
-        "heading": "",
-        "title_alignment": "center",
-        "description": "",
-        "full_width": false,
-        "display_type": "grid",
-        "image_ratio": "adapt",
-        "columns_desktop": 2,
-        "columns_mobile": 1,
-        "text_alignment": "center",
-        "heading_size": "h3",
-        "mobile_swipe": false,
-        "show_progress_bar": false,
         "disable_top_spacing": false,
         "disable_bottom_spacing": false
       }
@@ -112,7 +68,7 @@
         "text_PEQK6F": {
           "type": "text",
           "settings": {
-            "text": "COWTOWN COWBOY OUTFITTERS",
+            "text": "Welcome to Cowtown Cowboy Outfitters",
             "link": "",
             "outline_text": false
           }
@@ -120,7 +76,7 @@
         "text_QMHQB8": {
           "type": "text",
           "settings": {
-            "text": "COWTOWN COWBOY OUTFITTERS",
+            "text": "Welcome to Cowtown Cowboy Outfitters",
             "link": "",
             "outline_text": true
           }
@@ -471,7 +427,6 @@
   },
   "order": [
     "16616191162185f622",
-    "multicolumn_zkYW4m",
     "rich_text_pA7wmV",
     "scrolling_text_kX3DVQ",
     "scrolling_text_FgcrHT",
