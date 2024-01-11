@@ -161,7 +161,7 @@
         "button_xWXErP": {
           "type": "button",
           "settings": {
-            "link_label": "Learn More",
+            "link_label": "Explore products",
             "link": "",
             "button_outline": true
           }
@@ -188,29 +188,22 @@
     "image_with_text_XKh6Cg": {
       "type": "image-with-text",
       "blocks": {
-        "subheading_d6wp8A": {
-          "type": "subheading",
-          "settings": {
-            "text": "Add a tagline"
-          }
-        },
         "heading_hAwiWa": {
           "type": "heading",
           "settings": {
-            "text": "Image with text",
-            "heading_size": "h3"
+            "text": "But we're more than just boots and hats.",
+            "heading_size": "h4"
           }
         },
         "text_QEThzN": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Our Western clothing combines modern style with authentic flair, ensuring you'll find the latest items to adore. Our jewelry collection strikes the perfect balance between affordability and elegance.<\/p>",
             "description_size": "medium"
           }
         }
       },
       "block_order": [
-        "subheading_d6wp8A",
         "heading_hAwiWa",
         "text_QEThzN"
       ],
@@ -234,29 +227,22 @@
     "image_with_text_rtVEp4": {
       "type": "image-with-text",
       "blocks": {
-        "subheading_Pp8d4p": {
-          "type": "subheading",
-          "settings": {
-            "text": "Add a tagline"
-          }
-        },
         "heading_xGRxcC": {
           "type": "heading",
           "settings": {
-            "text": "Image with text",
-            "heading_size": "h3"
+            "text": "Transform your home,",
+            "heading_size": "h4"
           }
         },
         "text_3gXrAA": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>with our Western-inspired home décor pieces, including blankets, pictures, candles, and more. Don't forget to explore our selection of infant and children's clothing, perfect for gifts or outfitting your littlest buckaroos!<\/p>",
             "description_size": "medium"
           }
         }
       },
       "block_order": [
-        "subheading_Pp8d4p",
         "heading_xGRxcC",
         "text_3gXrAA"
       ],
@@ -280,29 +266,22 @@
     "image_with_text_eDfPxV": {
       "type": "image-with-text",
       "blocks": {
-        "subheading_FExdVQ": {
-          "type": "subheading",
-          "settings": {
-            "text": "Add a tagline"
-          }
-        },
         "heading_awrrXb": {
           "type": "heading",
           "settings": {
-            "text": "Image with text",
-            "heading_size": "h3"
+            "text": "At Cowtown Cowboy Outfitters,",
+            "heading_size": "h4"
           }
         },
         "text_aCJN49": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>we're not a big corporate entity; we're a small-town business that genuinely cares about our customers. We invite you to become a part of our family and experience the \"Best of the West in the East.\" Your visit to our store means the world to us, and I personally want to extend my heartfelt thanks for being here.<\/p>",
             "description_size": "medium"
           }
         }
       },
       "block_order": [
-        "subheading_FExdVQ",
         "heading_awrrXb",
         "text_aCJN49"
       ],
@@ -322,6 +301,49 @@
         "disable_top_spacing": true,
         "disable_bottom_spacing": false
       }
+    },
+    "rich_text_9CMrJ7": {
+      "type": "rich-text",
+      "blocks": {
+        "text_HBYUmB": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Saddle up and explore the rich heritage and contemporary style that Cowtown Cowboy Outfitters has to offer. We can't wait to serve you and provide you with the best in Western wear and accessories.<\/p>",
+            "size": "text-size-regular"
+          }
+        },
+        "text_iPRa63": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Warm regards,<\/p><p><em>Suzanne Zigo<\/em><br\/>Owner, Cowtown Cowboy Outfitters<br\/><\/p>",
+            "size": "text-size-regular"
+          }
+        },
+        "image_fCB8yH": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/image_2024-01-11_172824495.png",
+            "retina": true
+          }
+        }
+      },
+      "block_order": [
+        "text_HBYUmB",
+        "text_iPRa63",
+        "image_fCB8yH"
+      ],
+      "settings": {
+        "section_width": "grid",
+        "text_width": "medium",
+        "text_position": "center",
+        "text_alignment": "center",
+        "color_bg": "transparent",
+        "color_text": "#151515",
+        "btn_bgcolor": "#151515",
+        "color_links": "#151515",
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": false
+      }
     }
   },
   "order": [
@@ -331,6 +353,7 @@
     "rich_text_erpEwg",
     "image_with_text_XKh6Cg",
     "image_with_text_rtVEp4",
-    "image_with_text_eDfPxV"
+    "image_with_text_eDfPxV",
+    "rich_text_9CMrJ7"
   ]
 }
