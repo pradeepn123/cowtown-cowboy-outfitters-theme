@@ -47,11 +47,82 @@
         "text_position": "center",
         "text_alignment": "center",
         "color_bg": "rgba(0,0,0,0)",
-        "color_text": "#151515",
+        "color_text": "#cf7239",
         "btn_bgcolor": "#151515",
         "color_links": "#cf7239",
         "disable_top_spacing": true,
         "disable_bottom_spacing": false
+      }
+    },
+    "scrolling_text_kX3DVQ": {
+      "type": "scrolling-text",
+      "blocks": {
+        "text_PEQK6F": {
+          "type": "text",
+          "settings": {
+            "text": "COWTOWN COWBOY OUTFITTERS",
+            "link": "",
+            "outline_text": false
+          }
+        },
+        "text_QMHQB8": {
+          "type": "text",
+          "settings": {
+            "text": "COWTOWN COWBOY OUTFITTERS",
+            "link": "",
+            "outline_text": true
+          }
+        }
+      },
+      "block_order": [
+        "text_PEQK6F",
+        "text_QMHQB8"
+      ],
+      "settings": {
+        "height": "height-auto",
+        "full_width": true,
+        "direction": "left",
+        "speed": "20s",
+        "text_size": 24,
+        "text_uppercase": false,
+        "image_size": "large",
+        "color_bg": "#cf7239",
+        "color_text": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0,
+        "disable_top_spacing": true,
+        "disable_bottom_spacing": true
+      }
+    },
+    "scrolling_text_FgcrHT": {
+      "type": "scrolling-text",
+      "blocks": {
+        "text_3hhbPV": {
+          "type": "text",
+          "settings": {
+            "text": "Where Western Tradition Meets Modern Style!",
+            "link": "",
+            "outline_text": false
+          }
+        }
+      },
+      "block_order": [
+        "text_3hhbPV"
+      ],
+      "settings": {
+        "height": "height-auto",
+        "full_width": true,
+        "direction": "right",
+        "speed": "20s",
+        "text_size": 24,
+        "text_uppercase": false,
+        "image_size": "large",
+        "color_bg": "#733b2e",
+        "color_text": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0,
+        "disable_top_spacing": true,
+        "disable_bottom_spacing": true
       }
     },
     "vertical_slideshow_r3FMVT": {
@@ -177,7 +248,7 @@
         "text_width": "medium",
         "text_position": "center",
         "text_alignment": "center",
-        "color_bg": "transparent",
+        "color_bg": "rgba(0,0,0,0)",
         "color_text": "#151515",
         "btn_bgcolor": "#151515",
         "color_links": "#151515",
@@ -337,7 +408,7 @@
         "text_width": "medium",
         "text_position": "center",
         "text_alignment": "center",
-        "color_bg": "transparent",
+        "color_bg": "rgba(0,0,0,0)",
         "color_text": "#151515",
         "btn_bgcolor": "#151515",
         "color_links": "#151515",
@@ -349,6 +420,8 @@
   "order": [
     "16616191162185f622",
     "rich_text_pA7wmV",
+    "scrolling_text_kX3DVQ",
+    "scrolling_text_FgcrHT",
     "vertical_slideshow_r3FMVT",
     "rich_text_erpEwg",
     "image_with_text_XKh6Cg",
