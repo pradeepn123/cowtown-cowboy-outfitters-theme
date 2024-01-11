@@ -29,7 +29,7 @@
     "show_products_rating": false,
     "badge_position": "top left",
     "sibling_style": "swatch",
-    "color_swatches": "WHITE: #f1f1f1\nBrown: #744938\nMULTI: swatch-multi.jpg",
+    "color_swatches": "WHITE: #f1f1f1\nBrown: #744938\nMULTI: swatch-multi.jpg\nOther: swatch-other.jpg",
     "free_shipping": true,
     "free_shipping_minimum": "99",
     "search_menu": "main-menu",
