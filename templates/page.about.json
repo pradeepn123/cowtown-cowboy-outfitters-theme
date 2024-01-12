@@ -65,24 +65,24 @@
     "rich_text_VzMCV4": {
       "type": "rich-text",
       "blocks": {
-        "text_zwUd8t": {
-          "type": "text",
+        "heading_G9PnkQ": {
+          "type": "heading",
           "settings": {
-            "text": "<h5><strong>Welcome to Cowtown Cowboy Outfitters – Where Western Tradition Meets Modern Style!<\/strong><\/h5>",
-            "size": "text-size-large"
+            "text": "Welcome to Cowtown Cowboy Outfitters – Where Western Tradition Meets Modern Style!",
+            "size": "h4"
           }
         }
       },
       "block_order": [
-        "text_zwUd8t"
+        "heading_G9PnkQ"
       ],
       "settings": {
         "section_width": "grid",
-        "text_width": "medium",
+        "text_width": "xlarge",
         "text_position": "center",
         "text_alignment": "center",
         "color_bg": "transparent",
-        "color_text": "#151515",
+        "color_text": "#cf7239",
         "btn_bgcolor": "#151515",
         "color_links": "#151515",
         "disable_top_spacing": true,
