@@ -83,6 +83,7 @@
         },
         "slide_yqykEJ": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "slide_link": "",
             "video_background": true,
