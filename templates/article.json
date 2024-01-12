@@ -44,6 +44,15 @@
         "article_show_author": true
       }
     },
+    "spacer_iPzLkc": {
+      "type": "spacer",
+      "settings": {
+        "spacer_mobile": 0,
+        "spacer_desktop": 0,
+        "border_separator": true,
+        "border_separator_full": false
+      }
+    },
     "featured_blog_rkGRwF": {
       "type": "featured-blog",
       "settings": {
@@ -67,6 +76,7 @@
   "order": [
     "breadcrumbs",
     "main-article",
+    "spacer_iPzLkc",
     "featured_blog_rkGRwF"
   ]
 }
