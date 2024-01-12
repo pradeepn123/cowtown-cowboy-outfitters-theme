@@ -685,11 +685,11 @@
         "39c79d83-46d0-48c9-8f7b-160b652a1799"
       ],
       "settings": {
-        "section_width": "grid",
+        "section_width": "full-width-row-full",
         "text_width": "medium",
         "text_position": "center",
         "text_alignment": "center",
-        "color_bg": "rgba(0,0,0,0)",
+        "color_bg": "#f1f1f1",
         "color_text": "#151515",
         "btn_bgcolor": "#cf7239",
         "color_links": "#151515",
@@ -699,6 +699,7 @@
     },
     "be0b3259-d7d8-4f28-9d8e-72de277573f3": {
       "type": "spacer",
+      "disabled": true,
       "settings": {
         "spacer_mobile": 0,
         "spacer_desktop": 0,
