@@ -171,6 +171,7 @@
         },
         "button_xWXErP": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "link_label": "Explore products",
             "link": "",
@@ -193,7 +194,7 @@
         "btn_bgcolor": "#151515",
         "color_links": "#151515",
         "disable_top_spacing": false,
-        "disable_bottom_spacing": false
+        "disable_bottom_spacing": true
       }
     },
     "image_with_text_XKh6Cg": {
@@ -226,13 +227,13 @@
         "video_controls": true,
         "height": "adapt",
         "desktop_image_width": "medium",
-        "section_width": "grid",
+        "section_width": "full-width-row-full",
         "layout": "image_first",
         "content_position": "text-left",
         "color_bg": "#ffffff",
         "color_text": "#151515",
         "color_border": "#e2e2e2",
-        "disable_top_spacing": false,
+        "disable_top_spacing": true,
         "disable_bottom_spacing": true
       }
     },
