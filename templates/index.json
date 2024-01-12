@@ -242,7 +242,7 @@
         "columns_desktop": 5,
         "columns_mobile": 2,
         "text_alignment": "left",
-        "heading_size": "h6",
+        "heading_size": "h5",
         "mobile_swipe": true,
         "show_progress_bar": true,
         "disable_top_spacing": true,
