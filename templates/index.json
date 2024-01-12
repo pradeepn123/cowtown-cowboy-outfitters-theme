@@ -471,7 +471,6 @@
         "column_B6RWLK": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/icon-home_decor.svg",
             "image_full_width": false,
             "retina": true,
             "card_link": "",
@@ -488,7 +487,7 @@
             "retina": true,
             "card_link": "",
             "title": "",
-            "text": "<h4><a href=\"\/collections\/home-decor\" title=\"Home Decor\">Home Decor<\/a><\/h4>",
+            "text": "<h4><a href=\"\/collections\/toys\" title=\"Toys\">Toys<\/a><\/h4>",
             "link_label": "",
             "link": ""
           }
@@ -500,7 +499,7 @@
             "retina": true,
             "card_link": "",
             "title": "",
-            "text": "<h4><a href=\"\/collections\/home-decor\" title=\"Home Decor\">Home Decor<\/a><\/h4>",
+            "text": "<h4><a href=\"\/collections\/cologne\" title=\"Cologne\">Cologne<\/a><\/h4>",
             "link_label": "",
             "link": ""
           }
@@ -512,7 +511,7 @@
             "retina": true,
             "card_link": "",
             "title": "",
-            "text": "<h4><a href=\"\/collections\/home-decor\" title=\"Home Decor\">Home Decor<\/a><\/h4>",
+            "text": "<h4><a href=\"\/collections\/boot-care\" title=\"Boot Care\">Boot Care<\/a><\/h4>",
             "link_label": "",
             "link": ""
           }
@@ -533,7 +532,7 @@
         "image_ratio": "adapt",
         "columns_desktop": 4,
         "columns_mobile": 1,
-        "text_alignment": "left",
+        "text_alignment": "center",
         "heading_size": "h5",
         "mobile_swipe": false,
         "show_progress_bar": true,
