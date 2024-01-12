@@ -511,6 +511,7 @@
         "2f139978-619f-4e66-a406-7a196266c43f",
         "01afd524-1a0a-4858-acc7-7b894e222bbf"
       ],
+      "disabled": true,
       "settings": {
         "height": "height-auto",
         "full_width": true,
