@@ -465,6 +465,82 @@
         "disable_bottom_spacing": true
       }
     },
+    "multicolumn_NkgdaW": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_B6RWLK": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/icon-home_decor.svg",
+            "image_full_width": false,
+            "retina": true,
+            "card_link": "",
+            "title": "",
+            "text": "<h4><a href=\"\/collections\/home-decor\" title=\"Home Decor\">Home Decor<\/a><\/h4>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_PQcwcj": {
+          "type": "column",
+          "settings": {
+            "image_full_width": false,
+            "retina": true,
+            "card_link": "",
+            "title": "",
+            "text": "<h4><a href=\"\/collections\/home-decor\" title=\"Home Decor\">Home Decor<\/a><\/h4>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_nkzxCt": {
+          "type": "column",
+          "settings": {
+            "image_full_width": false,
+            "retina": true,
+            "card_link": "",
+            "title": "",
+            "text": "<h4><a href=\"\/collections\/home-decor\" title=\"Home Decor\">Home Decor<\/a><\/h4>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_iXyGdj": {
+          "type": "column",
+          "settings": {
+            "image_full_width": false,
+            "retina": true,
+            "card_link": "",
+            "title": "",
+            "text": "<h4><a href=\"\/collections\/home-decor\" title=\"Home Decor\">Home Decor<\/a><\/h4>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_B6RWLK",
+        "column_PQcwcj",
+        "column_nkzxCt",
+        "column_iXyGdj"
+      ],
+      "settings": {
+        "heading": "",
+        "title_alignment": "center",
+        "description": "",
+        "full_width": false,
+        "display_type": "grid",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "columns_mobile": 1,
+        "text_alignment": "left",
+        "heading_size": "h5",
+        "mobile_swipe": false,
+        "show_progress_bar": true,
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": false
+      }
+    },
     "1661426105a80f3333": {
       "type": "scrolling-text",
       "blocks": {
@@ -882,6 +958,7 @@
     "fbcbe02d-91df-4452-abeb-1610e1240d03",
     "166143150135dd97e2",
     "1661512437fd38dfb2",
+    "multicolumn_NkgdaW",
     "1661426105a80f3333",
     "08d3c50a-9689-42c1-b21c-074151adbbb9",
     "502217ba-4e27-404e-96cb-0b35e2f6eb9b",
