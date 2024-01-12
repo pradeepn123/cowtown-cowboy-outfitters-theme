@@ -243,14 +243,14 @@
         "heading_xGRxcC": {
           "type": "heading",
           "settings": {
-            "text": "Transform your home,",
+            "text": "Don't forget to",
             "heading_size": "h4"
           }
         },
         "text_3gXrAA": {
           "type": "text",
           "settings": {
-            "text": "<p>with our Western-inspired home décor pieces, including blankets, pictures, candles, and more. Don't forget to explore our selection of infant and children's clothing, perfect for gifts or outfitting your littlest buckaroos!<\/p>",
+            "text": "<p>explore our selection of infant and children's clothing, perfect for gifts or outfitting your littlest buckaroos! Transform your home with our Western-inspired home décor pieces, including blankets, pictures, candles, and more. <\/p>",
             "description_size": "medium"
           }
         }
