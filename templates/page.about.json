@@ -326,26 +326,10 @@
             "text": "<p>Saddle up and explore the rich heritage and contemporary style that Cowtown Cowboy Outfitters has to offer. We can't wait to serve you and provide you with the best in Western wear and accessories.<\/p>",
             "size": "text-size-regular"
           }
-        },
-        "text_iPRa63": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Warm regards,<\/p><p><em>Suzanne Zigo<\/em><br\/>Owner, Cowtown Cowboy Outfitters<br\/><\/p>",
-            "size": "text-size-regular"
-          }
-        },
-        "image_fCB8yH": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/image_2024-01-11_172824495.png",
-            "retina": true
-          }
         }
       },
       "block_order": [
-        "text_HBYUmB",
-        "text_iPRa63",
-        "image_fCB8yH"
+        "text_HBYUmB"
       ],
       "settings": {
         "section_width": "grid",
@@ -353,6 +337,33 @@
         "text_position": "center",
         "text_alignment": "center",
         "color_bg": "rgba(0,0,0,0)",
+        "color_text": "#151515",
+        "btn_bgcolor": "#151515",
+        "color_links": "#151515",
+        "disable_top_spacing": true,
+        "disable_bottom_spacing": true
+      }
+    },
+    "rich_text_wCbDHF": {
+      "type": "rich-text",
+      "blocks": {
+        "text_qkQ9KX": {
+          "type": "text",
+          "settings": {
+            "text": "<h4>Warm regards,<\/h4><p><strong>Suzanne Zigo<\/strong><em><br\/><\/em>Owner, Cowtown Cowboy Outfitters<\/p>",
+            "size": "text-size-regular"
+          }
+        }
+      },
+      "block_order": [
+        "text_qkQ9KX"
+      ],
+      "settings": {
+        "section_width": "grid",
+        "text_width": "medium",
+        "text_position": "center",
+        "text_alignment": "center",
+        "color_bg": "transparent",
         "color_text": "#151515",
         "btn_bgcolor": "#151515",
         "color_links": "#151515",
@@ -369,6 +380,7 @@
     "image_with_text_XKh6Cg",
     "image_with_text_rtVEp4",
     "image_with_text_eDfPxV",
-    "rich_text_9CMrJ7"
+    "rich_text_9CMrJ7",
+    "rich_text_wCbDHF"
   ]
 }
