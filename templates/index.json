@@ -80,12 +80,38 @@
             "button_2_link": "",
             "button_2_outline": false
           }
+        },
+        "slide_yqykEJ": {
+          "type": "slide",
+          "settings": {
+            "slide_link": "",
+            "video_background": true,
+            "video": "https:\/\/www.youtube.com\/watch?v=_-EitsYcNGw",
+            "subheading": "DISCOVER LUCCHESE",
+            "heading": "Craftsmanship in Every Frame",
+            "heading_size": "h1-large",
+            "content": "Add descriptive text for your slide here.",
+            "description_size": "small",
+            "content_position": "middle-left",
+            "text_alignment": "left",
+            "content_size": "medium",
+            "overlay_color": "#000000",
+            "overlay_opacity": 70,
+            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.4) 100%)",
+            "button_1_text": "Shop Lucchese",
+            "button_1_link": "",
+            "button_1_outline": true,
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_outline": false
+          }
         }
       },
       "block_order": [
         "164794776393e76b8e-2",
         "f82bbf87-42d7-4ad0-8564-51405be350fe",
-        "31679652-1084-484b-ac4f-2af933d4b939"
+        "31679652-1084-484b-ac4f-2af933d4b939",
+        "slide_yqykEJ"
       ],
       "settings": {
         "desktop_height": "desktop-height-image",
@@ -465,73 +491,10 @@
         "disable_bottom_spacing": true
       }
     },
-    "1661426105a80f3333": {
-      "type": "scrolling-text",
-      "blocks": {
-        "0b2612d0-8401-4857-a46a-9487c6340ed5": {
-          "type": "text",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/icon-home_decor.svg",
-            "text": "Home Decor",
-            "link": "shopify:\/\/collections\/home-decor",
-            "outline_text": false
-          }
-        },
-        "581d9c79-a7ba-4a9b-885e-faeadeb9fa3b": {
-          "type": "text",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/icon-toys.svg",
-            "text": "Toys",
-            "link": "shopify:\/\/collections\/toys",
-            "outline_text": true
-          }
-        },
-        "2f139978-619f-4e66-a406-7a196266c43f": {
-          "type": "text",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/icon-cologne.svg",
-            "text": "Cologne",
-            "link": "shopify:\/\/collections\/cologne",
-            "outline_text": false
-          }
-        },
-        "01afd524-1a0a-4858-acc7-7b894e222bbf": {
-          "type": "text",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/icon-boot_care.svg",
-            "text": "Boot Care",
-            "link": "shopify:\/\/collections\/boot-care",
-            "outline_text": true
-          }
-        }
-      },
-      "block_order": [
-        "0b2612d0-8401-4857-a46a-9487c6340ed5",
-        "581d9c79-a7ba-4a9b-885e-faeadeb9fa3b",
-        "2f139978-619f-4e66-a406-7a196266c43f",
-        "01afd524-1a0a-4858-acc7-7b894e222bbf"
-      ],
-      "disabled": true,
-      "settings": {
-        "height": "height-auto",
-        "full_width": true,
-        "direction": "left",
-        "speed": "30s",
-        "text_size": 48,
-        "text_uppercase": true,
-        "image_size": "small",
-        "color_bg": "#ffffff",
-        "color_text": "#151515",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0,
-        "disable_top_spacing": true,
-        "disable_bottom_spacing": true
-      }
-    },
     "08d3c50a-9689-42c1-b21c-074151adbbb9": {
       "type": "countdown-banner",
       "settings": {
-        "section_width": "full-width-row-full",
+        "section_width": "full-width-row",
         "section_layout": "horizontal",
         "desktop_height": "desktop-height-450",
         "mobile_height": "mobile-height-500",
@@ -552,7 +515,7 @@
         "color_text": "#ffffff",
         "overlay_color": "#000000",
         "overlay_opacity": 20,
-        "disable_top_spacing": true,
+        "disable_top_spacing": false,
         "disable_bottom_spacing": true
       }
     },
@@ -843,7 +806,6 @@
     "fbcbe02d-91df-4452-abeb-1610e1240d03",
     "166143150135dd97e2",
     "1661512437fd38dfb2",
-    "1661426105a80f3333",
     "08d3c50a-9689-42c1-b21c-074151adbbb9",
     "502217ba-4e27-404e-96cb-0b35e2f6eb9b",
     "cd3dab0c-8d94-4792-89b3-6eee9ec2865d",
