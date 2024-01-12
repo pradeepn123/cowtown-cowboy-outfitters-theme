@@ -95,24 +95,6 @@
         "autoplay_length": 5,
         "transition": "swipe",
         "disable_top_spacing": true,
-        "disable_bottom_spacing": true
-      }
-    },
-    "8ff44aa4-745b-49a9-a762-c825c4f0521f": {
-      "type": "featured-collection",
-      "settings": {
-        "heading": "Newest Arrivals",
-        "title_alignment": "left",
-        "description": "",
-        "full_width": true,
-        "collection": "newest-arrivals",
-        "display_type": "carousel",
-        "product_limit": 8,
-        "columns_desktop": 4,
-        "show_view_all": true,
-        "mobile_swipe": true,
-        "show_progress_bar": true,
-        "disable_top_spacing": false,
         "disable_bottom_spacing": false
       }
     },
@@ -896,7 +878,6 @@
   },
   "order": [
     "16479477632637c9a7",
-    "8ff44aa4-745b-49a9-a762-c825c4f0521f",
     "f26e5480-9169-4167-bcea-a81d08266fc1",
     "fbcbe02d-91df-4452-abeb-1610e1240d03",
     "166143150135dd97e2",

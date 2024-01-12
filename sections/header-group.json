@@ -41,7 +41,7 @@
         "announcement_bar_layout": "carousel",
         "direction": "left",
         "speed": "20s",
-        "autoplay": false,
+        "autoplay": true,
         "autoplay_length": 5
       }
     },
