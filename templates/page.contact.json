@@ -1,54 +1,5 @@
 {
   "sections": {
-    "multicolumn_WAAQAB": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_QiPaKP": {
-          "type": "column",
-          "settings": {
-            "image_full_width": false,
-            "retina": true,
-            "card_link": "",
-            "title": "",
-            "text": "<p><strong>Monday - Saturday<\/strong><br\/>9AM to 8PM<\/p><p><strong>Sunday<br\/><\/strong>11AM to 5PM<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_aqnT6V": {
-          "type": "column",
-          "settings": {
-            "image_full_width": false,
-            "retina": true,
-            "card_link": "",
-            "title": "",
-            "text": "<p><strong>Email<\/strong><br\/>contact@cowtowncowboy.com<\/p><p><strong>Phone<br\/><\/strong>856 769 1761<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_QiPaKP",
-        "column_aqnT6V"
-      ],
-      "settings": {
-        "heading": "CONTACT US",
-        "title_alignment": "center",
-        "description": "<p>We're happy to answer questions and help you.<\/p>",
-        "full_width": false,
-        "display_type": "grid",
-        "image_ratio": "adapt",
-        "columns_desktop": 2,
-        "columns_mobile": 1,
-        "text_alignment": "center",
-        "heading_size": "h5",
-        "mobile_swipe": false,
-        "show_progress_bar": false,
-        "disable_top_spacing": false,
-        "disable_bottom_spacing": true
-      }
-    },
     "1661619382b4020fa2": {
       "type": "rich-text",
       "blocks": {
@@ -61,17 +12,25 @@
         },
         "166161938159ca8988-2": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<p>We're happy to answer questions and help you.<\/p>",
+            "size": "text-size-regular"
+          }
+        },
+        "text_WUKiV8": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Please fill out the form below for assistance. <br\/>We will try to respond within 24-48 hours.<\/p>",
             "size": "text-size-regular"
           }
         }
       },
       "block_order": [
         "166161938159ca8988-1",
-        "166161938159ca8988-2"
+        "166161938159ca8988-2",
+        "text_WUKiV8"
       ],
-      "disabled": true,
       "settings": {
         "section_width": "grid",
         "text_width": "medium",
@@ -107,11 +66,60 @@
         "disable_top_spacing": true,
         "disable_bottom_spacing": false
       }
+    },
+    "multicolumn_WAAQAB": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_QiPaKP": {
+          "type": "column",
+          "settings": {
+            "image_full_width": false,
+            "retina": true,
+            "card_link": "",
+            "title": "Availability",
+            "text": "<p><strong>Monday - Saturday<\/strong><br\/>9AM to 8PM<\/p><p><strong>Sunday<br\/><\/strong>11AM to 5PM<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_aqnT6V": {
+          "type": "column",
+          "settings": {
+            "image_full_width": false,
+            "retina": true,
+            "card_link": "",
+            "title": "Contact",
+            "text": "<p><strong>Email<\/strong><br\/>contact@cowtowncowboy.com<\/p><p><strong>Phone<br\/><\/strong>856 769 1761<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_QiPaKP",
+        "column_aqnT6V"
+      ],
+      "settings": {
+        "heading": "",
+        "title_alignment": "center",
+        "description": "",
+        "full_width": false,
+        "display_type": "grid",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "columns_mobile": 1,
+        "text_alignment": "center",
+        "heading_size": "h5",
+        "mobile_swipe": false,
+        "show_progress_bar": false,
+        "disable_top_spacing": true,
+        "disable_bottom_spacing": false
+      }
     }
   },
   "order": [
-    "multicolumn_WAAQAB",
     "1661619382b4020fa2",
-    "1652268757b7c53383"
+    "1652268757b7c53383",
+    "multicolumn_WAAQAB"
   ]
 }
