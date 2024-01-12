@@ -347,6 +347,13 @@
     "rich_text_wCbDHF": {
       "type": "rich-text",
       "blocks": {
+        "image_AtiyQT": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/about_profile.webp",
+            "retina": true
+          }
+        },
         "text_qkQ9KX": {
           "type": "text",
           "settings": {
@@ -356,18 +363,19 @@
         }
       },
       "block_order": [
+        "image_AtiyQT",
         "text_qkQ9KX"
       ],
       "settings": {
         "section_width": "grid",
         "text_width": "medium",
         "text_position": "center",
-        "text_alignment": "center",
+        "text_alignment": "left",
         "color_bg": "transparent",
         "color_text": "#151515",
         "btn_bgcolor": "#151515",
         "color_links": "#151515",
-        "disable_top_spacing": false,
+        "disable_top_spacing": true,
         "disable_bottom_spacing": false
       }
     }
