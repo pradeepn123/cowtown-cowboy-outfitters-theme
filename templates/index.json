@@ -188,7 +188,7 @@
         "section_width": "full-width-row",
         "mobile_swipe": true,
         "image_ratio": "square",
-        "content_position": "bottom-left",
+        "content_position": "top-left",
         "text_alignment": "left",
         "column_spacing": "medium",
         "heading_size": "h2",
@@ -302,7 +302,6 @@
         "a3421fd0-fb4c-4f03-aaa3-f33401b12672",
         "29afcbe3-42b6-43f3-bf9e-ba1c4ee9b9b1"
       ],
-      "disabled": true,
       "custom_css": [
         ".multicolumn__column:hover h4 {color: #cf7239;}"
       ],
