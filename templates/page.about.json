@@ -93,6 +93,7 @@
         "slide_aMcHdd": {
           "type": "slide",
           "settings": {
+            "image": "shopify:\/\/shop_images\/banner-about_section-2.webp",
             "slide_link": "",
             "video_background": false,
             "subheading": "",
@@ -117,6 +118,7 @@
         "slide_RyVyJc": {
           "type": "slide",
           "settings": {
+            "image": "shopify:\/\/shop_images\/banner-about_section-3.webp",
             "slide_link": "",
             "video_background": false,
             "subheading": "",
@@ -124,8 +126,8 @@
             "heading_size": "h1",
             "content": "While our roots trace back to 1958, my family had the privilege of taking the reins in 1974. Growing up with this business, I've witnessed its evolution firsthand, and I am both thrilled and honored to continue the legacy along with my husband and two sons while adapting to the changing times. I'm confident that you'll come to cherish our store as much as I do.",
             "description_size": "medium",
-            "content_position": "middle-right",
-            "text_alignment": "right",
+            "content_position": "middle-center",
+            "text_alignment": "center",
             "content_size": "medium",
             "overlay_color": "#000000",
             "overlay_opacity": 70,
