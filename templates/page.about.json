@@ -357,7 +357,7 @@
         "text_qkQ9KX": {
           "type": "text",
           "settings": {
-            "text": "<h4>Warm regards,<\/h4><p><strong>Suzanne Zigo<\/strong><em><br\/><\/em>Owner, Cowtown Cowboy Outfitters<\/p>",
+            "text": "<p>Warm regards,<\/p><p><strong>Suzanne Zigo<\/strong><em><br\/><\/em>Owner, Cowtown Cowboy Outfitters<\/p>",
             "size": "text-size-regular"
           }
         }
@@ -367,11 +367,12 @@
         "text_qkQ9KX"
       ],
       "custom_css": [
-        ".rich-text__inner {display: flex;}"
+        ".rich-text__inner {display: flex;}",
+        ".rich-text__inner img {margin-right: 50px; height: 150px; width: auto;}"
       ],
       "settings": {
         "section_width": "grid",
-        "text_width": "large",
+        "text_width": "medium",
         "text_position": "center",
         "text_alignment": "left",
         "color_bg": "transparent",
