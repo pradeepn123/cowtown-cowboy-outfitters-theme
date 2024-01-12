@@ -38,7 +38,7 @@
       "settings": {
         "announcement_bar": true,
         "announcement_bar_homepage_only": false,
-        "announcement_bar_layout": "marquee",
+        "announcement_bar_layout": "carousel",
         "direction": "left",
         "speed": "20s",
         "autoplay": false,
