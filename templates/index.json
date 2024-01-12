@@ -650,7 +650,7 @@
         "3b251c5f-beea-4cb7-af47-f861509e8684": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/ccow-logo-black.png",
+            "image": "shopify:\/\/shop_images\/ccow-logo-color.png",
             "retina": true
           }
         },
