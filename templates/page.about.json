@@ -366,9 +366,12 @@
         "image_AtiyQT",
         "text_qkQ9KX"
       ],
+      "custom_css": [
+        ".rich-text__inner {display: flex;}"
+      ],
       "settings": {
-        "section_width": "full-width-row",
-        "text_width": "small",
+        "section_width": "grid",
+        "text_width": "large",
         "text_position": "center",
         "text_alignment": "left",
         "color_bg": "transparent",
