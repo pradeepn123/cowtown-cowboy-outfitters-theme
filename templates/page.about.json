@@ -367,8 +367,8 @@
         "text_qkQ9KX"
       ],
       "settings": {
-        "section_width": "grid",
-        "text_width": "medium",
+        "section_width": "full-width-row",
+        "text_width": "small",
         "text_position": "center",
         "text_alignment": "left",
         "color_bg": "transparent",
