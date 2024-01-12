@@ -552,22 +552,6 @@
         "disable_bottom_spacing": false
       }
     },
-    "cd3dab0c-8d94-4792-89b3-6eee9ec2865d": {
-      "type": "background-video",
-      "settings": {
-        "desktop_height": "desktop-height-550",
-        "mobile_height": "mobile-height-500",
-        "full_width": true,
-        "subheading": "Discover Lucchese",
-        "heading": "Craftsmanship in Every Frame",
-        "text": "Step into a world of unparalleled craftsmanship with Lucchese. Witness the artistry, heritage, and commitment to quality that define each pair.",
-        "lightbox_button": false,
-        "video": "https:\/\/www.youtube.com\/watch?v=_-EitsYcNGw",
-        "overlay_opacity": 25,
-        "disable_top_spacing": true,
-        "disable_bottom_spacing": false
-      }
-    },
     "1662459178b0886a69": {
       "type": "rich-text",
       "blocks": {
@@ -590,7 +574,7 @@
         "color_text": "#151515",
         "btn_bgcolor": "#151515",
         "color_links": "#151515",
-        "disable_top_spacing": false,
+        "disable_top_spacing": true,
         "disable_bottom_spacing": true
       }
     },
@@ -735,7 +719,7 @@
         "post_limit": 4,
         "columns_desktop": 4,
         "mobile_swipe": true,
-        "image_ratio": "landscape",
+        "image_ratio": "square",
         "show_date": true,
         "show_excerpt": false,
         "show_view_all": true,
@@ -808,7 +792,6 @@
     "1661512437fd38dfb2",
     "08d3c50a-9689-42c1-b21c-074151adbbb9",
     "502217ba-4e27-404e-96cb-0b35e2f6eb9b",
-    "cd3dab0c-8d94-4792-89b3-6eee9ec2865d",
     "1662459178b0886a69",
     "16615358507b6ff1a8",
     "17047971555c38cd6f",

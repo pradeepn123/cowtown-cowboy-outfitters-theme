@@ -7,6 +7,7 @@
       "settings": {
         "heading": "Saddle Up for Exclusive Offers!",
         "description": "<p>Subscribe to our newsletter and ride the trail of savings.<\/p>",
+        "title_alignment": "center",
         "color_bg": "#151515",
         "color_text": "#ffffff",
         "disable_top_spacing": false,
@@ -29,6 +30,18 @@
             "show_social_links": true
           }
         },
+        "text_PBmcxn": {
+          "type": "text",
+          "settings": {
+            "column_size": "medium",
+            "title": "VISIT US",
+            "text": "<p>761 US-40, Pilesgrove,<br\/>NJ 08098,<br\/>United States<\/p><p><strong>Email<\/strong><br\/><a href=\"mailto:contact@cowtowncowboy.com\" target=\"_blank\" title=\"mailto:contact@cowtowncowboy.com\">contact@cowtowncowboy.com <\/a><\/p><p><strong>Phone<\/strong><a href=\"mailto:contact@cowtowncowboy.com\" target=\"_blank\" title=\"mailto:contact@cowtowncowboy.com\"><br\/><\/a><a href=\"tel:8567691761\" target=\"_blank\" title=\"tel:8567691761\">856 769 1761<\/a><\/p>",
+            "text_size": "small",
+            "button_text": "",
+            "button_link": "",
+            "show_social_links": false
+          }
+        },
         "401e3886-6cb7-4742-8fda-45a0d97a26a3": {
           "type": "menu",
           "settings": {
@@ -39,6 +52,7 @@
         },
         "a09a8a35-bedc-4119-aa04-3ce886faba9d": {
           "type": "menu",
+          "disabled": true,
           "settings": {
             "column_size": "medium",
             "title": "SHOP",
@@ -56,6 +70,7 @@
       },
       "block_order": [
         "e9bfbc11-abdf-4291-b821-b57f5c59d29b",
+        "text_PBmcxn",
         "401e3886-6cb7-4742-8fda-45a0d97a26a3",
         "a09a8a35-bedc-4119-aa04-3ce886faba9d",
         "e0b88d47-869d-4fcb-aad5-2e9bd6ad0c80"
