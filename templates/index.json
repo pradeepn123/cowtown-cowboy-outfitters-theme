@@ -98,106 +98,6 @@
         "disable_bottom_spacing": false
       }
     },
-    "rich_text_6bJn8c": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_jKUiar": {
-          "type": "heading",
-          "settings": {
-            "text": "Shop By Category",
-            "size": "h3"
-          }
-        }
-      },
-      "block_order": [
-        "heading_jKUiar"
-      ],
-      "settings": {
-        "section_width": "full-width-row",
-        "text_width": "grid",
-        "text_position": "left",
-        "text_alignment": "left",
-        "color_bg": "transparent",
-        "color_text": "#151515",
-        "btn_bgcolor": "#151515",
-        "color_links": "#151515",
-        "disable_top_spacing": true,
-        "disable_bottom_spacing": true
-      }
-    },
-    "gallery_P8J38Q": {
-      "type": "gallery",
-      "blocks": {
-        "image_aMER69": {
-          "type": "image",
-          "settings": {
-            "subheading": "",
-            "title": "Shirts",
-            "text": "",
-            "link_label": "",
-            "link": "",
-            "use_text_button": false,
-            "block_link": "shopify:\/\/collections"
-          }
-        },
-        "image_TaprHw": {
-          "type": "image",
-          "settings": {
-            "subheading": "",
-            "title": "Jeans",
-            "text": "",
-            "link_label": "",
-            "link": "",
-            "use_text_button": false,
-            "block_link": "shopify:\/\/collections"
-          }
-        },
-        "image_VWadEW": {
-          "type": "image",
-          "settings": {
-            "subheading": "",
-            "title": "Boots",
-            "text": "",
-            "link_label": "",
-            "link": "",
-            "use_text_button": false,
-            "block_link": "shopify:\/\/collections"
-          }
-        },
-        "image_EKED6c": {
-          "type": "image",
-          "settings": {
-            "subheading": "",
-            "title": "Belts",
-            "text": "",
-            "link_label": "",
-            "link": "",
-            "use_text_button": false,
-            "block_link": "shopify:\/\/collections"
-          }
-        }
-      },
-      "block_order": [
-        "image_aMER69",
-        "image_TaprHw",
-        "image_VWadEW",
-        "image_EKED6c"
-      ],
-      "settings": {
-        "columns_desktop": 4,
-        "section_width": "full-width-row",
-        "mobile_swipe": true,
-        "image_ratio": "square",
-        "content_position": "top-left",
-        "text_alignment": "left",
-        "column_spacing": "medium",
-        "heading_size": "h2",
-        "overlay_color": "#000000",
-        "overlay_opacity": 70,
-        "disable_top_spacing": true,
-        "disable_bottom_spacing": false
-      }
-    },
     "f26e5480-9169-4167-bcea-a81d08266fc1": {
       "type": "multicolumn",
       "blocks": {
@@ -795,46 +695,6 @@
       "settings": {
       }
     },
-    "03248644-d65d-4e3a-83e5-1feae16a04b9": {
-      "type": "scrolling-text",
-      "blocks": {
-        "template--15321576013905__03248644-d65d-4e3a-83e5-1feae16a04b9-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "the best of the West in the East",
-            "link": "",
-            "outline_text": false
-          }
-        },
-        "6647f68a-e9c7-4613-be78-be55241833a8": {
-          "type": "text",
-          "settings": {
-            "text": "Cowtown Cowboy Outfitters",
-            "link": "",
-            "outline_text": true
-          }
-        }
-      },
-      "block_order": [
-        "template--15321576013905__03248644-d65d-4e3a-83e5-1feae16a04b9-text-1",
-        "6647f68a-e9c7-4613-be78-be55241833a8"
-      ],
-      "settings": {
-        "height": "height-auto",
-        "full_width": true,
-        "direction": "left",
-        "speed": "20s",
-        "text_size": 22,
-        "text_uppercase": true,
-        "image_size": "large",
-        "color_bg": "#cf7239",
-        "color_text": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0,
-        "disable_top_spacing": false,
-        "disable_bottom_spacing": true
-      }
-    },
     "032f7543-efbd-474e-8506-0174251add02": {
       "type": "rich-text",
       "blocks": {
@@ -863,7 +723,7 @@
         "39c79d83-46d0-48c9-8f7b-160b652a1799": {
           "type": "button",
           "settings": {
-            "link_label": "Visit Outlet",
+            "link_label": "Visit In Person",
             "link": "https:\/\/maps.app.goo.gl\/23RA8YfMaemeyga78",
             "button_outline": true
           }
@@ -978,8 +838,6 @@
   },
   "order": [
     "16479477632637c9a7",
-    "rich_text_6bJn8c",
-    "gallery_P8J38Q",
     "f26e5480-9169-4167-bcea-a81d08266fc1",
     "fbcbe02d-91df-4452-abeb-1610e1240d03",
     "166143150135dd97e2",
@@ -991,7 +849,6 @@
     "1662459178b0886a69",
     "16615358507b6ff1a8",
     "17047971555c38cd6f",
-    "03248644-d65d-4e3a-83e5-1feae16a04b9",
     "032f7543-efbd-474e-8506-0174251add02",
     "be0b3259-d7d8-4f28-9d8e-72de277573f3",
     "1647955648d6a0baee",
