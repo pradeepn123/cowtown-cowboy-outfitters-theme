@@ -367,7 +367,7 @@
         "text_qkQ9KX"
       ],
       "custom_css": [
-        ".rich-text__inner {display: flex;}",
+        ".rich-text__inner {display: flex; align-items: center;}",
         ".rich-text__inner img {margin-right: 50px; height: 150px; width: auto;}"
       ],
       "settings": {
