@@ -128,7 +128,7 @@
     "166366972953e881f5": {
       "type": "collection-list",
       "custom_css": [
-        ".collection-card__link text-button {color: #151515;}"
+        ".collection-card__link.text-button {color: #151515;}"
       ],
       "settings": {
         "heading": "Explore more collections",
