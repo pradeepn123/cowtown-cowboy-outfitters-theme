@@ -112,7 +112,7 @@
         "column_CLVNCc"
       ],
       "custom_css": [
-        ".multicolumn__column {outline-color: #cfcfcf; outline-style: solid; outline-width: 0.5px; padding: 15px;}"
+        ".multicolumn__column {outline-color: #cfcfcf; outline-style: solid; outline-width: 1px; outline-offset:-2px; padding: 15px;}"
       ],
       "settings": {
         "heading": "Services we offer",
