@@ -34,8 +34,8 @@
           "type": "text",
           "settings": {
             "column_size": "medium",
-            "title": "VISIT US",
-            "text": "<p>761 US-40, Pilesgrove,<br\/>NJ 08098,<br\/>United States<\/p><p><strong>EMAIL<\/strong><br\/><a href=\"mailto:contact@cowtowncowboy.com\" target=\"_blank\" title=\"mailto:contact@cowtowncowboy.com\">contact@cowtowncowboy.com <\/a><\/p><p><strong>PHONE<\/strong><a href=\"mailto:contact@cowtowncowboy.com\" target=\"_blank\" title=\"mailto:contact@cowtowncowboy.com\"><br\/><\/a><a href=\"tel:8567691761\" target=\"_blank\" title=\"tel:8567691761\">(856) 769-1761<\/a><\/p>",
+            "title": "",
+            "text": "<p><strong>ADDRESS<\/strong><br\/>761 US-40, Pilesgrove,<br\/>NJ 08098,<br\/>United States<\/p><p><strong>EMAIL<\/strong><br\/><a href=\"mailto:contact@cowtowncowboy.com\" target=\"_blank\" title=\"mailto:contact@cowtowncowboy.com\">contact@cowtowncowboy.com <\/a><\/p><p><strong>PHONE<\/strong><a href=\"mailto:contact@cowtowncowboy.com\" target=\"_blank\" title=\"mailto:contact@cowtowncowboy.com\"><br\/><\/a><a href=\"tel:8567691761\" target=\"_blank\" title=\"tel:8567691761\">(856) 769-1761<\/a><\/p>",
             "text_size": "small",
             "button_text": "",
             "button_link": "",
