@@ -170,7 +170,7 @@
             "retina": false,
             "card_link": "",
             "title": "",
-            "text": "<p><strong>Send Us an Email<br\/><\/strong>Drop us a message at<\/p><p><a href=\"mailto:contact@cowtowncowboy.com\" target=\"_blank\" title=\"mailto:contact@cowtowncowboy.com\">contact@cowtowncowboy.com<\/a><\/p>",
+            "text": "<p><strong>Visit us<br\/><\/strong>Drop us a message at<\/p><p><a href=\"mailto:contact@cowtowncowboy.com\" target=\"_blank\" title=\"mailto:contact@cowtowncowboy.com\">contact@cowtowncowboy.com<\/a><\/p>",
             "link_label": "",
             "link": ""
           }
@@ -183,7 +183,7 @@
       ],
       "custom_css": [
         ".multicolumn__column {display: flex; align-items: center; justify-content: left;}",
-        ".multicolumn__image {width: 100%; margin-bottom: 0px;}",
+        ".multicolumn__image {width: 150px; margin-bottom: 0px;}",
         ".multicolumn {background-color: #f1f1f1; padding-top: 50px;}"
       ],
       "settings": {
