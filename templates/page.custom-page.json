@@ -69,6 +69,7 @@
         "column_EPdHax": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/category_jeans.webp",
             "image_full_width": false,
             "retina": true,
             "card_link": "",
@@ -81,6 +82,7 @@
         "column_xYX4UT": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/category_jeans.webp",
             "image_full_width": false,
             "retina": true,
             "card_link": "",
@@ -93,6 +95,7 @@
         "column_CLVNCc": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/category_jeans.webp",
             "image_full_width": false,
             "retina": true,
             "card_link": "",
@@ -112,7 +115,7 @@
         "heading": "Services we offer",
         "title_alignment": "left",
         "description": "",
-        "full_width": true,
+        "full_width": false,
         "display_type": "grid",
         "image_ratio": "adapt",
         "columns_desktop": 3,
