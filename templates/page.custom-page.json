@@ -183,7 +183,7 @@
       ],
       "custom_css": [
         ".multicolumn__column {display: flex; align-items: center; justify-content: left;}",
-        ".multicolumn__image {height: 50px; width: 50px; margin-bottom: 0px;}"
+        ".multicolumn__image {width: 50px; margin-bottom: 0px;}"
       ],
       "settings": {
         "heading": "Have questions or queries?",
