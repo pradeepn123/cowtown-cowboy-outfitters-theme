@@ -141,7 +141,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/icon-call.svg",
             "image_full_width": false,
-            "retina": true,
+            "retina": false,
             "card_link": "",
             "title": "",
             "text": "<p><strong>Give Us a Call<br\/><\/strong>Feel free to call us at<\/p><p><a href=\"tel:(856) 769-1761\" target=\"_blank\" title=\"tel:856 769-1761\">(856) 769-1761<\/a><\/p>",
@@ -154,7 +154,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/icon-email.svg",
             "image_full_width": false,
-            "retina": true,
+            "retina": false,
             "card_link": "",
             "title": "",
             "text": "<p><strong>Send Us an Email<br\/><\/strong>Drop us a message at<\/p><p><a href=\"mailto:contact@cowtowncowboy.com\" target=\"_blank\" title=\"mailto:contact@cowtowncowboy.com\">contact@cowtowncowboy.com<\/a><\/p>",
@@ -167,7 +167,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/icon-email.svg",
             "image_full_width": false,
-            "retina": true,
+            "retina": false,
             "card_link": "",
             "title": "",
             "text": "<p><strong>Send Us an Email<br\/><\/strong>Drop us a message at<\/p><p><a href=\"mailto:contact@cowtowncowboy.com\" target=\"_blank\" title=\"mailto:contact@cowtowncowboy.com\">contact@cowtowncowboy.com<\/a><\/p>",
