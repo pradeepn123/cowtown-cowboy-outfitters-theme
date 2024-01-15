@@ -97,7 +97,7 @@
     font-size: 20px;
   }
   .collection-tabs .section-header .section-header--button.has--tabs .linked-to-tab.active svg {
-    width: 100%;
+    width: fit-content;
   }
 }
 
