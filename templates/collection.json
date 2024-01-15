@@ -46,6 +46,15 @@
         "disable_bottom_spacing": false
       }
     },
+    "spacer_6yqxGE": {
+      "type": "spacer",
+      "settings": {
+        "spacer_mobile": 20,
+        "spacer_desktop": 40,
+        "border_separator": true,
+        "border_separator_full": false
+      }
+    },
     "product-grid": {
       "type": "main-collection-product-grid",
       "blocks": {
@@ -146,6 +155,7 @@
   "order": [
     "main-collection-banner",
     "collection_list_4jdWb3",
+    "spacer_6yqxGE",
     "product-grid",
     "05d4b2e3-a1e8-4fc6-a2f2-54ecc52c0caf",
     "9944eb65-f6a0-442e-8e66-e23f73668155",
