@@ -1,0 +1,199 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_page_title": false,
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": false
+      }
+    },
+    "image_with_text_overlay_hcQRpV": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "heading_dgkfQ8": {
+          "type": "heading",
+          "settings": {
+            "text": "Services",
+            "heading_size": "h1-large"
+          }
+        }
+      },
+      "block_order": [
+        "heading_dgkfQ8"
+      ],
+      "settings": {
+        "section_width": "full-width-row-full",
+        "image_parallax": true,
+        "desktop_height": "desktop-height-450",
+        "mobile_height": "mobile-height-350",
+        "content_width": "large",
+        "content_position": "middle-left",
+        "text_alignment": "left",
+        "overlay_opacity": 30,
+        "disable_top_spacing": true,
+        "disable_bottom_spacing": true
+      }
+    },
+    "rich_text_FfcAtb": {
+      "type": "rich-text",
+      "blocks": {
+        "text_AkPU9G": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Welcome to Cowtown Cowboy Outfitters, where we go beyond the ordinary to enhance your Western lifestyle. Our commitment to excellence is reflected in the range of specialized services we offer.<\/p>",
+            "size": "text-size-large"
+          }
+        }
+      },
+      "block_order": [
+        "text_AkPU9G"
+      ],
+      "settings": {
+        "section_width": "grid",
+        "text_width": "large",
+        "text_position": "left",
+        "text_alignment": "left",
+        "color_bg": "rgba(0,0,0,0)",
+        "color_text": "#151515",
+        "btn_bgcolor": "#151515",
+        "color_links": "#151515",
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": false
+      }
+    },
+    "multicolumn_JmiD6f": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_EPdHax": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/category_jeans.webp",
+            "image_full_width": true,
+            "retina": true,
+            "card_link": "",
+            "title": "Gift Wrapping",
+            "text": "<p>Make your gift-giving extra special with our complimentary gift wrapping service, available every day. We offer a charming western gift wrap pattern that adds a unique touch to your purchases.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_xYX4UT": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/category_jeans.webp",
+            "image_full_width": true,
+            "retina": true,
+            "card_link": "",
+            "title": "Hat Care & Restoration",
+            "text": "<p>For those looking to keep their hats in prime condition, we provide hat cleaning, shaping, and stretching services for wool, felt, or fur hats. Please note that we do not shape straw hats. To take advantage of these services, simply drop off your hat, and we'll ensure it receives the care it deserves. Expect a turnaround time of approximately 7-10 days, and we'll notify you as soon as your hat is ready for pickup. For detailed pricing information, please give us a call at 856-769-1761.<\/p>",
+            "link_label": "Learn More",
+            "link": "shopify:\/\/pages\/hat-care-restoration"
+          }
+        },
+        "column_CLVNCc": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/category_jeans.webp",
+            "image_full_width": true,
+            "retina": true,
+            "card_link": "",
+            "title": "Boot Stretching",
+            "text": "<p>Say goodbye to discomfort with our boot stretching service, available for a nominal fee of $10. Whether it's the foot (across the toes), instep, or the shaft (the calf) of the boot that needs adjustment, we've got you covered. Just drop off your boots, and we'll work our magic. Turnaround time typically depends on the queue of boots awaiting attention.<\/p>",
+            "link_label": "Learn More",
+            "link": "shopify:\/\/pages\/boot-resoling-stretching"
+          }
+        }
+      },
+      "block_order": [
+        "column_EPdHax",
+        "column_xYX4UT",
+        "column_CLVNCc"
+      ],
+      "custom_css": [
+        ".multicolumn__column {outline-color: #cfcfcf; outline-style: solid; outline-width: 1px; outline-offset: -10px; padding: 25px;}",
+        ".multicolumn__column:hover {outline-color: #cf7239; transition: 0.4s ease-in-out;}",
+        ".multicolumn__image {margin-bottom: 0px;}"
+      ],
+      "settings": {
+        "heading": "Services we offer",
+        "title_alignment": "left",
+        "description": "",
+        "full_width": false,
+        "display_type": "grid",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "columns_mobile": 1,
+        "text_alignment": "left",
+        "heading_size": "h5",
+        "mobile_swipe": false,
+        "show_progress_bar": false,
+        "disable_top_spacing": true,
+        "disable_bottom_spacing": false
+      }
+    },
+    "multicolumn_K6X7ap": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_gdVyGT": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/icon-home_decor.svg",
+            "image_full_width": false,
+            "retina": true,
+            "card_link": "",
+            "title": "",
+            "text": "<p><strong>Give Us a Call<br\/><\/strong>Feel free to call us at<\/p><p><a href=\"tel:(856) 769-1761\" target=\"_blank\" title=\"tel:856 769-1761\">(856) 769-1761<\/a><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_VPTYwX": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/icon-home_decor.svg",
+            "image_full_width": false,
+            "retina": true,
+            "card_link": "",
+            "title": "",
+            "text": "<p><strong>Send Us an Email<br\/><\/strong>Drop us a message at<\/p><p><a href=\"mailto:contact@cowtowncowboy.com\" target=\"_blank\" title=\"mailto:contact@cowtowncowboy.com\">contact@cowtowncowboy.com<\/a><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_gdVyGT",
+        "column_VPTYwX"
+      ],
+      "custom_css": [
+        ".multicolumn__column {display: flex; align-items: center; justify-content: center;}",
+        ".multicolumn__image {height: 150px; width: auto;}"
+      ],
+      "settings": {
+        "heading": "Have questions or queries?",
+        "title_alignment": "left",
+        "description": "<p>We look forward to assisting you with these services and ensuring you have a memorable and enjoyable experience at Cowtown Cowboy Outfitters. If you have any questions or require further information, please don't hesitate to contact us:<\/p>",
+        "full_width": false,
+        "display_type": "grid",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "columns_mobile": 1,
+        "text_alignment": "left",
+        "heading_size": "h5",
+        "mobile_swipe": false,
+        "show_progress_bar": true,
+        "disable_top_spacing": true,
+        "disable_bottom_spacing": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image_with_text_overlay_hcQRpV",
+    "rich_text_FfcAtb",
+    "multicolumn_JmiD6f",
+    "multicolumn_K6X7ap"
+  ]
+}

@@ -230,8 +230,8 @@
         "29afcbe3-42b6-43f3-bf9e-ba1c4ee9b9b1"
       ],
       "custom_css": [
-        ".multicolumn__column:hover h4 {color: #cf7239;}",
-        ".multicolumn__image{margin-bottom: 0px;}"
+        ".multicolumn__column:hover h4 {color: #cf7239; transition: 0.3s ease-out;}",
+        ".multicolumn__image {margin-bottom: 0px;}"
       ],
       "settings": {
         "heading": "Shop By Category",
