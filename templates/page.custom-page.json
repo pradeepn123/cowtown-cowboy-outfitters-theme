@@ -191,7 +191,7 @@
         "description": "<p>We look forward to assisting you with these services and ensuring you have a memorable and enjoyable experience at Cowtown Cowboy Outfitters. If you have any questions or require further information, please don't hesitate to contact us:<\/p>",
         "full_width": false,
         "display_type": "grid",
-        "image_ratio": "square",
+        "image_ratio": "adapt",
         "columns_desktop": 3,
         "columns_mobile": 1,
         "text_alignment": "left",
