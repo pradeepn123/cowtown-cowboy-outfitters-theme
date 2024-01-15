@@ -52,7 +52,7 @@
         "spacer_mobile": 20,
         "spacer_desktop": 40,
         "border_separator": true,
-        "border_separator_full": false
+        "border_separator_full": true
       }
     },
     "product-grid": {
