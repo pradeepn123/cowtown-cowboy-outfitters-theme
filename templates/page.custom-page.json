@@ -139,7 +139,7 @@
         "column_gdVyGT": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/icon-home_decor.svg",
+            "image": "shopify:\/\/shop_images\/icon-call.svg",
             "image_full_width": false,
             "retina": true,
             "card_link": "",
@@ -152,7 +152,7 @@
         "column_VPTYwX": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/icon-home_decor.svg",
+            "image": "shopify:\/\/shop_images\/icon-email.svg",
             "image_full_width": false,
             "retina": true,
             "card_link": "",
@@ -169,7 +169,7 @@
       ],
       "custom_css": [
         ".multicolumn__column {display: flex; align-items: center; justify-content: left;}",
-        ".multicolumn__image {height: 150px; width: 150px; margin-bottom:0px;}"
+        ".multicolumn__image {height: 150px; width: 150px; margin-bottom: 0px;}"
       ],
       "settings": {
         "heading": "Have questions or queries?",
