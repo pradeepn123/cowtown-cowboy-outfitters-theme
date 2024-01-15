@@ -133,29 +133,64 @@
         "disable_bottom_spacing": false
       }
     },
-    "rich_text_YAhV7j": {
-      "type": "rich-text",
+    "multicolumn_K6X7ap": {
+      "type": "multicolumn",
       "blocks": {
-        "text_UVkacK": {
-          "type": "text",
+        "column_gdVyGT": {
+          "type": "column",
           "settings": {
-            "text": "<p>We look forward to assisting you with these services and ensuring you have a memorable and enjoyable experience at Cowtown Cowboy Outfitters. If you have any questions or require further information, please don't hesitate to contact us at 856-769-1761 or contact@cowtowncowboy.com<\/p>",
-            "size": "text-size-large"
+            "image_full_width": false,
+            "retina": true,
+            "card_link": "",
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_VPTYwX": {
+          "type": "column",
+          "settings": {
+            "image_full_width": false,
+            "retina": true,
+            "card_link": "",
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_jPX7MP": {
+          "type": "column",
+          "settings": {
+            "image_full_width": false,
+            "retina": true,
+            "card_link": "",
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
           }
         }
       },
       "block_order": [
-        "text_UVkacK"
+        "column_gdVyGT",
+        "column_VPTYwX",
+        "column_jPX7MP"
       ],
       "settings": {
-        "section_width": "grid",
-        "text_width": "large",
-        "text_position": "left",
+        "heading": "",
+        "title_alignment": "center",
+        "description": "<p>We look forward to assisting you with these services and ensuring you have a memorable and enjoyable experience at Cowtown Cowboy Outfitters. If you have any questions or require further information, please don't hesitate to contact us<\/p>",
+        "full_width": false,
+        "display_type": "grid",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "columns_mobile": 1,
         "text_alignment": "left",
-        "color_bg": "rgba(0,0,0,0)",
-        "color_text": "#151515",
-        "btn_bgcolor": "#151515",
-        "color_links": "#151515",
+        "heading_size": "h5",
+        "mobile_swipe": false,
+        "show_progress_bar": true,
         "disable_top_spacing": true,
         "disable_bottom_spacing": false
       }
@@ -166,6 +201,6 @@
     "image_with_text_overlay_hcQRpV",
     "rich_text_FfcAtb",
     "multicolumn_JmiD6f",
-    "rich_text_YAhV7j"
+    "multicolumn_K6X7ap"
   ]
 }
