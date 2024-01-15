@@ -114,6 +114,9 @@
         "31679652-1084-484b-ac4f-2af933d4b939",
         "slide_yqykEJ"
       ],
+      "custom_css": [
+        ".slideshow__slide h1{font-weight: 500;}"
+      ],
       "settings": {
         "desktop_height": "desktop-height-image",
         "mobile_height": "mobile-height-500",
