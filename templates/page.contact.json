@@ -12,15 +12,24 @@
         },
         "166161938159ca8988-2": {
           "type": "text",
+          "disabled": true,
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
+            "text": "<p>We're happy to answer questions and help you.<\/p>",
+            "size": "text-size-regular"
+          }
+        },
+        "text_WUKiV8": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Please fill out the form below for assistance. <br\/>We will try to respond within 24-48 hours.<\/p>",
             "size": "text-size-regular"
           }
         }
       },
       "block_order": [
         "166161938159ca8988-1",
-        "166161938159ca8988-2"
+        "166161938159ca8988-2",
+        "text_WUKiV8"
       ],
       "settings": {
         "section_width": "grid",
@@ -29,6 +38,7 @@
         "text_alignment": "center",
         "color_bg": "rgba(0,0,0,0)",
         "color_text": "#151515",
+        "btn_bgcolor": "#151515",
         "color_links": "#151515",
         "disable_top_spacing": false,
         "disable_bottom_spacing": true
@@ -36,6 +46,19 @@
     },
     "1652268757b7c53383": {
       "type": "contact-form",
+      "blocks": {
+        "text_field_NyzKyA": {
+          "type": "text_field",
+          "settings": {
+            "title": "Order Number",
+            "use_long_text": false,
+            "is_required": false
+          }
+        }
+      },
+      "block_order": [
+        "text_field_NyzKyA"
+      ],
       "settings": {
         "heading": "",
         "description": "",
@@ -44,41 +67,59 @@
         "disable_bottom_spacing": false
       }
     },
-    "1652081672ff9b3c2c": {
-      "type": "map",
+    "multicolumn_WAAQAB": {
+      "type": "multicolumn",
       "blocks": {
-        "51991586-af35-4d5d-be99-a2f76ab90b27": {
-          "type": "pin",
+        "column_QiPaKP": {
+          "type": "column",
           "settings": {
-            "pin_retina": true,
-            "pin_lat": "41.510395",
-            "pin_long": "-87.644287",
-            "pin_title": "PIN HEADING",
-            "pin_desc": "6100 Wilshire Blvd 2nd Floor CA 9004  +1 310 499 7700<br><br><strong>Opening hours<\/strong>\nMonday-Saturday 11am–7pm ET\nSunday 11am–6pm ET"
+            "image_full_width": false,
+            "retina": true,
+            "card_link": "",
+            "title": "Availability",
+            "text": "<p><strong>Monday - Saturday<\/strong><br\/>9AM to 8PM<\/p><p><strong>Sunday<br\/><\/strong>11AM to 5PM<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_aqnT6V": {
+          "type": "column",
+          "settings": {
+            "image_full_width": false,
+            "retina": true,
+            "card_link": "",
+            "title": "Contact",
+            "text": "<p><strong>Email<\/strong><br\/>contact@cowtowncowboy.com<\/p><p><strong>Phone<br\/><\/strong>856 769 1761<\/p>",
+            "link_label": "",
+            "link": ""
           }
         }
       },
       "block_order": [
-        "51991586-af35-4d5d-be99-a2f76ab90b27"
+        "column_QiPaKP",
+        "column_aqnT6V"
       ],
       "settings": {
-        "googlemaps_api_key": "",
-        "desktop_height": "desktop-height-550",
-        "mobile_height": "mobile-height-400",
-        "map_type": "roadmap",
-        "map_style_select": "default",
-        "map_zoom": 5,
-        "color_bg": "#f1f1f1",
-        "color_text": "#151515",
-        "color_border": "#d6d6d6",
+        "heading": "",
+        "title_alignment": "center",
+        "description": "",
+        "full_width": false,
+        "display_type": "grid",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "columns_mobile": 1,
+        "text_alignment": "center",
+        "heading_size": "h5",
+        "mobile_swipe": false,
+        "show_progress_bar": false,
         "disable_top_spacing": true,
-        "disable_bottom_spacing": true
+        "disable_bottom_spacing": false
       }
     }
   },
   "order": [
     "1661619382b4020fa2",
     "1652268757b7c53383",
-    "1652081672ff9b3c2c"
+    "multicolumn_WAAQAB"
   ]
 }

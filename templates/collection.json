@@ -2,13 +2,48 @@
   "sections": {
     "main-collection-banner": {
       "type": "main-collection-banner",
+      "custom_css": [
+        ".collection-banner--content {margin: 0px; max-width: 600px;}",
+        ".collection-banner--title {text-align: left;}"
+      ],
       "settings": {
         "show_collection_image": true,
         "show_collection_description": false,
-        "show_subcollections": false,
+        "show_subcollections": true,
         "make_heading_uppercase": true,
         "overlay_color": "#000000",
-        "overlay_opacity": 40
+        "overlay_opacity": 15
+      }
+    },
+    "collection_list_4jdWb3": {
+      "type": "collection-list",
+      "disabled": true,
+      "settings": {
+        "heading": "",
+        "heading_left": false,
+        "description": "",
+        "full_width": true,
+        "collection_list": [
+          "cowboy-boots-shoes-and-sandals",
+          "womens-apparel",
+          "wedding-collection-women",
+          "clearance-women",
+          "belts-womens-accessories",
+          "womens-belts",
+          "womens-jewelry",
+          "womens-accessories"
+        ],
+        "image_ratio": "square",
+        "layout": "carousel",
+        "style": "style1",
+        "columns_desktop": 6,
+        "columns_mobile": "1",
+        "show_progress_bar": true,
+        "mobile_swipe": true,
+        "overlay_color": "#000000",
+        "overlay_opacity": 0,
+        "disable_top_spacing": true,
+        "disable_bottom_spacing": false
       }
     },
     "product-grid": {
@@ -44,7 +79,7 @@
         "enable_sorting": true,
         "show_counts": true,
         "filter_color_swatches": true,
-        "facets_desktop": "drawer"
+        "facets_desktop": "sidebar"
       }
     },
     "05d4b2e3-a1e8-4fc6-a2f2-54ecc52c0caf": {
@@ -79,8 +114,12 @@
     },
     "166366972953e881f5": {
       "type": "collection-list",
+      "custom_css": [
+        ".collection-card__link {color: #151515;}",
+        ".collection-card__link:hover {color: #cf7239;}"
+      ],
       "settings": {
-        "heading": "Explore More Collections",
+        "heading": "Explore more collections",
         "heading_left": true,
         "description": "<p>Shop now to uncover unique pieces that suit your taste and preferences.<\/p>",
         "full_width": true,
@@ -110,6 +149,7 @@
   },
   "order": [
     "main-collection-banner",
+    "collection_list_4jdWb3",
     "product-grid",
     "05d4b2e3-a1e8-4fc6-a2f2-54ecc52c0caf",
     "9944eb65-f6a0-442e-8e66-e23f73668155",
