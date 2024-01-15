@@ -113,11 +113,11 @@
       ],
       "custom_css": [
         ".multicolumn__column {outline-color: #cfcfcf; outline-style: solid; outline-width: 1px; outline-offset: -10px; padding: 25px;}",
-        ".multicolumn__column:hover {outline-color: #cf7239; transition: 0.4s ease-in-out;}",
+        ".multicolumn__column:hover {outline-color: #cf7239;transition: 0.4s ease-in-out;}",
         ".multicolumn__image {margin-bottom: 0px;}"
       ],
       "settings": {
-        "heading": "Services we offer",
+        "heading": "Services we provide",
         "title_alignment": "left",
         "description": "",
         "full_width": false,
@@ -139,9 +139,9 @@
         "column_gdVyGT": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/icon-home_decor.svg",
+            "image": "shopify:\/\/shop_images\/icon-call.svg",
             "image_full_width": false,
-            "retina": true,
+            "retina": false,
             "card_link": "",
             "title": "",
             "text": "<p><strong>Give Us a Call<br\/><\/strong>Feel free to call us at<\/p><p><a href=\"tel:(856) 769-1761\" target=\"_blank\" title=\"tel:856 769-1761\">(856) 769-1761<\/a><\/p>",
@@ -152,9 +152,22 @@
         "column_VPTYwX": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/icon-home_decor.svg",
+            "image": "shopify:\/\/shop_images\/icon-email.svg",
             "image_full_width": false,
-            "retina": true,
+            "retina": false,
+            "card_link": "",
+            "title": "",
+            "text": "<p><strong>Send Us an Email<br\/><\/strong>Drop us a message at<\/p><p><a href=\"mailto:contact@cowtowncowboy.com\" target=\"_blank\" title=\"mailto:contact@cowtowncowboy.com\">contact@cowtowncowboy.com<\/a><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_n7JeHF": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/icon-email.svg",
+            "image_full_width": false,
+            "retina": false,
             "card_link": "",
             "title": "",
             "text": "<p><strong>Send Us an Email<br\/><\/strong>Drop us a message at<\/p><p><a href=\"mailto:contact@cowtowncowboy.com\" target=\"_blank\" title=\"mailto:contact@cowtowncowboy.com\">contact@cowtowncowboy.com<\/a><\/p>",
@@ -165,11 +178,13 @@
       },
       "block_order": [
         "column_gdVyGT",
-        "column_VPTYwX"
+        "column_VPTYwX",
+        "column_n7JeHF"
       ],
       "custom_css": [
-        ".multicolumn__column {display: flex; align-items: center; justify-content: center;}",
-        ".multicolumn__image {height: 150px; width: auto;}"
+        ".multicolumn__column {display: flex; align-items: center; justify-content: left;}",
+        ".multicolumn__image {width: 50px; margin-bottom: 0px;}",
+        ".multicolumn {background-color: #f1f1f1; padding-top: 50px;}"
       ],
       "settings": {
         "heading": "Have questions or queries?",
@@ -177,15 +192,15 @@
         "description": "<p>We look forward to assisting you with these services and ensuring you have a memorable and enjoyable experience at Cowtown Cowboy Outfitters. If you have any questions or require further information, please don't hesitate to contact us:<\/p>",
         "full_width": false,
         "display_type": "grid",
-        "image_ratio": "square",
+        "image_ratio": "adapt",
         "columns_desktop": 3,
         "columns_mobile": 1,
         "text_alignment": "left",
         "heading_size": "h5",
         "mobile_swipe": false,
-        "show_progress_bar": true,
+        "show_progress_bar": false,
         "disable_top_spacing": true,
-        "disable_bottom_spacing": false
+        "disable_bottom_spacing": true
       }
     }
   },
