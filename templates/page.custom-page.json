@@ -169,7 +169,7 @@
       ],
       "custom_css": [
         ".multicolumn__column {display: flex; align-items: center; justify-content: center;}",
-        ".multicolumn__image {height: 150px; width: auto;}"
+        ".multicolumn__image {height: 100px; width: auto;}"
       ],
       "settings": {
         "heading": "Have questions or queries?",
