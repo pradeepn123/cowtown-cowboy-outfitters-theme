@@ -139,25 +139,27 @@
         "column_gdVyGT": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/icon-home_decor.svg",
             "image_full_width": false,
             "retina": true,
             "card_link": "",
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
+            "title": "",
+            "text": "<p><strong>Give Us a Call<br\/><\/strong>Feel free to call us at<\/p>",
+            "link_label": "(856) 769-1761",
+            "link": "tel:856-769-1761"
           }
         },
         "column_VPTYwX": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/icon-home_decor.svg",
             "image_full_width": false,
             "retina": true,
             "card_link": "",
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
+            "title": "",
+            "text": "<p><strong>Send Us an Email<br\/><\/strong>Drop us a message at<\/p>",
+            "link_label": "contact@cowtowncowboy.com",
+            "link": "mailto:contact@cowtowncowboy.com"
           }
         }
       },
