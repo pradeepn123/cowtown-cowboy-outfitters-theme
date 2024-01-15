@@ -39,44 +39,20 @@
     "rich_text_FfcAtb": {
       "type": "rich-text",
       "blocks": {
-        "subheading_Nihd84": {
-          "type": "subheading",
-          "settings": {
-            "text": "Subheading for this section"
-          }
-        },
-        "heading_fqYhV8": {
-          "type": "heading",
-          "settings": {
-            "text": "Talk about your brand",
-            "size": "h3"
-          }
-        },
         "text_AkPU9G": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
-            "size": "text-size-regular"
-          }
-        },
-        "button_38JrTE": {
-          "type": "button",
-          "settings": {
-            "link_label": "Learn More",
-            "link": "",
-            "button_outline": false
+            "text": "<p>Welcome to Cowtown Cowboy Outfitters, where we go beyond the ordinary to enhance your Western lifestyle. Our commitment to excellence is reflected in the range of specialized services we offer.<\/p>",
+            "size": "text-size-large"
           }
         }
       },
       "block_order": [
-        "subheading_Nihd84",
-        "heading_fqYhV8",
-        "text_AkPU9G",
-        "button_38JrTE"
+        "text_AkPU9G"
       ],
       "settings": {
         "section_width": "grid",
-        "text_width": "medium",
+        "text_width": "large",
         "text_position": "left",
         "text_alignment": "left",
         "color_bg": "transparent",
@@ -86,11 +62,74 @@
         "disable_top_spacing": false,
         "disable_bottom_spacing": false
       }
+    },
+    "multicolumn_JmiD6f": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_EPdHax": {
+          "type": "column",
+          "settings": {
+            "image_full_width": false,
+            "retina": true,
+            "card_link": "",
+            "title": "Gift Wrapping",
+            "text": "<p>Make your gift-giving extra special with our complimentary gift wrapping service, available every day. We offer a charming western gift wrap pattern that adds a unique touch to your purchases.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_xYX4UT": {
+          "type": "column",
+          "settings": {
+            "image_full_width": false,
+            "retina": true,
+            "card_link": "",
+            "title": "Hat Shaping, Cleaning & Stretching",
+            "text": "<p>For those looking to keep their hats in prime condition, we provide hat cleaning, shaping, and stretching services for wool, felt, or fur hats. Please note that we do not shape straw hats. To take advantage of these services, simply drop off your hat, and we'll ensure it receives the care it deserves. Expect a turnaround time of approximately 7-10 days, and we'll notify you as soon as your hat is ready for pickup. For detailed pricing information, please give us a call at 856-769-1761<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_CLVNCc": {
+          "type": "column",
+          "settings": {
+            "image_full_width": false,
+            "retina": true,
+            "card_link": "",
+            "title": "Boot Stretching",
+            "text": "<p>Say goodbye to discomfort with our boot stretching service, available for a nominal fee of $10. Whether it's the foot (across the toes), instep, or the shaft (the calf) of the boot that needs adjustment, we've got you covered. Just drop off your boots, and we'll work our magic. Turnaround time typically depends on the queue of boots awaiting attention.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_EPdHax",
+        "column_xYX4UT",
+        "column_CLVNCc"
+      ],
+      "settings": {
+        "heading": "Services we offer",
+        "title_alignment": "left",
+        "description": "",
+        "full_width": true,
+        "display_type": "grid",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "columns_mobile": 1,
+        "text_alignment": "left",
+        "heading_size": "h5",
+        "mobile_swipe": false,
+        "show_progress_bar": true,
+        "disable_top_spacing": true,
+        "disable_bottom_spacing": false
+      }
     }
   },
   "order": [
     "main",
     "image_with_text_overlay_hcQRpV",
-    "rich_text_FfcAtb"
+    "rich_text_FfcAtb",
+    "multicolumn_JmiD6f"
   ]
 }
