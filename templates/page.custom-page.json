@@ -144,9 +144,9 @@
             "retina": true,
             "card_link": "",
             "title": "",
-            "text": "<p><strong>Give Us a Call<br\/><\/strong>Feel free to call us at<\/p>",
-            "link_label": "(856) 769-1761",
-            "link": "tel:856-769-1761"
+            "text": "<p><strong>Give Us a Call<br\/><\/strong>Feel free to call us at<\/p><p><a href=\"tel:(856) 769-1761\" target=\"_blank\" title=\"tel:856 769-1761\">(856) 769-1761<\/a><\/p>",
+            "link_label": "",
+            "link": ""
           }
         },
         "column_VPTYwX": {
@@ -157,9 +157,9 @@
             "retina": true,
             "card_link": "",
             "title": "",
-            "text": "<p><strong>Send Us an Email<br\/><\/strong>Drop us a message at<\/p>",
-            "link_label": "contact@cowtowncowboy.com",
-            "link": "mailto:contact@cowtowncowboy.com"
+            "text": "<p><strong>Send Us an Email<br\/><\/strong>Drop us a message at<\/p><p><a href=\"mailto:contact@cowtowncowboy.com\" target=\"_blank\" title=\"mailto:contact@cowtowncowboy.com\">contact@cowtowncowboy.com<\/a><\/p>",
+            "link_label": "",
+            "link": ""
           }
         }
       },
@@ -168,8 +168,8 @@
         "column_VPTYwX"
       ],
       "custom_css": [
-        ".multicolumn__column{display: flex; align-items: center; justify-content: center;}",
-        ".multicolumn__image{width:100}"
+        ".multicolumn__column {display: flex; align-items: center; justify-content: center;}",
+        ".multicolumn__image {height: 150px; width: auto;}"
       ],
       "settings": {
         "heading": "Have questions or queries?",
