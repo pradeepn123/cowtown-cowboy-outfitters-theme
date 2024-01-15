@@ -159,32 +159,19 @@
             "link_label": "",
             "link": ""
           }
-        },
-        "column_jPX7MP": {
-          "type": "column",
-          "settings": {
-            "image_full_width": false,
-            "retina": true,
-            "card_link": "",
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
         }
       },
       "block_order": [
         "column_gdVyGT",
-        "column_VPTYwX",
-        "column_jPX7MP"
+        "column_VPTYwX"
       ],
       "settings": {
-        "heading": "",
-        "title_alignment": "center",
-        "description": "<p>We look forward to assisting you with these services and ensuring you have a memorable and enjoyable experience at Cowtown Cowboy Outfitters. If you have any questions or require further information, please don't hesitate to contact us<\/p>",
+        "heading": "Have questions or queries?",
+        "title_alignment": "left",
+        "description": "<p>We look forward to assisting you with these services and ensuring you have a memorable and enjoyable experience at Cowtown Cowboy Outfitters. If you have any questions or require further information, please don't hesitate to contact us:<\/p>",
         "full_width": false,
         "display_type": "grid",
-        "image_ratio": "adapt",
+        "image_ratio": "square",
         "columns_desktop": 3,
         "columns_mobile": 1,
         "text_alignment": "left",
