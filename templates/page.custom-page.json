@@ -70,7 +70,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/category_jeans.webp",
-            "image_full_width": false,
+            "image_full_width": true,
             "retina": true,
             "card_link": "",
             "title": "Gift Wrapping",
@@ -83,10 +83,10 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/category_jeans.webp",
-            "image_full_width": false,
+            "image_full_width": true,
             "retina": true,
             "card_link": "",
-            "title": "Hat Shaping, Cleaning & Stretching",
+            "title": "Hat Care & Restoration",
             "text": "<p>For those looking to keep their hats in prime condition, we provide hat cleaning, shaping, and stretching services for wool, felt, or fur hats. Please note that we do not shape straw hats. To take advantage of these services, simply drop off your hat, and we'll ensure it receives the care it deserves. Expect a turnaround time of approximately 7-10 days, and we'll notify you as soon as your hat is ready for pickup. For detailed pricing information, please give us a call at 856-769-1761.<\/p>",
             "link_label": "Learn More",
             "link": "shopify:\/\/pages\/hat-care-restoration"
@@ -96,7 +96,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/category_jeans.webp",
-            "image_full_width": false,
+            "image_full_width": true,
             "retina": true,
             "card_link": "",
             "title": "Boot Stretching",
@@ -111,19 +111,22 @@
         "column_xYX4UT",
         "column_CLVNCc"
       ],
+      "custom_css": [
+        ".multicolumn__column {outline-color: #151515; outline-style: auto; outline-width: 2px; padding: 15px;}"
+      ],
       "settings": {
         "heading": "Services we offer",
         "title_alignment": "left",
         "description": "",
         "full_width": false,
         "display_type": "grid",
-        "image_ratio": "adapt",
+        "image_ratio": "square",
         "columns_desktop": 3,
         "columns_mobile": 1,
         "text_alignment": "left",
         "heading_size": "h5",
         "mobile_swipe": false,
-        "show_progress_bar": true,
+        "show_progress_bar": false,
         "disable_top_spacing": true,
         "disable_bottom_spacing": false
       }
