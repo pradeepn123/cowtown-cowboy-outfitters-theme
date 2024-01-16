@@ -145,22 +145,9 @@
             "retina": false,
             "card_link": "",
             "title": "",
-            "text": "<p><strong>Give Us a Call<br\/><\/strong>Feel free to call us at<\/p><p><a href=\"tel:(856) 769-1761\" target=\"_blank\" title=\"tel:856 769-1761\">(856) 769-1761<\/a><\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_VPTYwX": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/icon-email.svg",
-            "image_full_width": false,
-            "retina": false,
-            "card_link": "",
-            "title": "",
-            "text": "<p><strong>Send Us an Email<br\/><\/strong>Drop us a message at<\/p><p><a href=\"mailto:contact@cowtowncowboy.com\" target=\"_blank\" title=\"mailto:contact@cowtowncowboy.com\">contact@cowtowncowboy.com<\/a><\/p>",
-            "link_label": "",
-            "link": ""
+            "text": "<p><strong>Give Us a Call<br\/><\/strong>Feel free to call us at<\/p>",
+            "link_label": "(856) 769-1761",
+            "link": "tel:(856) 769-1761"
           }
         },
         "column_n7JeHF": {
@@ -171,7 +158,20 @@
             "retina": false,
             "card_link": "",
             "title": "",
-            "text": "<p><strong>Visit us<br\/><\/strong>Drop us a message at<\/p><p><a href=\"mailto:contact@cowtowncowboy.com\" target=\"_blank\" title=\"mailto:contact@cowtowncowboy.com\">contact@cowtowncowboy.com<\/a><\/p>",
+            "text": "<p><strong>Send Us an Email<br\/><\/strong>Drop us a message at<\/p>",
+            "link_label": "contact@cowtowncowboy.com",
+            "link": "mailto:contact@cowtowncowboy.com"
+          }
+        },
+        "column_VPTYwX": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/icon-email.svg",
+            "image_full_width": false,
+            "retina": false,
+            "card_link": "",
+            "title": "",
+            "text": "<p><strong>Visit Us<br\/><\/strong>761 US-40, Pilesgrove,<br\/>NJ 08098, United States<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -179,12 +179,11 @@
       },
       "block_order": [
         "column_gdVyGT",
-        "column_VPTYwX",
-        "column_n7JeHF"
+        "column_n7JeHF",
+        "column_VPTYwX"
       ],
       "custom_css": [
-        ".multicolumn__column {display: flex; align-items: center; justify-content: left;}",
-        ".multicolumn__image {width: 150px; margin-bottom: 0px;}",
+        ".multicolumn__image {width: 70px !important; margin-bottom: 0px;}",
         ".multicolumn {background-color: #f1f1f1; padding-top: 50px;}"
       ],
       "settings": {
@@ -196,7 +195,7 @@
         "image_ratio": "adapt",
         "columns_desktop": 3,
         "columns_mobile": 1,
-        "text_alignment": "left",
+        "text_alignment": "center",
         "heading_size": "h5",
         "mobile_swipe": false,
         "show_progress_bar": false,
