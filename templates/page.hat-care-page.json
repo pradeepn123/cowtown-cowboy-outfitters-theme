@@ -64,10 +64,10 @@
         "disable_bottom_spacing": true
       }
     },
-    "custom_liquid_zCrQty": {
+    "custom_liquid_qkyWPX": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<table>\n    <thead>\n      <tr>\n        <th>Item<\/th>\n        <th>Price<\/th>\n      <\/tr>\n    <\/thead>\n    <tbody>\n      <tr>\n        <td>Stretch<\/td>\n        <td>$9.99<\/td>\n      <\/tr>\n      <tr>\n        <td>Clean<\/td>\n        <td>$19.99<\/td>\n      <\/tr>\n      <tr>\n        <td>Shape (felt, wool, fur)<\/td>\n        <td>$29.99<\/td>\n      <\/tr>\n      <tr>\n        <td>Stretch & Clean<\/td>\n        <td>$39.99<\/td>\n      <\/tr>\n      <tr>\n        <td>Clean & Shape<\/td>\n        <td>$39.99<\/td>\n      <\/tr>\n      <tr>\n        <td>Stretch, Clean & Shape<\/td>\n        <td>$49.99<\/td>\n      <\/tr>\n      <tr>\n        <td>New cardboard hat box<\/td>\n        <td>$12.99<\/td>\n      <\/tr>\n    <\/tbody>\n  <\/table>"
+        "custom_liquid": "<table style=\"width:auto;\">\n  <thead>\n    <tr>\n      <th style=\"width: 50%;\">Item<\/th>\n      <th style=\"width: 100%;\">Price<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr>\n      <td>Stretch<\/td>\n      <td>$9.99<\/td>\n    <\/tr>\n    <tr>\n      <td>Clean<\/td>\n      <td>$19.99<\/td>\n    <\/tr>\n    <tr>\n      <td>Shape (felt, wool, fur)<\/td>\n      <td>$29.99<\/td>\n    <\/tr>\n    <tr>\n      <td>Stretch & Clean<\/td>\n      <td>$39.99<\/td>\n    <\/tr>\n    <tr>\n      <td>Clean & Shape<\/td>\n      <td>$39.99<\/td>\n    <\/tr>\n    <tr>\n      <td>Stretch, Clean & Shape<\/td>\n      <td>$49.99<\/td>\n    <\/tr>\n    <tr>\n      <td>New cardboard hat box<\/td>\n      <td>$12.99<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>"
       }
     },
     "multicolumn_K6X7ap": {
@@ -144,7 +144,7 @@
     "main",
     "image_with_text_overlay_hcQRpV",
     "rich_text_FfcAtb",
-    "custom_liquid_zCrQty",
+    "custom_liquid_qkyWPX",
     "multicolumn_K6X7ap"
   ]
 }
