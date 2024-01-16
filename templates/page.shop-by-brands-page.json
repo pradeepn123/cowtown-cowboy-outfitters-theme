@@ -349,8 +349,8 @@
         "column_hRDWHX"
       ],
       "custom_css": [
-        ".multicolumn__column {outline-color: white; outline-width: 1px;}",
-        ".multicolumn__column:hover {outline: auto; transition: outline-color 0.5s ease-out; outline-color: #cf7239; outline-width: 2px; outline-offset: inset;}",
+        ".multicolumn__column {outline-color: white; outline-width: 1px; outline-offset: 0px;}",
+        ".multicolumn__column:hover {transition: outline-color 0.5s ease-out; outline-color: #cf7239; outline-width: 2px; outline-offset: -4px;}",
         ".multicolumn__image {margin-bottom: 0px;}"
       ],
       "settings": {
