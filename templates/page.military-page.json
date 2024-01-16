@@ -1,0 +1,118 @@
+{
+  "sections": {
+    "image_with_text_overlay_hcQRpV": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "heading_dgkfQ8": {
+          "type": "heading",
+          "settings": {
+            "text": "Hat Care & Restoration",
+            "heading_size": "h1-large"
+          }
+        }
+      },
+      "block_order": [
+        "heading_dgkfQ8"
+      ],
+      "settings": {
+        "section_width": "full-width-row-full",
+        "image": "shopify:\/\/shop_images\/banner-hat_care.webp",
+        "image_parallax": true,
+        "desktop_height": "desktop-height-450",
+        "mobile_height": "mobile-height-350",
+        "content_width": "large",
+        "content_position": "middle-left",
+        "text_alignment": "left",
+        "overlay_opacity": 30,
+        "disable_top_spacing": true,
+        "disable_bottom_spacing": true
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "custom_css": [
+        ".blog-post-detail {max-width: 800px; margin: 0;}",
+        ".blog-post-detail div {max-width: 100%; margin: 0;}"
+      ],
+      "settings": {
+        "show_page_title": false,
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": false
+      }
+    },
+    "multicolumn_K6X7ap": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_gdVyGT": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/icon-call.svg",
+            "image_full_width": false,
+            "retina": false,
+            "card_link": "",
+            "title": "",
+            "text": "<p><strong>Give Us a Call<br\/><\/strong>Feel free to call us at<\/p>",
+            "link_label": "(856) 769-1761",
+            "link": "tel:(856) 769-1761"
+          }
+        },
+        "column_n7JeHF": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/icon-email.svg",
+            "image_full_width": false,
+            "retina": false,
+            "card_link": "",
+            "title": "",
+            "text": "<p><strong>Send Us an Email<br\/><\/strong>Drop us a message at<\/p>",
+            "link_label": "contact@cowtowncowboy.com",
+            "link": "mailto:contact@cowtowncowboy.com"
+          }
+        },
+        "column_VPTYwX": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/icon-store.svg",
+            "image_full_width": false,
+            "retina": false,
+            "card_link": "",
+            "title": "",
+            "text": "<p><strong>Outlet Store<br\/><\/strong>Visit us in person<\/p>",
+            "link_label": "Get directions",
+            "link": "https:\/\/maps.app.goo.gl\/23RA8YfMaemeyga78"
+          }
+        }
+      },
+      "block_order": [
+        "column_gdVyGT",
+        "column_n7JeHF",
+        "column_VPTYwX"
+      ],
+      "custom_css": [
+        ".multicolumn__image {width: 70px !important; margin-bottom: 0px;}",
+        ".multicolumn {background-color: #f1f1f1; padding-top: 50px;}"
+      ],
+      "settings": {
+        "heading": "Have questions or queries?",
+        "title_alignment": "left",
+        "description": "<p>We look forward to assisting you with these services and ensuring you have a memorable and enjoyable experience at Cowtown Cowboy Outfitters. If you have any questions or require further information, please don't hesitate to contact us:<\/p>",
+        "full_width": false,
+        "display_type": "grid",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "columns_mobile": 1,
+        "text_alignment": "left",
+        "heading_size": "h5",
+        "mobile_swipe": false,
+        "show_progress_bar": false,
+        "disable_top_spacing": true,
+        "disable_bottom_spacing": true
+      }
+    }
+  },
+  "order": [
+    "image_with_text_overlay_hcQRpV",
+    "main",
+    "multicolumn_K6X7ap"
+  ]
+}
