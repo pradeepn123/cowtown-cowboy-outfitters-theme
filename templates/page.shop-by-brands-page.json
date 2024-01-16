@@ -58,7 +58,7 @@
         "column_rf8Wnj": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/brand-ariat.png",
+            "image": "shopify:\/\/shop_images\/brand-lucchese.png",
             "image_full_width": false,
             "retina": true,
             "card_link": "",
@@ -71,7 +71,7 @@
         "column_Rg76VJ": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/brand-ariat.png",
+            "image": "shopify:\/\/shop_images\/brand-wrangler.png",
             "image_full_width": false,
             "retina": true,
             "card_link": "",
@@ -84,7 +84,7 @@
         "column_mzYUPk": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/brand-ariat.png",
+            "image": "shopify:\/\/shop_images\/brand-durango.png",
             "image_full_width": false,
             "retina": true,
             "card_link": "",
@@ -97,7 +97,46 @@
         "column_aYHmWV": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/brand-ariat.png",
+            "image": "shopify:\/\/shop_images\/brand-tony_lama_boots.png",
+            "image_full_width": false,
+            "retina": true,
+            "card_link": "",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_i3UbWV": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/brand-dan_post.png",
+            "image_full_width": false,
+            "retina": true,
+            "card_link": "",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_LgUxpk": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/brand-justin_boots.png",
+            "image_full_width": false,
+            "retina": true,
+            "card_link": "",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_wc9nGY": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/brand-roper.png",
             "image_full_width": false,
             "retina": true,
             "card_link": "",
@@ -113,7 +152,10 @@
         "column_rf8Wnj",
         "column_Rg76VJ",
         "column_mzYUPk",
-        "column_aYHmWV"
+        "column_aYHmWV",
+        "column_i3UbWV",
+        "column_LgUxpk",
+        "column_wc9nGY"
       ],
       "settings": {
         "heading": "Popular Brands",
@@ -503,8 +545,8 @@
         "column_M3aFBP"
       ],
       "custom_css": [
-        ".multicolumn__column {outline-color: #f1f1f1; outline-style: solid; outline-width: 1px; margin-bottom:0px;}",
-        ".multicolumn__column:hover {transition: outline-color 0.5s ease-out; outline-width:2px; outline-color: #cf7239;}",
+        ".multicolumn__column {outline-color: #f1f1f1; outline-style: solid; outline-width: 1px; margin-bottom: 0px;}",
+        ".multicolumn__column:hover {transition: outline-color 0.5s ease-out; outline-width: 2px; outline-color: #cf7239;}",
         ".multicolumn__image {margin-bottom: 0px;}"
       ],
       "settings": {
