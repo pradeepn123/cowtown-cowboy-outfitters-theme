@@ -15,7 +15,7 @@
         "heading_dgkfQ8": {
           "type": "heading",
           "settings": {
-            "text": "Services",
+            "text": "HAT CARE & RESTORATION",
             "heading_size": "h1-large"
           }
         }
@@ -43,8 +43,8 @@
         "text_AkPU9G": {
           "type": "text",
           "settings": {
-            "text": "<p>Welcome to Cowtown Cowboy Outfitters, where we go beyond the ordinary to enhance your Western lifestyle. Our commitment to excellence is reflected in the range of specialized services we offer.<\/p>",
-            "size": "text-size-large"
+            "text": "<p>Has your prized felt hat suffered a mishap? Whether it's been left upside down in a scorching truck, endured an accidental sit-down, or taken an unexpected dive in the arena, don't despair – we're here to assist you!<\/p><p>Bring your felt hat to us, and we'll work our magic to clean and reshape it, restoring it to its former glory. It's worth noting that, unfortunately, we do not offer services for straw hats at this time.  We also typically only work on the brim of a hat; we are not able to reshape the crown of a hat or do anything with the inside of the hat including the hat's sweatband.<\/p><p>Rest assured, our hat cleaner is a true artisan, capable of transforming your hat to look as good as new. However, please be mindful that the turnaround time for this service typically falls within the range of 7 to 14 days.<\/p><p>Trust us to breathe fresh life into your beloved felt hat. We look forward to providing you with top-notch hat cleaning and reshaping services.<\/p><p>For more information or to schedule your hat's revitalization, please don't hesitate to reach out to us at 856-769-1761<\/p><p>Here's our menu:<\/p>",
+            "size": "text-size-regular"
           }
         }
       },
@@ -64,74 +64,10 @@
         "disable_bottom_spacing": false
       }
     },
-    "multicolumn_JmiD6f": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_EPdHax": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/image-gift_wrapping.webp",
-            "image_full_width": true,
-            "retina": true,
-            "card_link": "",
-            "title": "Gift Wrapping",
-            "text": "<p>Make your gift-giving extra special with our complimentary gift wrapping service, available every day. We offer a charming western gift wrap pattern that adds a unique touch to your purchases.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_xYX4UT": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/image-hat_restore.webp",
-            "image_full_width": true,
-            "retina": true,
-            "card_link": "",
-            "title": "Hat Care & Restoration",
-            "text": "<p>For those looking to keep their hats in prime condition, we provide hat cleaning, shaping, and stretching services for wool, felt, or fur hats. Please note that we do not shape straw hats. To take advantage of these services, simply drop off your hat, and we'll ensure it receives the care it deserves. Expect a turnaround time of approximately 7-10 days, and we'll notify you as soon as your hat is ready for pickup. For detailed pricing information, please give us a call at 856-769-1761.<\/p>",
-            "link_label": "Learn More",
-            "link": "shopify:\/\/pages\/hat-care-restoration"
-          }
-        },
-        "column_CLVNCc": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/image-boot_stretching.webp",
-            "image_full_width": true,
-            "retina": true,
-            "card_link": "",
-            "title": "Boot Stretching",
-            "text": "<p>Say goodbye to discomfort with our boot stretching service, available for a nominal fee of $10. Whether it's the foot (across the toes), instep, or the shaft (the calf) of the boot that needs adjustment, we've got you covered. Just drop off your boots, and we'll work our magic. Turnaround time typically depends on the queue of boots awaiting attention.<\/p>",
-            "link_label": "Learn More",
-            "link": "shopify:\/\/pages\/boot-resoling-stretching"
-          }
-        }
-      },
-      "block_order": [
-        "column_EPdHax",
-        "column_xYX4UT",
-        "column_CLVNCc"
-      ],
-      "custom_css": [
-        ".multicolumn__column {outline-color: #cfcfcf; outline-style: solid; outline-width: 1px; outline-offset: -10px; padding: 25px;}",
-        ".multicolumn__column:hover {transition: outline-color 0.5s ease-out; outline-color: #cf7239;}",
-        ".multicolumn__image {margin-bottom: 0px;}"
-      ],
+    "custom_liquid_zCrQty": {
+      "type": "custom-liquid",
       "settings": {
-        "heading": "Services we provide",
-        "title_alignment": "left",
-        "description": "",
-        "full_width": false,
-        "display_type": "grid",
-        "image_ratio": "square",
-        "columns_desktop": 3,
-        "columns_mobile": 1,
-        "text_alignment": "left",
-        "heading_size": "h5",
-        "mobile_swipe": false,
-        "show_progress_bar": false,
-        "disable_top_spacing": true,
-        "disable_bottom_spacing": false
+        "custom_liquid": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n  <meta charset=\"UTF-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n  <title>Price List<\/title>\n  <style>\n    table {\n      width: inherit;\n      border-collapse: collapse;\n      margin-top: 20px;\n    }\n\n    th, td {\n      border: 1px solid #ddd;\n      padding: 8px;\n      text-align: left;\n    }\n\n    th {\n      background-color: #f2f2f2;\n    }\n  <\/style>\n<\/head>\n<body>\n  \n  <table>\n    <thead>\n      <tr>\n        <th>Item<\/th>\n        <th>Price<\/th>\n      <\/tr>\n    <\/thead>\n    <tbody>\n      <tr>\n        <td>Stretch<\/td>\n        <td>$9.99<\/td>\n      <\/tr>\n      <tr>\n        <td>Clean<\/td>\n        <td>$19.99<\/td>\n      <\/tr>\n      <tr>\n        <td>Shape (felt, wool, fur)<\/td>\n        <td>$29.99<\/td>\n      <\/tr>\n      <tr>\n        <td>Stretch & Clean<\/td>\n        <td>$39.99<\/td>\n      <\/tr>\n      <tr>\n        <td>Clean & Shape<\/td>\n        <td>$39.99<\/td>\n      <\/tr>\n      <tr>\n        <td>Stretch, Clean & Shape<\/td>\n        <td>$49.99<\/td>\n      <\/tr>\n      <tr>\n        <td>New cardboard hat box<\/td>\n        <td>$12.99<\/td>\n      <\/tr>\n    <\/tbody>\n  <\/table>\n\n<\/body>\n<\/html>"
       }
     },
     "multicolumn_K6X7ap": {
@@ -208,7 +144,7 @@
     "main",
     "image_with_text_overlay_hcQRpV",
     "rich_text_FfcAtb",
-    "multicolumn_JmiD6f",
+    "custom_liquid_zCrQty",
     "multicolumn_K6X7ap"
   ]
 }
