@@ -31,8 +31,7 @@
     "main": {
       "type": "main-page",
       "custom_css": [
-        ".blog-post-detail {margin-left: 0px;}",
-        ".pag{}"
+        ".blog-post-detail {margin-left: 0px;}"
       ],
       "settings": {
         "show_page_title": false,
