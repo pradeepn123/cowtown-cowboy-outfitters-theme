@@ -166,7 +166,8 @@
         "c86c1ade-ea63-43b7-a257-72b15391ae66"
       ],
       "custom_css": [
-        "full-menu ul a:last-child {color: red;}"
+        "full-menu ul a:last-child {color: red;}",
+        ".thb-full-menu a:last-child:after {background: red;}"
       ],
       "settings": {
         "sticky_header": true,
