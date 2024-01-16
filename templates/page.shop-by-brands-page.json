@@ -307,9 +307,200 @@
         "column_hRDWHX"
       ],
       "custom_css": [
-        ".multicolumn__column{outline-color: white;}",
+        ".multicolumn__column {outline-color: white;}",
         ".multicolumn__column:hover {outline: auto; transition: outline-color 0.5s ease-out; outline-color: #cf7239;}",
         ".multicolumn__image {margin-bottom: 0px;}"
+      ],
+      "settings": {
+        "heading": "All Brands",
+        "title_alignment": "left",
+        "description": "",
+        "full_width": true,
+        "display_type": "grid",
+        "image_ratio": "adapt",
+        "columns_desktop": 6,
+        "columns_mobile": 1,
+        "text_alignment": "center",
+        "heading_size": "h5",
+        "mobile_swipe": false,
+        "show_progress_bar": true,
+        "disable_top_spacing": true,
+        "disable_bottom_spacing": false
+      }
+    },
+    "multicolumn_wXdgXG": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_YfbkiK": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/brand-ariat.png",
+            "image_full_width": false,
+            "retina": true,
+            "card_link": "",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_AJn7aA": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/brand-ariat.png",
+            "image_full_width": false,
+            "retina": true,
+            "card_link": "",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_F9KnUj": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/brand-ariat.png",
+            "image_full_width": false,
+            "retina": true,
+            "card_link": "",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_JgzwRU": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/brand-ariat.png",
+            "image_full_width": false,
+            "retina": true,
+            "card_link": "",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_3hWkVz": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/brand-ariat.png",
+            "image_full_width": false,
+            "retina": true,
+            "card_link": "",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_DcWUbb": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/brand-ariat.png",
+            "image_full_width": false,
+            "retina": true,
+            "card_link": "",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_9wxN6M": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/brand-ariat.png",
+            "image_full_width": false,
+            "retina": true,
+            "card_link": "",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_EzyUji": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/brand-ariat.png",
+            "image_full_width": false,
+            "retina": true,
+            "card_link": "",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_kzmDzB": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/brand-ariat.png",
+            "image_full_width": false,
+            "retina": true,
+            "card_link": "",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_3QP3iC": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/brand-ariat.png",
+            "image_full_width": false,
+            "retina": true,
+            "card_link": "",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_3rUmyM": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/brand-ariat.png",
+            "image_full_width": false,
+            "retina": true,
+            "card_link": "",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_M3aFBP": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/brand-ariat.png",
+            "image_full_width": false,
+            "retina": true,
+            "card_link": "",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_YfbkiK",
+        "column_AJn7aA",
+        "column_F9KnUj",
+        "column_JgzwRU",
+        "column_3hWkVz",
+        "column_DcWUbb",
+        "column_9wxN6M",
+        "column_EzyUji",
+        "column_kzmDzB",
+        "column_3QP3iC",
+        "column_3rUmyM",
+        "column_M3aFBP"
       ],
       "settings": {
         "heading": "All Brands",
@@ -333,6 +524,7 @@
     "main",
     "rich_text_XrfJCX",
     "multicolumn_6KDpri",
-    "multicolumn_J3mmT8"
+    "multicolumn_J3mmT8",
+    "multicolumn_wXdgXG"
   ]
 }
