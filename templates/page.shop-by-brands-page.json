@@ -502,6 +502,11 @@
         "column_3rUmyM",
         "column_M3aFBP"
       ],
+      "custom_css": [
+        ".multicolumn__column {outline-color: #cfcfcf; outline-style: solid; outline-width: 1px; }",
+        ".multicolumn__column:hover {transition: outline-color 0.5s ease-out; outline-color: #cf7239;}",
+        ".multicolumn__image {margin-bottom: 0px;}"
+      ],
       "settings": {
         "heading": "All Brands",
         "title_alignment": "left",
