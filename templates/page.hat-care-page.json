@@ -31,7 +31,7 @@
     "main": {
       "type": "main-page",
       "custom_css": [
-        ".blog-post-detail {max-width: 100%; margin: 0;}",
+        ".blog-post-detail {max-width: 800px; margin: 0;}",
         ".blog-post-detail div {max-width: 100%; margin: 0;}"
       ],
       "settings": {
