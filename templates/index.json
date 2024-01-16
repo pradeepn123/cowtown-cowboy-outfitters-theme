@@ -207,7 +207,8 @@
       ],
       "custom_css": [
         ".multicolumn__column:hover h4 {color: #cf7239; transition: 0.3s ease-out;}",
-        ".multicolumn__image {margin-bottom: 0px;}"
+        ".multicolumn__image {margin-bottom: 0px;}",
+        ".multicolumn__column h4{font-weight:400;}"
       ],
       "settings": {
         "heading": "Shop By Category",
