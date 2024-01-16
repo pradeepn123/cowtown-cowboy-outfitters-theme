@@ -7,7 +7,7 @@
           "type": "heading",
           "settings": {
             "text": "Military, Veterans & First Responders",
-            "heading_size": "h1-large"
+            "heading_size": "h1"
           }
         }
       },
@@ -16,7 +16,7 @@
       ],
       "settings": {
         "section_width": "full-width-row-full",
-        "image": "shopify:\/\/shop_images\/banner-hat_care.webp",
+        "image": "shopify:\/\/shop_images\/banner-military.webp",
         "image_parallax": true,
         "desktop_height": "desktop-height-450",
         "mobile_height": "mobile-height-350",
