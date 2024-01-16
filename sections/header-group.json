@@ -165,6 +165,9 @@
         "89314a03-38c3-4aaa-90e9-fe51e62bb038",
         "c86c1ade-ea63-43b7-a257-72b15391ae66"
       ],
+      "custom_css": [
+        "thb-full-menu:last-child a {color: red;}"
+      ],
       "settings": {
         "sticky_header": true,
         "logo": "shopify:\/\/shop_images\/ccow-logo-color.png",
