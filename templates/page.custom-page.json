@@ -69,7 +69,7 @@
         "column_EPdHax": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/category_jeans.webp",
+            "image": "shopify:\/\/shop_images\/image-gift_wrapping.webp",
             "image_full_width": true,
             "retina": true,
             "card_link": "",
@@ -82,7 +82,7 @@
         "column_xYX4UT": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/category_jeans.webp",
+            "image": "shopify:\/\/shop_images\/image-hat_restore.webp",
             "image_full_width": true,
             "retina": true,
             "card_link": "",
@@ -95,7 +95,7 @@
         "column_CLVNCc": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/category_jeans.webp",
+            "image": "shopify:\/\/shop_images\/image-boot_stretching.webp",
             "image_full_width": true,
             "retina": true,
             "card_link": "",
