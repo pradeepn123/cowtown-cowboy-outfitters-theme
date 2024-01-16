@@ -306,6 +306,10 @@
         "column_JXzgM9",
         "column_hRDWHX"
       ],
+      "custom_css": [
+        ".multicolumn__column:hover {outline: auto;}",
+        ".multicolumn__image{margin-bottom:0px;}"
+      ],
       "settings": {
         "heading": "All Brands",
         "title_alignment": "left",
@@ -315,7 +319,7 @@
         "image_ratio": "adapt",
         "columns_desktop": 6,
         "columns_mobile": 1,
-        "text_alignment": "left",
+        "text_alignment": "center",
         "heading_size": "h5",
         "mobile_swipe": false,
         "show_progress_bar": true,
