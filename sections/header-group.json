@@ -166,8 +166,8 @@
         "c86c1ade-ea63-43b7-a257-72b15391ae66"
       ],
       "custom_css": [
-        "full-menu .thb-full-menu ~ li a:last-child {color: #e12929;}",
-        "full-menu .thb-full-menu li a:last-child:after {background: #e12929;}"
+        ".thb-full-menu > li:last-child a {color: #e12929;}",
+        ".thb-full-menu > li:last-child a:after {background: #e12929;}"
       ],
       "settings": {
         "sticky_header": true,
