@@ -73,11 +73,12 @@
         "column_QiPaKP": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/icon-time.svg",
             "image_full_width": false,
             "retina": true,
             "card_link": "",
             "title": "",
-            "text": "<p><strong>Availability<\/strong><\/p><p><strong>Monday - Saturday<\/strong><br\/>9AM to 8PM<\/p><p><strong>Sunday<br\/><\/strong>11AM to 5PM<\/p>",
+            "text": "<p><strong>Monday - Saturday<\/strong><br\/>9AM to 8PM<\/p><p><strong>Sunday<br\/><\/strong>11AM to 5PM<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -128,6 +129,10 @@
         "column_GR8Eqk",
         "column_KARTkq"
       ],
+      "custom_css": [
+        ".multicolumn__image {width: 70px !important; margin-bottom: 0px;}",
+        ".multicolumn {background-color: #f1f1f1; padding-top: 50px;}"
+      ],
       "settings": {
         "heading": "",
         "title_alignment": "center",
@@ -142,7 +147,7 @@
         "mobile_swipe": false,
         "show_progress_bar": false,
         "disable_top_spacing": true,
-        "disable_bottom_spacing": false
+        "disable_bottom_spacing": true
       }
     }
   },
