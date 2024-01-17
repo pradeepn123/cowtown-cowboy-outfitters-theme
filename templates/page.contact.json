@@ -76,8 +76,8 @@
             "image_full_width": false,
             "retina": true,
             "card_link": "",
-            "title": "Availability",
-            "text": "<p><strong>Monday - Saturday<\/strong><br\/>9AM to 8PM<\/p><p><strong>Sunday<br\/><\/strong>11AM to 5PM<\/p>",
+            "title": "",
+            "text": "<p><strong>Availability<\/strong><\/p><p><strong>Monday - Saturday<\/strong><br\/>9AM to 8PM<\/p><p><strong>Sunday<br\/><\/strong>11AM to 5PM<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -85,19 +85,48 @@
         "column_aqnT6V": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/icon-call.svg",
             "image_full_width": false,
             "retina": true,
             "card_link": "",
-            "title": "Contact",
-            "text": "<p><strong>Email<\/strong><br\/>contact@cowtowncowboy.com<\/p><p><strong>Phone<br\/><\/strong>856 769 1761<\/p>",
-            "link_label": "",
-            "link": ""
+            "title": "",
+            "text": "<p><strong>Give Us a Call<\/strong><br\/>Feel free to call us at<strong><br\/><\/strong><\/p>",
+            "link_label": "(856) 769-1761",
+            "link": "tel:(856) 769-1761"
+          }
+        },
+        "column_GR8Eqk": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/icon-email.svg",
+            "image_full_width": false,
+            "retina": true,
+            "card_link": "",
+            "title": "",
+            "text": "<p><strong>Send Us an Email<\/strong><br\/>Drop us a message at<\/p>",
+            "link_label": "CONTACT@COWTOWNCOWBOY.COM",
+            "link": "mailto:contact@cowtowncowboy.com"
+          }
+        },
+        "column_KARTkq": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/icon-store.svg",
+            "image_full_width": false,
+            "retina": true,
+            "card_link": "",
+            "title": "",
+            "text": "<p><strong>Outlet Store<\/strong><br\/>Visit us in person<\/p>",
+            "link_label": "Get Directions",
+            "link": "https:\/\/maps.app.goo.gl\/23RA8YfMaemeyga78"
           }
         }
       },
       "block_order": [
         "column_QiPaKP",
-        "column_aqnT6V"
+        "column_aqnT6V",
+        "column_GR8Eqk",
+        "column_KARTkq"
       ],
       "settings": {
         "heading": "",
@@ -106,7 +135,7 @@
         "full_width": false,
         "display_type": "grid",
         "image_ratio": "adapt",
-        "columns_desktop": 2,
+        "columns_desktop": 4,
         "columns_mobile": 1,
         "text_alignment": "center",
         "heading_size": "h5",
