@@ -881,7 +881,7 @@
         "column_QRd7QH"
       ],
       "custom_css": [
-        ".multicolumn__column {outline-color: #e2e2e2; outline-style: solid; outline-width: 1px; margin-bottom: 0px; z-index: 1;}",
+        ".multicolumn__column {outline-color: #e2e2e2; outline-style: solid; outline-width: 1px; margin-bottom: 1px; z-index: 1;}",
         ".multicolumn__column:hover {transition: outline-color 0.5s ease-in-out; outline-width: 2px; outline-color: #cf7239; z-index: 2;}",
         ".multicolumn__image {margin-bottom: 0px;}"
       ],
@@ -917,13 +917,69 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "column_rXCQrn": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/brand-hooey.png",
+            "image_full_width": false,
+            "retina": true,
+            "card_link": "",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_VPrCEp": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/brand-hooey.png",
+            "image_full_width": false,
+            "retina": true,
+            "card_link": "",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_wEct4X": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/brand-hooey.png",
+            "image_full_width": false,
+            "retina": true,
+            "card_link": "",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_wbb94K": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/brand-hooey.png",
+            "image_full_width": false,
+            "retina": true,
+            "card_link": "",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
-        "column_BrbMxy"
+        "column_BrbMxy",
+        "column_rXCQrn",
+        "column_VPrCEp",
+        "column_wEct4X",
+        "column_wbb94K"
       ],
       "custom_css": [
-        ".multicolumn__column {outline-color: #e2e2e2; outline-style: solid; outline-width: 1px; margin-bottom: 0px; z-index: 1;}",
+        ".multicolumn__column {outline-color: #e2e2e2; outline-style: solid; outline-width: 1px; margin-bottom: 0px; margin-top: 1px; z-index: 1;}",
         ".multicolumn__column:hover {transition: outline-color 0.5s ease-in-out; outline-width: 2px; outline-color: #cf7239; z-index: 2;}",
         ".multicolumn__image {margin-bottom: 0px;}"
       ],
