@@ -409,7 +409,8 @@
       display: none; }
 
 .thb-filter ul label {
-  font-size: 0.875rem; }
+  font-size: 0.875rem;
+  cursor: pointer; }
 
 .thb-filter ul.list-color {
   display: flex;

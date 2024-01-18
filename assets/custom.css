@@ -123,3 +123,7 @@ product-card:focus .product-card-info .product-card-title {
     overflow: hidden;
     text-overflow: ellipsis;
 }
+
+.disabled-hidden {
+    display: none !important;
+}
