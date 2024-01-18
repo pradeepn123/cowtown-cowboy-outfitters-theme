@@ -449,6 +449,19 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "column_AnXKUX": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/brand-corral_boots.png",
+            "image_full_width": false,
+            "retina": true,
+            "card_link": "https:\/\/cowtowncowboyoutfitters.myshopify.com\/collections\/vendors?q=Corral%20Boots",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
@@ -472,7 +485,8 @@
         "column_accBVT",
         "column_8pdWgp",
         "column_kLpWwR",
-        "column_YMggtC"
+        "column_YMggtC",
+        "column_AnXKUX"
       ],
       "custom_css": [
         ".multicolumn__column {outline-color: #e2e2e2; outline-style: solid; outline-width: 1px; margin-bottom: 0px; z-index: 1;}",
