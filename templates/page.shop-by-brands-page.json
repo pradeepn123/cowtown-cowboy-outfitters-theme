@@ -892,7 +892,7 @@
         "full_width": true,
         "display_type": "grid",
         "image_ratio": "adapt",
-        "columns_desktop": 6,
+        "columns_desktop": 5,
         "columns_mobile": 3,
         "text_alignment": "center",
         "heading_size": "h5",
