@@ -35,7 +35,7 @@
 												<input type="checkbox"
 													name="{{ value.param_name }}"
 													value="{{ value.value }}"
-													class="thb-filter-switch custom-checkbox"
+													class="thb-filter-switch custom-checkbox {% if value.count == 0 and value.active == false %}{% unless value.param_name == "filter.v.option.color" %}disabled-hidden{% endunless %}{% endif %}"
 													id="Filter-{{ label }}-{{ forloop.index }}"
 													{% if value.active %}checked{% endif %}
 													{% if value.count == 0 and value.active == false %}disabled{% endif %}
@@ -89,6 +89,7 @@
 								                name="{{ value.param_name }}"
 								                value="{{ value.value }}"
 								                id="Filter-{{ label }}-{{ forloop.index }}"
+												class="{% if value.count == 0 and value.active == false %}{% unless value.param_name == "filter.v.option.color" %}disabled-hidden{% endunless %}{% endif %}"
 								                {% if value.active %}checked{% endif %}
 								                {% if value.count == 0 and value.active == false %}disabled{% endif %}
 								              >
@@ -116,7 +117,7 @@
 																{%- endcapture -%}
 																<label
 																	for="Filter-{{ label }}-{{ forloop.index }}"
-																	class="facet-checkbox facet-checkbox--presentation{% if value.count == 0 and value.active == false %} facet-checkbox--disabled{% endif %}"
+																	class="facet-checkbox facet-checkbox--presentation{% if value.count == 0 and value.active == false %} facet-checkbox--disabled {% unless value.param_name == "filter.v.option.color" %}disabled-hidden{% endunless %}{% endif %}"
 																	style="--option-color-image:{%- if bg_value == empty -%}conic-gradient({{ conic_gradient }}){%- else -%}url('{{ bg_value }}'){%- endif -%};"
 																	data-tooltip="{{ value.label | escape }} ({{ value.count }})"
 																>
@@ -140,7 +141,7 @@
 																-%}
 																<label
 																	for="Filter-{{ label }}-{{ forloop.index }}"
-																	class="facet-checkbox{% if value.count == 0 and value.active == false %} facet-checkbox--disabled{% endif %}"
+																	class="facet-checkbox{% if value.count == 0 and value.active == false %} facet-checkbox--disabled {% unless value.param_name == "filter.v.option.color" %}disabled-hidden{% endunless %}{% endif %}"
 																	style="--bg-color: {{ color_value | downcase | escape }};{%- if bg_value != blank -%} --option-color-image: url('{{ bg_value | escape }}');{%- endif -%}"
 																	data-tooltip="{{ value.label | escape }} ({{ value.count }})"
 																>
