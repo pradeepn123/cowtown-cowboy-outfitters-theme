@@ -1450,6 +1450,19 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "column_gr8LqP": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/brand-twisted_x_boot.png",
+            "image_full_width": false,
+            "retina": true,
+            "card_link": "https:\/\/cowtowncowboyoutfitters.myshopify.com\/collections\/vendors?q=Twisted%20X%20Boots",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
@@ -1494,7 +1507,8 @@
         "column_aVcHnB",
         "column_97ywRQ",
         "column_gnyi87",
-        "column_Q8LEie"
+        "column_Q8LEie",
+        "column_gr8LqP"
       ],
       "custom_css": [
         ".multicolumn__column {outline-color: #e2e2e2; outline-style: solid; outline-width: 1px; margin-bottom: 0px; margin-top: 1px; z-index: 1;}",
