@@ -1359,6 +1359,19 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "column_XVh4tN": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/brand-silver_strike.png",
+            "image_full_width": false,
+            "retina": true,
+            "card_link": "https:\/\/cowtowncowboyoutfitters.myshopify.com\/collections\/vendors?q=Silver%20Strike",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
@@ -1396,7 +1409,8 @@
         "column_eTPDgH",
         "column_nYjnqH",
         "column_ghyqMx",
-        "column_VayPaQ"
+        "column_VayPaQ",
+        "column_XVh4tN"
       ],
       "custom_css": [
         ".multicolumn__column {outline-color: #e2e2e2; outline-style: solid; outline-width: 1px; margin-bottom: 0px; margin-top: 1px; z-index: 1;}",
