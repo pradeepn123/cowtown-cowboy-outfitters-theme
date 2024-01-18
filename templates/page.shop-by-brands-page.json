@@ -709,6 +709,19 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "column_4xXmt6": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/brand-h_miller_belt.png",
+            "image_full_width": false,
+            "retina": true,
+            "card_link": "https:\/\/cowtowncowboyoutfitters.myshopify.com\/collections\/vendors?q=H%20Miller%20Belts",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
@@ -752,7 +765,8 @@
         "column_RiYMMG",
         "column_THaMJh",
         "column_XyXzpt",
-        "column_Uj8jy3"
+        "column_Uj8jy3",
+        "column_4xXmt6"
       ],
       "custom_css": [
         ".multicolumn__column {outline-color: #e2e2e2; outline-style: solid; outline-width: 1px; margin-bottom: 0px; z-index: 1;}",
