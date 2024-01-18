@@ -917,10 +917,24 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "column_JEkbrC": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/brand-los_altos_boots.png",
+            "image_full_width": false,
+            "retina": true,
+            "card_link": "https:\/\/cowtowncowboyoutfitters.myshopify.com\/collections\/vendors?q=Los%20Altos%20Boots",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
-        "column_rXCQrn"
+        "column_rXCQrn",
+        "column_JEkbrC"
       ],
       "custom_css": [
         ".multicolumn__column {outline-color: #e2e2e2; outline-style: solid; outline-width: 1px; margin-bottom: 0px; margin-top: 1px; z-index: 1;}",
