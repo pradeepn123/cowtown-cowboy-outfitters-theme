@@ -1372,6 +1372,19 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "column_LDMAM6": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/brand-skin_shop_usa.png",
+            "image_full_width": false,
+            "retina": true,
+            "card_link": "https:\/\/cowtowncowboyoutfitters.myshopify.com\/collections\/vendors?q=Skin%20Shop%20USA",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
@@ -1410,7 +1423,8 @@
         "column_nYjnqH",
         "column_ghyqMx",
         "column_VayPaQ",
-        "column_XVh4tN"
+        "column_XVh4tN",
+        "column_LDMAM6"
       ],
       "custom_css": [
         ".multicolumn__column {outline-color: #e2e2e2; outline-style: solid; outline-width: 1px; margin-bottom: 0px; margin-top: 1px; z-index: 1;}",
