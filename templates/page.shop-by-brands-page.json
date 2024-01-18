@@ -943,12 +943,26 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "column_KGM7bT": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/brand-lucky_and_blessed.png",
+            "image_full_width": false,
+            "retina": true,
+            "card_link": "https:\/\/cowtowncowboyoutfitters.myshopify.com\/collections\/vendors?q=Lucky%20%26%20Blessed",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
         "column_rXCQrn",
         "column_JEkbrC",
-        "column_CQjQHD"
+        "column_CQjQHD",
+        "column_KGM7bT"
       ],
       "custom_css": [
         ".multicolumn__column {outline-color: #e2e2e2; outline-style: solid; outline-width: 1px; margin-bottom: 0px; margin-top: 1px; z-index: 1;}",
