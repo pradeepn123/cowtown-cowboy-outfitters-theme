@@ -1,0 +1,251 @@
+{
+  "sections": {
+    "breadcrumbs": {
+      "type": "breadcrumbs",
+      "settings": {
+      }
+    },
+    "main-product": {
+      "type": "main-product",
+      "blocks": {
+        "e431a79e-9c7b-4a53-a79a-0cb918617ecf": {
+          "type": "text",
+          "settings": {
+            "text": "{{ product.vendor }}",
+            "text_style": "style_vendor"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "uppercase": true,
+            "show_products_rating": true
+          }
+        },
+        "d20d07fc-1acd-491b-88c9-4c436a6f489e": {
+          "type": "sku",
+          "disabled": true,
+          "settings": {
+            "sku_style": "style_vendor"
+          }
+        },
+        "06adf5b2-9f33-43d9-b036-6b6e0529cd0b": {
+          "type": "shopify:\/\/apps\/okendo\/blocks\/star-rating\/bb689e69-ea70-4661-8fb7-ad24a2e23c29",
+          "settings": {
+            "product": "{{product}}"
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "color_picker": false,
+            "color_picker_size": "regular",
+            "color_picker_use_variants": false,
+            "variant_is_disabled": true,
+            "sizing_guide_text": "Size Chart",
+            "sizing_guide_icon": "ruler",
+            "sizing_guide_page": "size-chart"
+          }
+        },
+        "e72fd1ac-fe4d-4e65-a0cb-b9a4193c5198": {
+          "type": "inventory_level",
+          "settings": {
+            "show_inventory_notice": "always",
+            "show_inventory_count": "always",
+            "inventory_notice_pulse": true,
+            "inventory_notice_bar": false,
+            "inventory_notice_threshold": 10,
+            "inventory_notice_base": 0
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_quantity_selector": true,
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": false
+          }
+        },
+        "74bbeec9-f11d-455d-bf1d-80a940469f70": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "DESCRIPTION",
+            "open": true,
+            "content": "",
+            "page": "",
+            "custom_liquid": "{{ product.description }}"
+          }
+        },
+        "95b7e00a-0453-4eb0-9cf0-1dae84d8b822": {
+          "type": "side_panel",
+          "settings": {
+            "side_panel_1_label": "Shipping Details",
+            "side_panel_1_icon": "box",
+            "side_panel_1_content": "",
+            "side_panel_1_page": "shipping-popup",
+            "side_panel_2_label": "Returns & Cancelled Orders",
+            "side_panel_2_icon": "box",
+            "side_panel_2_content": "",
+            "side_panel_2_page": "returns-popup",
+            "side_panel_3_label": "",
+            "side_panel_3_icon": "washing",
+            "side_panel_3_content": "",
+            "side_panel_3_page": ""
+          }
+        },
+        "4fd23485-293f-46a0-8a4c-34d0e25ea41b": {
+          "type": "share",
+          "settings": {
+          }
+        },
+        "a38a706a-2cba-4bb8-a6b6-45fcfde8a9b9": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ccow-logo-black.png",
+            "position": "text-left",
+            "line_spacing": true
+          }
+        },
+        "9a8d8a96-6d94-48b4-8390-130a7f9b1701": {
+          "type": "text",
+          "settings": {
+            "text": "Cowtown Cowboy Outfitters is a family-owned and operated business that has been proudly supplying the very best in western wear since 1958. We aren't big, we aren't corporate, we are a small town business and we care about our customers. Give us the opportunity to serve you & become part of our family!",
+            "text_style": "style_body"
+          }
+        }
+      },
+      "block_order": [
+        "e431a79e-9c7b-4a53-a79a-0cb918617ecf",
+        "title",
+        "d20d07fc-1acd-491b-88c9-4c436a6f489e",
+        "06adf5b2-9f33-43d9-b036-6b6e0529cd0b",
+        "variant_picker",
+        "e72fd1ac-fe4d-4e65-a0cb-b9a4193c5198",
+        "buy_buttons",
+        "74bbeec9-f11d-455d-bf1d-80a940469f70",
+        "95b7e00a-0453-4eb0-9cf0-1dae84d8b822",
+        "4fd23485-293f-46a0-8a4c-34d0e25ea41b",
+        "a38a706a-2cba-4bb8-a6b6-45fcfde8a9b9",
+        "9a8d8a96-6d94-48b4-8390-130a7f9b1701"
+      ],
+      "settings": {
+        "full_width": true,
+        "enable_sticky_info": true,
+        "enable_sticky_add_to_cart": true,
+        "show_taxes_included": true,
+        "media_layout": "grid",
+        "display_slider_pagination": true,
+        "media_aspect_ratio": "portrait",
+        "display_captions": false,
+        "hide_variants": true,
+        "lightbox": true,
+        "enable_video_looping": true
+      }
+    },
+    "1662552569cce2536d": {
+      "type": "spacer",
+      "settings": {
+        "spacer_mobile": 10,
+        "spacer_desktop": 40,
+        "border_separator": true,
+        "border_separator_full": true
+      }
+    },
+    "dc3a7e96-fa89-4b4a-aa7c-d90584fb15ec": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15359156256849__dc3a7e96-fa89-4b4a-aa7c-d90584fb15ec-heading-1": {
+          "type": "heading",
+          "settings": {
+            "text": "Customer Reviews",
+            "size": "h3"
+          }
+        },
+        "a76e32b9-4144-4315-80ac-65ccf80ebe03": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Hear it from our customers!<\/p>",
+            "size": "text-size-regular"
+          }
+        }
+      },
+      "block_order": [
+        "template--15359156256849__dc3a7e96-fa89-4b4a-aa7c-d90584fb15ec-heading-1",
+        "a76e32b9-4144-4315-80ac-65ccf80ebe03"
+      ],
+      "settings": {
+        "section_width": "full-width-row",
+        "text_width": "xlarge",
+        "text_position": "left",
+        "text_alignment": "left",
+        "color_bg": "rgba(0,0,0,0)",
+        "color_text": "#151515",
+        "btn_bgcolor": "#151515",
+        "color_links": "#151515",
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": true
+      }
+    },
+    "1704709393e2ce0209": {
+      "type": "apps",
+      "blocks": {
+        "f3a807d9-3cfe-4670-8d45-533233956874": {
+          "type": "shopify:\/\/apps\/okendo\/blocks\/reviews-widget\/bb689e69-ea70-4661-8fb7-ad24a2e23c29",
+          "settings": {
+            "product": "{{product}}",
+            "widget_type": "reviews_widget"
+          }
+        }
+      },
+      "block_order": [
+        "f3a807d9-3cfe-4670-8d45-533233956874"
+      ],
+      "settings": {
+      }
+    },
+    "d4a50e3c-aca5-442f-ad82-d44e842c1216": {
+      "type": "spacer",
+      "settings": {
+        "spacer_mobile": 10,
+        "spacer_desktop": 40,
+        "border_separator": true,
+        "border_separator_full": true
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "heading": "You may also like",
+        "heading_left": true,
+        "description": "<p>Your style, our suggestions. Explore similar products.<\/p>",
+        "full_width": true,
+        "mobile_swipe": true,
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": false
+      }
+    },
+    "99e1f32a-bc59-4a01-8af7-b240a296ef02": {
+      "type": "recently-viewed-products",
+      "settings": {
+        "heading": "Recently viewed products.",
+        "heading_left": true,
+        "description": "<p>Pick up where you left off<\/p>",
+        "full_width": true,
+        "mobile_swipe": true,
+        "disable_top_spacing": true,
+        "disable_bottom_spacing": false
+      }
+    }
+  },
+  "order": [
+    "breadcrumbs",
+    "main-product",
+    "1662552569cce2536d",
+    "dc3a7e96-fa89-4b4a-aa7c-d90584fb15ec",
+    "1704709393e2ce0209",
+    "d4a50e3c-aca5-442f-ad82-d44e842c1216",
+    "product-recommendations",
+    "99e1f32a-bc59-4a01-8af7-b240a296ef02"
+  ]
+}
