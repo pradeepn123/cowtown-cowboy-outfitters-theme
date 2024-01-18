@@ -1411,6 +1411,19 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "column_97ywRQ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/brand-stetson_hats.png",
+            "image_full_width": false,
+            "retina": true,
+            "card_link": "https:\/\/cowtowncowboyoutfitters.myshopify.com\/collections\/vendors?q=Stetson%20Hats",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
@@ -1452,7 +1465,8 @@
         "column_XVh4tN",
         "column_LDMAM6",
         "column_Nbm7WF",
-        "column_aVcHnB"
+        "column_aVcHnB",
+        "column_97ywRQ"
       ],
       "custom_css": [
         ".multicolumn__column {outline-color: #e2e2e2; outline-style: solid; outline-width: 1px; margin-bottom: 0px; margin-top: 1px; z-index: 1;}",
