@@ -1437,6 +1437,19 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "column_Q8LEie": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/brand-tru_fragrance.png",
+            "image_full_width": false,
+            "retina": true,
+            "card_link": "https:\/\/cowtowncowboyoutfitters.myshopify.com\/collections\/vendors?q=Tru%20Fragrance",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
@@ -1480,7 +1493,8 @@
         "column_Nbm7WF",
         "column_aVcHnB",
         "column_97ywRQ",
-        "column_gnyi87"
+        "column_gnyi87",
+        "column_Q8LEie"
       ],
       "custom_css": [
         ".multicolumn__column {outline-color: #e2e2e2; outline-style: solid; outline-width: 1px; margin-bottom: 0px; margin-top: 1px; z-index: 1;}",
