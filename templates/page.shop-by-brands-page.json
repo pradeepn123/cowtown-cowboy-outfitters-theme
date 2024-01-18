@@ -1242,6 +1242,19 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "column_j3pWHq": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/brand-rockmount_ranchwear.png",
+            "image_full_width": false,
+            "retina": true,
+            "card_link": "https:\/\/cowtowncowboyoutfitters.myshopify.com\/collections\/vendors?q=Rockmount%20Ranchwear",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
@@ -1270,7 +1283,8 @@
         "column_a7AYtG",
         "column_LnDD9i",
         "column_LnV4mp",
-        "column_BarRxK"
+        "column_BarRxK",
+        "column_j3pWHq"
       ],
       "custom_css": [
         ".multicolumn__column {outline-color: #e2e2e2; outline-style: solid; outline-width: 1px; margin-bottom: 0px; margin-top: 1px; z-index: 1;}",
