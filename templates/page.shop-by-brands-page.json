@@ -180,10 +180,10 @@
         "column_YfbkiK": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/brand-ariat.png",
+            "image": "shopify:\/\/shop_images\/brand-3d.png",
             "image_full_width": false,
             "retina": true,
-            "card_link": "",
+            "card_link": "https:\/\/cowtowncowboyoutfitters.myshopify.com\/collections\/vendors?q=3D",
             "title": "",
             "text": "",
             "link_label": "",
@@ -241,97 +241,6 @@
             "link_label": "",
             "link": ""
           }
-        },
-        "column_DcWUbb": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/brand-ariat.png",
-            "image_full_width": false,
-            "retina": true,
-            "card_link": "",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_9wxN6M": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/brand-ariat.png",
-            "image_full_width": false,
-            "retina": true,
-            "card_link": "",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_EzyUji": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/brand-ariat.png",
-            "image_full_width": false,
-            "retina": true,
-            "card_link": "",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_kzmDzB": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/brand-ariat.png",
-            "image_full_width": false,
-            "retina": true,
-            "card_link": "",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_3QP3iC": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/brand-ariat.png",
-            "image_full_width": false,
-            "retina": true,
-            "card_link": "",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_3rUmyM": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/brand-ariat.png",
-            "image_full_width": false,
-            "retina": true,
-            "card_link": "",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_M3aFBP": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/brand-ariat.png",
-            "image_full_width": false,
-            "retina": true,
-            "card_link": "",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
         }
       },
       "block_order": [
@@ -339,14 +248,7 @@
         "column_AJn7aA",
         "column_F9KnUj",
         "column_JgzwRU",
-        "column_3hWkVz",
-        "column_DcWUbb",
-        "column_9wxN6M",
-        "column_EzyUji",
-        "column_kzmDzB",
-        "column_3QP3iC",
-        "column_3rUmyM",
-        "column_M3aFBP"
+        "column_3hWkVz"
       ],
       "custom_css": [
         ".multicolumn__column {outline-color: #e2e2e2; outline-style: solid; outline-width: 1px; margin-bottom: 0px; z-index: 1;}",
