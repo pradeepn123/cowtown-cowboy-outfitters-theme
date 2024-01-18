@@ -1047,6 +1047,19 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "column_eB7Dfr": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/brand-myra_bag.png",
+            "image_full_width": false,
+            "retina": true,
+            "card_link": "https:\/\/cowtowncowboyoutfitters.myshopify.com\/collections\/vendors?q=Myra%20Bag",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
@@ -1060,7 +1073,8 @@
         "column_NKkqGg",
         "column_Q9aqje",
         "column_FYXcrM",
-        "column_G9cYBg"
+        "column_G9cYBg",
+        "column_eB7Dfr"
       ],
       "custom_css": [
         ".multicolumn__column {outline-color: #e2e2e2; outline-style: solid; outline-width: 1px; margin-bottom: 0px; margin-top: 1px; z-index: 1;}",
