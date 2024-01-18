@@ -683,6 +683,19 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "column_XyXzpt": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/brand-good_southerner.png",
+            "image_full_width": false,
+            "retina": true,
+            "card_link": "https:\/\/cowtowncowboyoutfitters.myshopify.com\/collections\/vendors?q=Good%20Southerner",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
@@ -724,7 +737,8 @@
         "column_m3y9LR",
         "column_mttpa8",
         "column_RiYMMG",
-        "column_THaMJh"
+        "column_THaMJh",
+        "column_XyXzpt"
       ],
       "custom_css": [
         ".multicolumn__column {outline-color: #e2e2e2; outline-style: solid; outline-width: 1px; margin-bottom: 0px; z-index: 1;}",
