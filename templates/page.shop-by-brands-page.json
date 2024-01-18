@@ -748,6 +748,19 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "column_y8Li7b": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/brand-jfh_inter_inc.png",
+            "image_full_width": false,
+            "retina": true,
+            "card_link": "https:\/\/cowtowncowboyoutfitters.myshopify.com\/collections\/vendors?q=JFH%20GROUP%20INTER%20INC",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
@@ -794,7 +807,8 @@
         "column_Uj8jy3",
         "column_4xXmt6",
         "column_i3rtfz",
-        "column_NKFKm6"
+        "column_NKFKm6",
+        "column_y8Li7b"
       ],
       "custom_css": [
         ".multicolumn__column {outline-color: #e2e2e2; outline-style: solid; outline-width: 1px; margin-bottom: 0px; z-index: 1;}",
