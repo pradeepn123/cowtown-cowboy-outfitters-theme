@@ -1424,6 +1424,19 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "column_gnyi87": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/brand-the_queens_jewels.png",
+            "image_full_width": false,
+            "retina": true,
+            "card_link": "https:\/\/cowtowncowboyoutfitters.myshopify.com\/collections\/vendors?q=The%20Queens%27%20Jewels",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
@@ -1466,7 +1479,8 @@
         "column_LDMAM6",
         "column_Nbm7WF",
         "column_aVcHnB",
-        "column_97ywRQ"
+        "column_97ywRQ",
+        "column_gnyi87"
       ],
       "custom_css": [
         ".multicolumn__column {outline-color: #e2e2e2; outline-style: solid; outline-width: 1px; margin-bottom: 0px; margin-top: 1px; z-index: 1;}",
