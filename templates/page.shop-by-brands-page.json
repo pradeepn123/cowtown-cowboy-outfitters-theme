@@ -1138,6 +1138,19 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "column_w7HrYk": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/brand-phunky_horse.png",
+            "image_full_width": false,
+            "retina": true,
+            "card_link": "https:\/\/cowtowncowboyoutfitters.myshopify.com\/collections\/vendors?q=Phunky%20Horse",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
@@ -1158,7 +1171,8 @@
         "column_Ekq7R3",
         "column_dVc6Ad",
         "column_iExE8Q",
-        "column_aijeNc"
+        "column_aijeNc",
+        "column_w7HrYk"
       ],
       "custom_css": [
         ".multicolumn__column {outline-color: #e2e2e2; outline-style: solid; outline-width: 1px; margin-bottom: 0px; margin-top: 1px; z-index: 1;}",
