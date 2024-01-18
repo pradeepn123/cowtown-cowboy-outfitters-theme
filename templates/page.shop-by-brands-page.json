@@ -995,6 +995,19 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "column_NKkqGg": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/brand-montecarlo_hats.png",
+            "image_full_width": false,
+            "retina": true,
+            "card_link": "https:\/\/cowtowncowboyoutfitters.myshopify.com\/collections\/vendors?q=Montecarlo%20Hats",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
@@ -1004,7 +1017,8 @@
         "column_KGM7bT",
         "column_76RNQC",
         "column_dnB4Pq",
-        "column_WRpFJm"
+        "column_WRpFJm",
+        "column_NKkqGg"
       ],
       "custom_css": [
         ".multicolumn__column {outline-color: #e2e2e2; outline-style: solid; outline-width: 1px; margin-bottom: 0px; margin-top: 1px; z-index: 1;}",
