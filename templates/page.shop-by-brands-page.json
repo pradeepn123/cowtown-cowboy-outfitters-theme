@@ -905,23 +905,10 @@
     "multicolumn_Ep3ge4": {
       "type": "multicolumn",
       "blocks": {
-        "column_BrbMxy": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/brand-hooey.png",
-            "image_full_width": false,
-            "retina": true,
-            "card_link": "",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
         "column_rXCQrn": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/brand-hooey.png",
+            "image": "shopify:\/\/shop_images\/brand-kimes_ranch.png",
             "image_full_width": false,
             "retina": true,
             "card_link": "",
@@ -931,10 +918,10 @@
             "link": ""
           }
         },
-        "column_VPrCEp": {
+        "column_6beYdE": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/brand-hooey.png",
+            "image": "shopify:\/\/shop_images\/brand-kimes_ranch.png",
             "image_full_width": false,
             "retina": true,
             "card_link": "",
@@ -944,10 +931,10 @@
             "link": ""
           }
         },
-        "column_wEct4X": {
+        "column_CMMk8R": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/brand-hooey.png",
+            "image": "shopify:\/\/shop_images\/brand-kimes_ranch.png",
             "image_full_width": false,
             "retina": true,
             "card_link": "",
@@ -957,10 +944,23 @@
             "link": ""
           }
         },
-        "column_wbb94K": {
+        "column_Q4Yznc": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/brand-hooey.png",
+            "image": "shopify:\/\/shop_images\/brand-kimes_ranch.png",
+            "image_full_width": false,
+            "retina": true,
+            "card_link": "",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_rKYA3B": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/brand-kimes_ranch.png",
             "image_full_width": false,
             "retina": true,
             "card_link": "",
@@ -972,11 +972,11 @@
         }
       },
       "block_order": [
-        "column_BrbMxy",
         "column_rXCQrn",
-        "column_VPrCEp",
-        "column_wEct4X",
-        "column_wbb94K"
+        "column_6beYdE",
+        "column_CMMk8R",
+        "column_Q4Yznc",
+        "column_rKYA3B"
       ],
       "custom_css": [
         ".multicolumn__column {outline-color: #e2e2e2; outline-style: solid; outline-width: 1px; margin-bottom: 0px; margin-top: 1px; z-index: 1;}",
@@ -992,7 +992,7 @@
         "image_ratio": "adapt",
         "columns_desktop": 5,
         "columns_mobile": 2,
-        "text_alignment": "left",
+        "text_alignment": "center",
         "heading_size": "h5",
         "mobile_swipe": false,
         "show_progress_bar": true,
