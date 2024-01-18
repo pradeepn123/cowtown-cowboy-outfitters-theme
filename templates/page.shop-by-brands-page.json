@@ -930,11 +930,25 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "column_CQjQHD": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/brand-lucchese_76f4fd38-52ac-4468-8902-292cfddcfdbe.png",
+            "image_full_width": false,
+            "retina": true,
+            "card_link": "",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
         "column_rXCQrn",
-        "column_JEkbrC"
+        "column_JEkbrC",
+        "column_CQjQHD"
       ],
       "custom_css": [
         ".multicolumn__column {outline-color: #e2e2e2; outline-style: solid; outline-width: 1px; margin-bottom: 0px; margin-top: 1px; z-index: 1;}",
