@@ -761,6 +761,19 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "column_gcim8z": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/brand-justin_boots_6c0c42b0-a1cb-45c6-89eb-7b2a8941c209.png",
+            "image_full_width": false,
+            "retina": true,
+            "card_link": "https:\/\/cowtowncowboyoutfitters.myshopify.com\/collections\/vendors?q=Justin%20Boot%20Co",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
@@ -808,7 +821,8 @@
         "column_4xXmt6",
         "column_i3rtfz",
         "column_NKFKm6",
-        "column_y8Li7b"
+        "column_y8Li7b",
+        "column_gcim8z"
       ],
       "custom_css": [
         ".multicolumn__column {outline-color: #e2e2e2; outline-style: solid; outline-width: 1px; margin-bottom: 0px; z-index: 1;}",
