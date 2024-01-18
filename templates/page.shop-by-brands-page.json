@@ -540,6 +540,19 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "column_HgCW6g": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/brand-dan_post_166fe9cc-18af-4102-9371-b76ce1af4776.png",
+            "image_full_width": false,
+            "retina": true,
+            "card_link": "https:\/\/cowtowncowboyoutfitters.myshopify.com\/collections\/vendors?q=Dan%20Post%2FLaredo%2FDingo",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
@@ -570,7 +583,8 @@
         "column_ghpF3N",
         "column_DbfVmg",
         "column_jarpmr",
-        "column_PMiU6P"
+        "column_PMiU6P",
+        "column_HgCW6g"
       ],
       "custom_css": [
         ".multicolumn__column {outline-color: #e2e2e2; outline-style: solid; outline-width: 1px; margin-bottom: 0px; z-index: 1;}",
