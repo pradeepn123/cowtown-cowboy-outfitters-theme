@@ -267,6 +267,19 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "column_fCXp4e": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/brand-b_and_d_diamond_co.png",
+            "image_full_width": false,
+            "retina": true,
+            "card_link": "https:\/\/cowtowncowboyoutfitters.myshopify.com\/collections\/vendors?q=B%20and%20D%20Diamond%20Co",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
@@ -276,7 +289,8 @@
         "column_JgzwRU",
         "column_3hWkVz",
         "column_R3gkcL",
-        "column_gdnAYq"
+        "column_gdnAYq",
+        "column_fCXp4e"
       ],
       "custom_css": [
         ".multicolumn__column {outline-color: #e2e2e2; outline-style: solid; outline-width: 1px; margin-bottom: 0px; z-index: 1;}",
