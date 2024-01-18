@@ -254,6 +254,19 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "column_gdnAYq": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/brand-austin_accent.png",
+            "image_full_width": false,
+            "retina": true,
+            "card_link": "https:\/\/cowtowncowboyoutfitters.myshopify.com\/collections\/vendors?q=Austin%20Accent%2FFashion%20west",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
@@ -262,7 +275,8 @@
         "column_F9KnUj",
         "column_JgzwRU",
         "column_3hWkVz",
-        "column_R3gkcL"
+        "column_R3gkcL",
+        "column_gdnAYq"
       ],
       "custom_css": [
         ".multicolumn__column {outline-color: #e2e2e2; outline-style: solid; outline-width: 1px; margin-bottom: 0px; z-index: 1;}",
