@@ -905,6 +905,19 @@
     "multicolumn_Ep3ge4": {
       "type": "multicolumn",
       "blocks": {
+        "column_QYxry8": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/brand-leegin.png",
+            "image_full_width": false,
+            "retina": true,
+            "card_link": "https:\/\/cowtowncowboyoutfitters.myshopify.com\/collections\/vendors?q=Leegin",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
         "column_rXCQrn": {
           "type": "column",
           "settings": {
@@ -1531,6 +1544,7 @@
         }
       },
       "block_order": [
+        "column_QYxry8",
         "column_rXCQrn",
         "column_JEkbrC",
         "column_CQjQHD",
