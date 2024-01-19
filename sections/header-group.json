@@ -172,8 +172,7 @@
       "custom_css": [
         ".thb-full-menu > li:last-child a {color: #e12929;}",
         ".thb-full-menu > li:last-child a:after {background: #e12929;}",
-        ".thb-full-menu > li:first-child ul {display: flex; flex-direction: column;}",
-        ".mega-menu-promotion{width:20vw;}"
+        ".thb-full-menu > li:first-child ul {display: flex; flex-direction: column;}"
       ],
       "settings": {
         "sticky_header": true,
