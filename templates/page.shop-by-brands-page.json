@@ -163,7 +163,7 @@
         "description": "",
         "full_width": true,
         "display_type": "carousel",
-        "image_ratio": "square",
+        "image_ratio": "adapt",
         "columns_desktop": 4,
         "columns_mobile": 2,
         "text_alignment": "left",
