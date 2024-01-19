@@ -123,7 +123,7 @@
         "column_LgUxpk": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/brand-justin_boots.png",
+            "image": "shopify:\/\/shop_images\/popbrand_wrangler.png",
             "image_full_width": false,
             "retina": true,
             "card_link": "",
@@ -136,7 +136,7 @@
         "column_wc9nGY": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/brand-roper.png",
+            "image": "shopify:\/\/shop_images\/popbrand_wrangler-1.png",
             "image_full_width": false,
             "retina": true,
             "card_link": "",
