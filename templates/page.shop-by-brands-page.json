@@ -807,7 +807,7 @@
             "image": "shopify:\/\/shop_images\/brand-laredo-1.png",
             "image_full_width": false,
             "retina": true,
-            "card_link": "",
+            "card_link": "https:\/\/cowtowncowboyoutfitters.myshopify.com\/collections\/all?filter.p.vendor=Dan+Post%2FLaredo%2FDingo",
             "title": "",
             "text": "",
             "link_label": "",
@@ -820,7 +820,7 @@
             "image": "shopify:\/\/shop_images\/brand-laredo.png",
             "image_full_width": false,
             "retina": true,
-            "card_link": "",
+            "card_link": "https:\/\/cowtowncowboyoutfitters.myshopify.com\/collections\/all?filter.p.vendor=Dan+Post%2FLaredo%2FDingo",
             "title": "",
             "text": "",
             "link_label": "",
@@ -1412,6 +1412,19 @@
             "link": ""
           }
         },
+        "column_Y79D8J": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/brand-sp_sophia_collection.png",
+            "image_full_width": false,
+            "retina": true,
+            "card_link": "https:\/\/cowtowncowboyoutfitters.myshopify.com\/collections\/vendors?q=YeeYee",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
         "column_aVcHnB": {
           "type": "column",
           "settings": {
@@ -1583,6 +1596,7 @@
         "column_XVh4tN",
         "column_LDMAM6",
         "column_Nbm7WF",
+        "column_Y79D8J",
         "column_aVcHnB",
         "column_97ywRQ",
         "column_gnyi87",
