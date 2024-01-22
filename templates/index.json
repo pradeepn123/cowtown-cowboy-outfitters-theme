@@ -699,14 +699,13 @@
         "reelup_shoppable_videos_reels_reelup_playlist_UYci48"
       ],
       "custom_css": [
-        ".reelUp_slider_heading {font-family: Krona One; font-weight: 600;}"
+        ".reelUp_slider_heading {font-family: Krona One;}"
       ],
       "settings": {
       }
     },
     "1647955648d6a0baee": {
       "type": "featured-blog",
-      "disabled": true,
       "custom_css": [
         ".blog-post:hover h5 a {color: #cf7239;}"
       ],
