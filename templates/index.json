@@ -754,7 +754,7 @@
         "title_alignment": "left",
         "description": "<p>Dive into a world of fashion insights, trendspotting, and expert tips. <\/p>",
         "full_width": true,
-        "blog": "default-blog",
+        "blog": "blog",
         "post_limit": 4,
         "columns_desktop": 4,
         "mobile_swipe": true,
