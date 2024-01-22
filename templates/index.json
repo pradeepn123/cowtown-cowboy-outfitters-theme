@@ -360,6 +360,18 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "column_qRKhw9": {
+          "type": "column",
+          "settings": {
+            "image_full_width": false,
+            "retina": true,
+            "card_link": "",
+            "title": "",
+            "text": "",
+            "link_label": "View All",
+            "link": "shopify:\/\/pages\/shop-by-brands"
+          }
         }
       },
       "block_order": [
@@ -370,7 +382,8 @@
         "450727ba-091a-4000-8f65-bebd9fc9abde",
         "0f336811-3b1f-4e7b-89a8-bb361e433fa7",
         "d555141e-2ffb-4701-ab03-2b87a23b5de3",
-        "30c98383-f18b-4ae3-a3ee-76ca6018acb0"
+        "30c98383-f18b-4ae3-a3ee-76ca6018acb0",
+        "column_qRKhw9"
       ],
       "settings": {
         "heading": "Shop By Brands",
