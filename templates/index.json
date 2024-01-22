@@ -677,12 +677,28 @@
     },
     "be0b3259-d7d8-4f28-9d8e-72de277573f3": {
       "type": "spacer",
-      "disabled": true,
       "settings": {
         "spacer_mobile": 0,
-        "spacer_desktop": 0,
-        "border_separator": true,
-        "border_separator_full": true
+        "spacer_desktop": 70,
+        "border_separator": false,
+        "border_separator_full": false
+      }
+    },
+    "170590640679c065c6": {
+      "type": "apps",
+      "blocks": {
+        "reelup_shoppable_videos_reels_reelup_playlist_UYci48": {
+          "type": "shopify:\/\/apps\/reelup-shoppable-videos-reels\/blocks\/reelup-playlist\/a8ec9e4d-d192-44f7-9c23-595f9ee7dd5b",
+          "settings": {
+            "playlist_id": "rl_pl_3163",
+            "debugging_script": ""
+          }
+        }
+      },
+      "block_order": [
+        "reelup_shoppable_videos_reels_reelup_playlist_UYci48"
+      ],
+      "settings": {
       }
     },
     "1647955648d6a0baee": {
@@ -762,23 +778,6 @@
         "disable_top_spacing": true,
         "disable_bottom_spacing": true
       }
-    },
-    "170590640679c065c6": {
-      "type": "apps",
-      "blocks": {
-        "reelup_shoppable_videos_reels_reelup_playlist_UYci48": {
-          "type": "shopify:\/\/apps\/reelup-shoppable-videos-reels\/blocks\/reelup-playlist\/a8ec9e4d-d192-44f7-9c23-595f9ee7dd5b",
-          "settings": {
-            "playlist_id": "rl_pl_3163",
-            "debugging_script": ""
-          }
-        }
-      },
-      "block_order": [
-        "reelup_shoppable_videos_reels_reelup_playlist_UYci48"
-      ],
-      "settings": {
-      }
     }
   },
   "order": [
@@ -794,8 +793,8 @@
     "17047971555c38cd6f",
     "032f7543-efbd-474e-8506-0174251add02",
     "be0b3259-d7d8-4f28-9d8e-72de277573f3",
+    "170590640679c065c6",
     "1647955648d6a0baee",
-    "16620983071df6eb29",
-    "170590640679c065c6"
+    "16620983071df6eb29"
   ]
 }
