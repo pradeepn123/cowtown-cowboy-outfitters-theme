@@ -72,8 +72,8 @@
       ],
       "settings": {
         "full_width": true,
-        "products_per_page": 20,
-        "columns_desktop": 3,
+        "products_per_page": 19,
+        "columns_desktop": 4,
         "pagination_type": "paginated",
         "enable_filtering": true,
         "enable_sorting": true,
