@@ -60,6 +60,7 @@
 						{% if link.title == "Shop By Brands" %}
 						<div class="mega-menu-scrolling-content">
 						{% endif %}
+						<scroll-shadow>
 							<ul class="mega-menu-columns{% if link.title == "Shop By Brands" %} scrolling-content-shadow{% endif %}" tabindex="-1">
 								{%- for l in link.links -%}
 									{% unless l.title == "View All Brands" %}
@@ -80,6 +81,7 @@
 									{% endunless %}
 								{%- endfor -%}
 							</ul>
+						</scroll-shadow>
 						{% if link.title == "Shop By Brands" %}
 							{%- for l in link.links -%}
 								{% if l.title == "View All Brands" %}

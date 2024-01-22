@@ -153,41 +153,11 @@ product-card:focus .product-card-info .product-card-title {
     gap: 0;
     flex-direction: column;
     overflow-y: scroll;
-    max-height: 250px;
+    max-height: 230px;
 }
 
 .thb-full-menu li.menu-item-has-children.menu-item-has-megamenu.menu-item-new-list .sub-menu .mega-menu-columns.scrolling-content-shadow {
     overflow: auto;
-    background:
-      /* Shadow Cover TOP */
-      linear-gradient(
-        white 30%,
-        rgba(255, 255, 255, 0)
-      ) center top,
-      
-      /* Shadow Cover BOTTOM */
-      linear-gradient(
-        rgba(255, 255, 255, 0), 
-        white 70%
-      ) center bottom,
-      
-      /* Shadow TOP */
-      radial-gradient(
-        farthest-side at 50% 0,
-        rgba(0, 0, 0, 0.2),
-        rgba(0, 0, 0, 0)
-      ) center top,
-      
-      /* Shadow BOTTOM */
-      radial-gradient(
-        farthest-side at 50% 100%,
-        rgba(0, 0, 0, 0.2),
-        rgba(0, 0, 0, 0)
-      ) center bottom;
-    
-    background-repeat: no-repeat;
-    background-size: 200% 40px,200% 40px,200% 25px,200% 25px;
-    background-attachment: local, local, scroll, scroll;
 }
 
 .thb-full-menu li.menu-item-has-children.menu-item-has-megamenu.menu-item-new-list .mega-menu-columns__heading {
