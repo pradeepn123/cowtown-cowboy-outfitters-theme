@@ -52,6 +52,7 @@
           "type": "megamenu",
           "settings": {
             "position": "1",
+            "promo_small": true,
             "promo_1_image": "shopify:\/\/shop_images\/popbrand_ariat.png",
             "promo_1_heading": "",
             "promo_1_link_label": "",
@@ -74,6 +75,7 @@
           "type": "megamenu",
           "settings": {
             "position": "2",
+            "promo_small": false,
             "promo_1_heading": "Promotion heading",
             "promo_1_link_label": "Shop",
             "promo_1_link": "",
@@ -92,6 +94,7 @@
           "type": "megamenu",
           "settings": {
             "position": "3",
+            "promo_small": false,
             "promo_1_heading": "Promotion heading",
             "promo_1_link_label": "Shop",
             "promo_1_link": "",
@@ -110,6 +113,7 @@
           "type": "megamenu",
           "settings": {
             "position": "4",
+            "promo_small": false,
             "promo_1_heading": "Promotion heading",
             "promo_1_link_label": "Shop",
             "promo_1_link": "",
@@ -128,6 +132,7 @@
           "type": "megamenu",
           "settings": {
             "position": "5",
+            "promo_small": false,
             "promo_1_heading": "Promotion heading",
             "promo_1_link_label": "Shop",
             "promo_1_link": "",
@@ -146,6 +151,7 @@
           "type": "megamenu",
           "settings": {
             "position": "6",
+            "promo_small": false,
             "promo_1_heading": "Promotion heading",
             "promo_1_link_label": "Shop",
             "promo_1_link": "",
