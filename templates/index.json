@@ -208,7 +208,7 @@
       "custom_css": [
         ".multicolumn__column:hover h4 {color: #cf7239; transition: 0.3s ease-out;}",
         ".multicolumn__image {margin-bottom: 0px;}",
-        ".multicolumn__column h4{font-weight:400;}"
+        ".multicolumn__column h4 {font-weight: 400;}"
       ],
       "settings": {
         "heading": "Shop By Category",
@@ -606,7 +606,7 @@
       "type": "apps",
       "blocks": {
         "df19ee3b-7df7-48d5-97b9-c26f208a93cc": {
-          "type": "shopify:\/\/apps\/okendo-product-reviews-ugc\/blocks\/reviews-carousel\/bb689e69-ea70-4661-8fb7-ad24a2e23c29",
+          "type": "shopify:\/\/apps\/okendo\/blocks\/reviews-carousel\/bb689e69-ea70-4661-8fb7-ad24a2e23c29",
           "settings": {
             "show_heading": true,
             "heading": "Customers Love Us",
@@ -762,6 +762,23 @@
         "disable_top_spacing": true,
         "disable_bottom_spacing": true
       }
+    },
+    "170590640679c065c6": {
+      "type": "apps",
+      "blocks": {
+        "reelup_shoppable_videos_reels_reelup_playlist_UYci48": {
+          "type": "shopify:\/\/apps\/reelup-shoppable-videos-reels\/blocks\/reelup-playlist\/a8ec9e4d-d192-44f7-9c23-595f9ee7dd5b",
+          "settings": {
+            "playlist_id": "rl_pl_3163",
+            "debugging_script": ""
+          }
+        }
+      },
+      "block_order": [
+        "reelup_shoppable_videos_reels_reelup_playlist_UYci48"
+      ],
+      "settings": {
+      }
     }
   },
   "order": [
@@ -778,6 +795,7 @@
     "032f7543-efbd-474e-8506-0174251add02",
     "be0b3259-d7d8-4f28-9d8e-72de277573f3",
     "1647955648d6a0baee",
-    "16620983071df6eb29"
+    "16620983071df6eb29",
+    "170590640679c065c6"
   ]
 }
