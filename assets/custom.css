@@ -127,3 +127,74 @@ product-card:focus .product-card-info .product-card-title {
 .disabled-hidden {
     display: none !important;
 }
+
+.thb-full-menu li.menu-item-has-children.menu-item-has-megamenu.menu-item-new-list .sub-menu {
+    display: flex;
+    gap: 10px;
+    padding: 10px;
+    max-height: 300px;
+}
+
+.thb-full-menu li.menu-item-has-children.menu-item-has-megamenu.menu-item-new-list .sub-menu  .mega-menu-scrolling-content {
+    padding: 10px 40px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.thb-full-menu li.menu-item-has-children.menu-item-has-megamenu.menu-item-new-list .sub-menu > * {
+    flex-grow: 1;
+    flex-basis: 0;
+}
+
+.thb-full-menu li.menu-item-has-children.menu-item-has-megamenu.menu-item-new-list .sub-menu .mega-menu-columns {
+    display: flex;
+    padding: 0;
+    gap: 0;
+    flex-direction: column;
+    overflow-y: scroll;
+    max-height: 230px;
+}
+
+.thb-full-menu li.menu-item-has-children.menu-item-has-megamenu.menu-item-new-list .sub-menu .mega-menu-columns.scrolling-content-shadow {
+    overflow: auto;
+}
+
+.thb-full-menu li.menu-item-has-children.menu-item-has-megamenu.menu-item-new-list .mega-menu-columns__heading {
+    margin-bottom: 0;
+    font-size: calc(var(--font-navigation-scale, 1) * 15px);
+    font-weight: 400;
+}
+
+.thb-full-menu li.menu-item-has-children.menu-item-has-megamenu.menu-item-new-list .sub-menu  .mega-menu-scrolling-content > .mega-menu-columns__heading {
+    width: fit-content;
+    position: relative;
+    font-weight: 600;
+}
+
+.thb-full-menu li.menu-item-has-children.menu-item-has-megamenu.menu-item-new-list .sub-menu  .mega-menu-scrolling-content > .mega-menu-columns__heading:after {
+    top: 100%;
+}
+
+.menu-view-all-btn {
+    font-weight: 600;
+}
+
+.mobile-menu .sub-menu .mega-menu-promotion-blocks {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin-right: -10px;
+    margin-left: -15px;
+}
+
+.mobile-menu .sub-menu .mega-menu-promotion-blocks > li {
+    width: 50%;
+    padding-left: 5px;
+    padding-bottom: 5px;
+}
+
+.mobile-menu-drawer .mega-menu-promotion-blocks .mega-menu-promotion {
+    width: 100%;
+    margin: 0;
+}
