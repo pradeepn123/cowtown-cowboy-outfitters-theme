@@ -302,7 +302,7 @@
             "image": "shopify:\/\/shop_images\/brand-lucchese.png",
             "image_full_width": false,
             "retina": true,
-            "card_link": "",
+            "card_link": "https:\/\/cowtowncowboyoutfitters.myshopify.com\/collections\/vendors?q=Lucchese%20Boot%20Co",
             "title": "",
             "text": "",
             "link_label": "",
@@ -368,7 +368,7 @@
             "retina": true,
             "card_link": "",
             "title": "",
-            "text": "<p>Shop By Brands<\/p>",
+            "text": "<p>+90 More Brands<\/p>",
             "link_label": "View All",
             "link": "shopify:\/\/pages\/shop-by-brands"
           }
