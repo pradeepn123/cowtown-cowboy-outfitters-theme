@@ -368,7 +368,7 @@
             "retina": true,
             "card_link": "",
             "title": "",
-            "text": "",
+            "text": "<p>Shop By Brands<\/p>",
             "link_label": "View All",
             "link": "shopify:\/\/pages\/shop-by-brands"
           }
@@ -394,7 +394,7 @@
         "image_ratio": "adapt",
         "columns_desktop": 6,
         "columns_mobile": 2,
-        "text_alignment": "left",
+        "text_alignment": "center",
         "heading_size": "h6",
         "mobile_swipe": true,
         "show_progress_bar": true,
