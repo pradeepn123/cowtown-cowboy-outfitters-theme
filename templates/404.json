@@ -3,7 +3,7 @@
     "custom_liquid_KPjeAw": {
       "type": "custom-liquid",
       "custom_css": [
-        ".lottiePlayer{justify-content:center; align-content:center;}"
+        ".lottiePlayer {margin:auto;}"
       ],
       "settings": {
         "custom_liquid": "<script src=\"https:\/\/unpkg.com\/@dotlottie\/player-component@latest\/dist\/dotlottie-player.mjs\" type=\"module\"><\/script> \n\n    <dotlottie-player src=\"https:\/\/lottie.host\/1f63eb52-a70a-4802-b0de-206ce2b43abf\/61Da7eg1qV.json\" background=\"transparent\" speed=\"1\" style=\"width: 300px; height: 300px;\" loop autoplay class=\"lottiePlayer\"><\/dotlottie-player>"
