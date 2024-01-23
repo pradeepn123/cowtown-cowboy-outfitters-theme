@@ -151,7 +151,7 @@
             "subheading": "",
             "heading": "",
             "heading_size": "h1",
-            "content": "While our roots trace back to 1958, my family had the privilege of taking the reins in 1974. Growing up with this business, I've witnessed its evolution firsthand, and I am both thrilled and honored to continue the legacy along with my husband and two sons while adapting to the changing times. I'm confident that you'll come to cherish our store as much as I do.",
+            "content": "At Cowtown Cowboy Outfitters, we offer a diverse range of high-quality merchandise for your entire family. As a full-line western wear store, we hand-select the very best cowboy boots for men, women, and children. Our collection of cowboy hats spans a wide range of prices, from budget-friendly options to high-end felt hats.",
             "description_size": "medium",
             "content_position": "middle-center",
             "text_alignment": "center",
@@ -211,6 +211,7 @@
         "text_NVAier",
         "button_xWXErP"
       ],
+      "disabled": true,
       "settings": {
         "section_width": "grid",
         "text_width": "medium",
@@ -309,6 +310,7 @@
       "blocks": {
         "heading_awrrXb": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "text": "At Cowtown Cowboy Outfitters,",
             "heading_size": "h4"
@@ -316,15 +318,32 @@
         },
         "text_aCJN49": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<p>we're not a big corporate entity; we're a small-town business that genuinely cares about our customers. We invite you to become a part of our family and experience the \"Best of the West in the East.\" Your visit to our store means the world to us, and I personally want to extend my heartfelt thanks for being here.<\/p>",
+            "description_size": "medium"
+          }
+        },
+        "heading_CU6iQa": {
+          "type": "heading",
+          "settings": {
+            "text": "Saddle up",
+            "heading_size": "h4"
+          }
+        },
+        "text_eDCGJ6": {
+          "type": "text",
+          "settings": {
+            "text": "<p>and explore the rich heritage and contemporary style that Cowtown Cowboy Outfitters has to offer. We can't wait to serve you and provide you with the best in Western wear and accessories.<\/p>",
             "description_size": "medium"
           }
         }
       },
       "block_order": [
         "heading_awrrXb",
-        "text_aCJN49"
+        "text_aCJN49",
+        "heading_CU6iQa",
+        "text_eDCGJ6"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/about_gallery_3.webp",
@@ -349,14 +368,31 @@
       "blocks": {
         "text_HBYUmB": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<p>Saddle up and explore the rich heritage and contemporary style that Cowtown Cowboy Outfitters has to offer. We can't wait to serve you and provide you with the best in Western wear and accessories.<\/p>",
+            "size": "text-size-regular"
+          }
+        },
+        "text_6MxdzY": {
+          "type": "text",
+          "settings": {
+            "text": "<p>At Cowtown Cowboy Outfitters, we're not a big corporate entity; we're a small-town business that genuinely cares about our customers. We invite you to become a part of our family and experience the \"Best of the West in the East.\" Your visit to our store means the world to us, and I personally want to extend my heartfelt thanks for being here.<\/p>",
+            "size": "text-size-regular"
+          }
+        },
+        "text_Rx6jgM": {
+          "type": "text",
+          "settings": {
+            "text": "<p>While our roots trace back to 1958, my family had the privilege of taking the reins in 1974. Growing up with this business, I've witnessed its evolution firsthand, and I am both thrilled and honored to continue the legacy along with my husband and two sons while adapting to the changing times. I'm confident that you'll come to cherish our store as much as I do.<\/p>",
             "size": "text-size-regular"
           }
         }
       },
       "block_order": [
-        "text_HBYUmB"
+        "text_HBYUmB",
+        "text_6MxdzY",
+        "text_Rx6jgM"
       ],
       "settings": {
         "section_width": "grid",
