@@ -77,7 +77,7 @@
             "retina": false,
             "card_link": "",
             "title": "",
-            "text": "<p><strong>Outlet Store<br\/><\/strong>Visit us in person<\/p>",
+            "text": "<p><strong>Main Store<br\/><\/strong>Visit us in person<\/p>",
             "link_label": "Get directions",
             "link": "https:\/\/maps.app.goo.gl\/23RA8YfMaemeyga78"
           }
@@ -93,7 +93,7 @@
         ".multicolumn {background-color: #f1f1f1; padding-top: 50px;}"
       ],
       "settings": {
-        "heading": "Have questions or queries?",
+        "heading": "Have questions?",
         "title_alignment": "left",
         "description": "<p>We look forward to assisting you with these services and ensuring you have a memorable and enjoyable experience at Cowtown Cowboy Outfitters. If you have any questions or require further information, please don't hesitate to contact us:<\/p>",
         "full_width": false,
