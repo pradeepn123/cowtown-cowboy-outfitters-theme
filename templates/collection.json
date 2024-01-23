@@ -93,6 +93,7 @@
     },
     "166366972953e881f5": {
       "type": "collection-list",
+      "disabled": true,
       "custom_css": [
         ".collection-card__link {color: #151515;}",
         ".collection-card__link:hover {color: #cf7239;}"
@@ -124,6 +125,18 @@
         "disable_top_spacing": false,
         "disable_bottom_spacing": false
       }
+    },
+    "recently_viewed_products_yfrzay": {
+      "type": "recently-viewed-products",
+      "settings": {
+        "heading": "Recently viewed products",
+        "heading_left": true,
+        "description": "<p>Describe your recently viewed products here<\/p>",
+        "full_width": true,
+        "mobile_swipe": true,
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": false
+      }
     }
   },
   "order": [
@@ -131,6 +144,7 @@
     "collection_list_4jdWb3",
     "product-grid",
     "05d4b2e3-a1e8-4fc6-a2f2-54ecc52c0caf",
-    "166366972953e881f5"
+    "166366972953e881f5",
+    "recently_viewed_products_yfrzay"
   ]
 }
