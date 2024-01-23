@@ -30,7 +30,7 @@
           }
         },
         "06adf5b2-9f33-43d9-b036-6b6e0529cd0b": {
-          "type": "shopify:\/\/apps\/okendo-product-reviews-ugc\/blocks\/star-rating\/bb689e69-ea70-4661-8fb7-ad24a2e23c29",
+          "type": "shopify:\/\/apps\/okendo\/blocks\/star-rating\/bb689e69-ea70-4661-8fb7-ad24a2e23c29",
           "settings": {
             "product": "{{product}}"
           }
@@ -191,7 +191,7 @@
       "type": "apps",
       "blocks": {
         "f3a807d9-3cfe-4670-8d45-533233956874": {
-          "type": "shopify:\/\/apps\/okendo-product-reviews-ugc\/blocks\/reviews-widget\/bb689e69-ea70-4661-8fb7-ad24a2e23c29",
+          "type": "shopify:\/\/apps\/okendo\/blocks\/reviews-widget\/bb689e69-ea70-4661-8fb7-ad24a2e23c29",
           "settings": {
             "product": "{{product}}",
             "widget_type": "reviews_widget"
@@ -224,18 +224,6 @@
         "disable_top_spacing": false,
         "disable_bottom_spacing": false
       }
-    },
-    "99e1f32a-bc59-4a01-8af7-b240a296ef02": {
-      "type": "recently-viewed-products",
-      "settings": {
-        "heading": "Recently viewed products.",
-        "heading_left": true,
-        "description": "<p>Pick up where you left off<\/p>",
-        "full_width": true,
-        "mobile_swipe": true,
-        "disable_top_spacing": true,
-        "disable_bottom_spacing": false
-      }
     }
   },
   "order": [
@@ -245,7 +233,6 @@
     "dc3a7e96-fa89-4b4a-aa7c-d90584fb15ec",
     "1704709393e2ce0209",
     "d4a50e3c-aca5-442f-ad82-d44e842c1216",
-    "product-recommendations",
-    "99e1f32a-bc59-4a01-8af7-b240a296ef02"
+    "product-recommendations"
   ]
 }
