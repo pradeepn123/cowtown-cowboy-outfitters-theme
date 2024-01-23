@@ -571,77 +571,6 @@
         "disable_bottom_spacing": false
       }
     },
-    "1662459178b0886a69": {
-      "type": "rich-text",
-      "blocks": {
-        "4551cbda-76ff-4a07-a279-a29df7956af6": {
-          "type": "subheading",
-          "settings": {
-            "text": "CUSTOMERS LOVE US"
-          }
-        }
-      },
-      "block_order": [
-        "4551cbda-76ff-4a07-a279-a29df7956af6"
-      ],
-      "settings": {
-        "section_width": "grid",
-        "text_width": "medium",
-        "text_position": "center",
-        "text_alignment": "center",
-        "color_bg": "rgba(0,0,0,0)",
-        "color_text": "#151515",
-        "btn_bgcolor": "#151515",
-        "color_links": "#151515",
-        "disable_top_spacing": true,
-        "disable_bottom_spacing": true
-      }
-    },
-    "16615358507b6ff1a8": {
-      "type": "testimonials",
-      "blocks": {
-        "60961cb1-416e-4c98-a9ec-2a41dfae8911": {
-          "type": "quote",
-          "settings": {
-            "stars": "5",
-            "text": "Always a great experience purchasing anything from Cowtown Cowboy Outfitters.",
-            "author": "Ann Letis"
-          }
-        },
-        "2bf39bcc-dfc9-43ae-b6a4-9cecdb3197c9": {
-          "type": "quote",
-          "settings": {
-            "stars": "5",
-            "text": "Super quick and easy on-line process!",
-            "author": "Joe B"
-          }
-        },
-        "f0e5414e-308c-4a64-91b5-1f08b8650731": {
-          "type": "quote",
-          "settings": {
-            "stars": "5",
-            "text": "Your website is easy to navigate! And purchasing is a breeze. Thank you!!!",
-            "author": "Cindy F"
-          }
-        }
-      },
-      "block_order": [
-        "60961cb1-416e-4c98-a9ec-2a41dfae8911",
-        "2bf39bcc-dfc9-43ae-b6a4-9cecdb3197c9",
-        "f0e5414e-308c-4a64-91b5-1f08b8650731"
-      ],
-      "settings": {
-        "full_width": true,
-        "text_size": "large",
-        "pagination": "dots",
-        "autoplay": true,
-        "autoplay_length": 5,
-        "color_bg": "rgba(0,0,0,0)",
-        "color_text": "#151515",
-        "disable_top_spacing": true,
-        "disable_bottom_spacing": false
-      }
-    },
     "17047971555c38cd6f": {
       "type": "apps",
       "blocks": {
@@ -658,8 +587,16 @@
       "block_order": [
         "df19ee3b-7df7-48d5-97b9-c26f208a93cc"
       ],
-      "disabled": true,
       "settings": {
+      }
+    },
+    "spacer_8MBVKF": {
+      "type": "spacer",
+      "settings": {
+        "spacer_mobile": 30,
+        "spacer_desktop": 70,
+        "border_separator": false,
+        "border_separator_full": false
       }
     },
     "032f7543-efbd-474e-8506-0174251add02": {
@@ -831,9 +768,8 @@
     "1661512437fd38dfb2",
     "08d3c50a-9689-42c1-b21c-074151adbbb9",
     "502217ba-4e27-404e-96cb-0b35e2f6eb9b",
-    "1662459178b0886a69",
-    "16615358507b6ff1a8",
     "17047971555c38cd6f",
+    "spacer_8MBVKF",
     "032f7543-efbd-474e-8506-0174251add02",
     "be0b3259-d7d8-4f28-9d8e-72de277573f3",
     "170590640679c065c6",
