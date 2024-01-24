@@ -42,6 +42,7 @@
     "search_product_collection": "newest-arrivals",
     "search_product_collection_limit": 2,
     "currency_code_enabled": true,
+    "back_to_top": false,
     "favicon": "shopify:\/\/shop_images\/cco-favicon.png",
     "title_text_color": "#151515",
     "title_text_color_hover": "#cf7239",
