@@ -113,5 +113,22 @@
 </full-menu>
 
 <script>
-	document.querySelector(".scrolling-content-shadow").scrollTop = 5;
+
+	document.addEventListener('DOMContentLoaded', () => {
+		document.querySelector(".scrolling-content-shadow").scrollTop = 5;
+		adjustMenuLayout();
+	});
+	
+	window.addEventListener('resize', () => {
+		adjustMenuLayout();
+	});
+	
+	function adjustMenuLayout() {
+		var divElement = document.querySelectorAll('.mega-menu-promotion');
+		var eleHeight = divElement[6].clientHeight;
+	
+		document.querySelector('.menu-item-new-list .sub-menu ').style.height = eleHeight + 20 + 'px';
+		document.querySelector('.scrolling-content-shadow').style.height = eleHeight - 40 + 'px';
+	}
+
 </script>
