@@ -1039,7 +1039,7 @@
             "image": "shopify:\/\/shop_images\/brand-m_and_f_western_products.png",
             "image_full_width": false,
             "retina": true,
-            "card_link": "https:\/\/cowtowncowboyoutfitters.myshopify.com\/collections\/vendors?q=M%20and%20F%20Western%20Products",
+            "card_link": "shopify:\/\/collections\/m-and-f-western-products",
             "blank_page_redirection": false,
             "title": "",
             "text": "",
