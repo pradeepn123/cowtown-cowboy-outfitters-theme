@@ -1655,7 +1655,7 @@
             "image": "shopify:\/\/shop_images\/brand-yeeyee.png",
             "image_full_width": false,
             "retina": true,
-            "card_link": "https:\/\/cowtowncowboyoutfitters.myshopify.com\/collections\/vendors?q=YeeYee",
+            "card_link": "shopify:\/\/collections\/yeeyee",
             "blank_page_redirection": false,
             "title": "",
             "text": "",
