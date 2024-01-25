@@ -1137,7 +1137,7 @@
             "image": "shopify:\/\/shop_images\/brand-myra_bag.png",
             "image_full_width": false,
             "retina": true,
-            "card_link": "https:\/\/cowtowncowboyoutfitters.myshopify.com\/collections\/vendors?q=Myra%20Bag",
+            "card_link": "shopify:\/\/collections\/myra-bag",
             "blank_page_redirection": false,
             "title": "",
             "text": "",
