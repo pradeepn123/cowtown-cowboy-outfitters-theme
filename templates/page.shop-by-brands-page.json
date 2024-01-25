@@ -1347,7 +1347,7 @@
             "image": "shopify:\/\/shop_images\/brand-rockmount_ranchwear.png",
             "image_full_width": false,
             "retina": true,
-            "card_link": "https:\/\/cowtowncowboyoutfitters.myshopify.com\/collections\/vendors?q=Rockmount%20Ranchwear",
+            "card_link": "shopify:\/\/collections\/rockmount-ranchwear",
             "blank_page_redirection": false,
             "title": "",
             "text": "",
