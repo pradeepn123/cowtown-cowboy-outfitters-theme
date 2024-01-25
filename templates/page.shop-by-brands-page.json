@@ -1179,7 +1179,7 @@
             "image": "shopify:\/\/shop_images\/brand-outback_trading_company.png",
             "image_full_width": false,
             "retina": true,
-            "card_link": "https:\/\/cowtowncowboyoutfitters.myshopify.com\/collections\/vendors?q=Outback%20Trading%20Company",
+            "card_link": "shopify:\/\/collections\/outback-trading-company",
             "blank_page_redirection": false,
             "title": "",
             "text": "",
