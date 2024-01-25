@@ -1445,7 +1445,7 @@
             "image": "shopify:\/\/shop_images\/brand-seagull_intl_inc.png",
             "image_full_width": false,
             "retina": true,
-            "card_link": "https:\/\/cowtowncowboyoutfitters.myshopify.com\/collections\/vendors?q=Seagull%20Intl.%20Inc.",
+            "card_link": "shopify:\/\/collections\/seagull-intl-inc",
             "blank_page_redirection": false,
             "title": "",
             "text": "",
