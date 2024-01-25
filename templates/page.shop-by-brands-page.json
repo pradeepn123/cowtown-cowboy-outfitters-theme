@@ -983,7 +983,7 @@
             "image": "shopify:\/\/shop_images\/brand-little_buster_toys.png",
             "image_full_width": false,
             "retina": true,
-            "card_link": "https:\/\/cowtowncowboyoutfitters.myshopify.com\/collections\/vendors?q=Little%20Buster%20Toys",
+            "card_link": "shopify:\/\/collections\/little-buster-toys",
             "blank_page_redirection": false,
             "title": "",
             "text": "",
