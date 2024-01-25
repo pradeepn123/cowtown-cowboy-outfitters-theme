@@ -1585,7 +1585,7 @@
             "image": "shopify:\/\/shop_images\/brand-twisted_x_boot.png",
             "image_full_width": false,
             "retina": true,
-            "card_link": "https:\/\/cowtowncowboyoutfitters.myshopify.com\/collections\/vendors?q=Twisted%20X%20Boots",
+            "card_link": "shopify:\/\/collections\/twisted-x-boots",
             "blank_page_redirection": false,
             "title": "",
             "text": "",
