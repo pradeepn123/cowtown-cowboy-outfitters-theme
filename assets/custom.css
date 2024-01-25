@@ -167,6 +167,7 @@ product-card:focus .product-card-info .product-card-title {
     margin-bottom: 0;
     font-size: calc(var(--font-navigation-scale, 1) * 15px);
     font-weight: 400;
+    text-transform: capitalize;
 }
 
 .thb-full-menu li.menu-item-has-children.menu-item-has-megamenu.menu-item-new-list .sub-menu  .mega-menu-scrolling-content > .mega-menu-columns__heading {
