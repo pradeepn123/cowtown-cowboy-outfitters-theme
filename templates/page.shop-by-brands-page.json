@@ -1123,7 +1123,7 @@
             "image": "shopify:\/\/shop_images\/brand-mv_sport.png",
             "image_full_width": false,
             "retina": true,
-            "card_link": "https:\/\/cowtowncowboyoutfitters.myshopify.com\/collections\/vendors?q=MV%20Sport",
+            "card_link": "shopify:\/\/collections\/mv-sport",
             "blank_page_redirection": false,
             "title": "",
             "text": "",
