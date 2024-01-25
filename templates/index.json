@@ -354,7 +354,7 @@
             "image": "shopify:\/\/shop_images\/brand-dan_post.png",
             "image_full_width": false,
             "retina": true,
-            "card_link": "https:\/\/cowtowncowboyoutfitters.myshopify.com\/collections\/vendors?q=Dan%20Post%2FLaredo%2FDingo",
+            "card_link": "shopify:\/\/collections\/dan-post-laredo-dingo",
             "blank_page_redirection": false,
             "title": "",
             "text": "",
