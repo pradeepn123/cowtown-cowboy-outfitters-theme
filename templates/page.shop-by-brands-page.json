@@ -1095,7 +1095,7 @@
             "image": "shopify:\/\/shop_images\/brand-most_wanted_usa_inc.png",
             "image_full_width": false,
             "retina": true,
-            "card_link": "https:\/\/cowtowncowboyoutfitters.myshopify.com\/collections\/vendors?q=Most%20Wanted%20USA%20Inc.",
+            "card_link": "shopify:\/\/collections\/most-wanted-usa-inc",
             "blank_page_redirection": false,
             "title": "",
             "text": "",
