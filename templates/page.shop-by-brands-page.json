@@ -1319,7 +1319,7 @@
             "image": "shopify:\/\/shop_images\/brand-resistol_hats.png",
             "image_full_width": false,
             "retina": true,
-            "card_link": "https:\/\/cowtowncowboyoutfitters.myshopify.com\/collections\/vendors?q=Resistol%20Hats",
+            "card_link": "shopify:\/\/collections\/resistol-hats",
             "blank_page_redirection": false,
             "title": "",
             "text": "",
