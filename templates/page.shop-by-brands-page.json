@@ -1571,7 +1571,7 @@
             "image": "shopify:\/\/shop_images\/brand-tru_fragrance.png",
             "image_full_width": false,
             "retina": true,
-            "card_link": "https:\/\/cowtowncowboyoutfitters.myshopify.com\/collections\/vendors?q=Tru%20Fragrance",
+            "card_link": "shopify:\/\/collections\/tru-fragrance",
             "blank_page_redirection": false,
             "title": "",
             "text": "",
