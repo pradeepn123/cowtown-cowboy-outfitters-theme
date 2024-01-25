@@ -1305,7 +1305,7 @@
             "image": "shopify:\/\/shop_images\/brand-red_dirt_designs.png",
             "image_full_width": false,
             "retina": true,
-            "card_link": "https:\/\/cowtowncowboyoutfitters.myshopify.com\/collections\/vendors?q=Red%20Dirt%20Designs",
+            "card_link": "shopify:\/\/collections\/red-dirt-designs",
             "blank_page_redirection": false,
             "title": "",
             "text": "",
