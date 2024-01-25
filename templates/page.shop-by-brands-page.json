@@ -1641,7 +1641,7 @@
             "image": "shopify:\/\/shop_images\/brand-wrangler_adcf402c-a72b-492d-a17f-a017c82c259f.png",
             "image_full_width": false,
             "retina": true,
-            "card_link": "https:\/\/cowtowncowboyoutfitters.myshopify.com\/collections\/vendors?q=Wrangler",
+            "card_link": "shopify:\/\/collections\/wrangler",
             "blank_page_redirection": false,
             "title": "",
             "text": "",
