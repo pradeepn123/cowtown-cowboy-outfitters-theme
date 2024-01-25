@@ -835,7 +835,7 @@
             "image": "shopify:\/\/shop_images\/brand-kimes_ranch.png",
             "image_full_width": false,
             "retina": true,
-            "card_link": "https:\/\/cowtowncowboyoutfitters.myshopify.com\/collections\/vendors?q=Kimes%20Ranch%20Apparel",
+            "card_link": "shopify:\/\/collections\/kimes-ranch-apparel",
             "blank_page_redirection": false,
             "title": "",
             "text": "",
