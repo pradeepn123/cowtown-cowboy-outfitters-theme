@@ -1431,7 +1431,7 @@
             "image": "shopify:\/\/shop_images\/brand-scully.png",
             "image_full_width": false,
             "retina": true,
-            "card_link": "https:\/\/cowtowncowboyoutfitters.myshopify.com\/collections\/vendors?q=Scully",
+            "card_link": "shopify:\/\/collections\/scully",
             "blank_page_redirection": false,
             "title": "",
             "text": "",
