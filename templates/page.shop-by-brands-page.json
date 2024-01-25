@@ -765,7 +765,7 @@
             "image": "shopify:\/\/shop_images\/brand-h_miller_belt.png",
             "image_full_width": false,
             "retina": true,
-            "card_link": "https:\/\/cowtowncowboyoutfitters.myshopify.com\/collections\/vendors?q=H%20Miller%20Belts",
+            "card_link": "shopify:\/\/collections\/h-miller-belts",
             "blank_page_redirection": false,
             "title": "",
             "text": "",
