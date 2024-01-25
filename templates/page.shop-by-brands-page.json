@@ -1389,7 +1389,7 @@
             "image": "shopify:\/\/shop_images\/brand-roper_5ea14852-7173-4c30-bed5-ef58746e8c45.png",
             "image_full_width": false,
             "retina": true,
-            "card_link": "https:\/\/cowtowncowboyoutfitters.myshopify.com\/collections\/vendors?q=Roper",
+            "card_link": "shopify:\/\/collections\/roper",
             "blank_page_redirection": false,
             "title": "",
             "text": "",
