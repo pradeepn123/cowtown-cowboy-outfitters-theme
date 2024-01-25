@@ -1025,7 +1025,7 @@
             "image": "shopify:\/\/shop_images\/brand-lucky_and_blessed.png",
             "image_full_width": false,
             "retina": true,
-            "card_link": "https:\/\/cowtowncowboyoutfitters.myshopify.com\/collections\/vendors?q=Lucky%20%26%20Blessed",
+            "card_link": "shopify:\/\/collections\/lucky-blessed",
             "blank_page_redirection": false,
             "title": "",
             "text": "",
