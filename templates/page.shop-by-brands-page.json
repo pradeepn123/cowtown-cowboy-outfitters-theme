@@ -1557,7 +1557,7 @@
             "image": "shopify:\/\/shop_images\/brand-the_queens_jewels.png",
             "image_full_width": false,
             "retina": true,
-            "card_link": "https:\/\/cowtowncowboyoutfitters.myshopify.com\/collections\/vendors?q=The%20Queens%27%20Jewels",
+            "card_link": "shopify:\/\/collections\/the-queens-jewels",
             "blank_page_redirection": false,
             "title": "",
             "text": "",
