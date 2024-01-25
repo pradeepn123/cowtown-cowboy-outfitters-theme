@@ -1291,7 +1291,7 @@
             "image": "shopify:\/\/shop_images\/brand-Recherche_Furnishings.png",
             "image_full_width": false,
             "retina": true,
-            "card_link": "https:\/\/cowtowncowboyoutfitters.myshopify.com\/collections\/vendors?q=Recherche%20Furnishings",
+            "card_link": "shopify:\/\/collections\/recherche-furnishings",
             "blank_page_redirection": false,
             "title": "",
             "text": "",
