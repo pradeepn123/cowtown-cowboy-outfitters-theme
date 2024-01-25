@@ -1501,7 +1501,7 @@
             "image": "shopify:\/\/shop_images\/brand-smoky_mountain_boots.png",
             "image_full_width": false,
             "retina": true,
-            "card_link": "https:\/\/cowtowncowboyoutfitters.myshopify.com\/collections\/vendors?q=Smoky%20Mountain%20Boots",
+            "card_link": "shopify:\/\/collections\/smoky-mountain-boots",
             "blank_page_redirection": false,
             "title": "",
             "text": "",
