@@ -1375,7 +1375,7 @@
             "image": "shopify:\/\/shop_images\/brand-rogers_whitley.png",
             "image_full_width": false,
             "retina": true,
-            "card_link": "https:\/\/cowtowncowboyoutfitters.myshopify.com\/collections\/vendors?q=Rogers-Whitley",
+            "card_link": "shopify:\/\/collections\/rogers-whitley",
             "blank_page_redirection": false,
             "title": "",
             "text": "",
