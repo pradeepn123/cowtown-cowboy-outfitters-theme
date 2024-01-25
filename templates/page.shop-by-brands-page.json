@@ -1221,7 +1221,7 @@
             "image": "shopify:\/\/shop_images\/brand-phil_love.png",
             "image_full_width": false,
             "retina": true,
-            "card_link": "https:\/\/cowtowncowboyoutfitters.myshopify.com\/collections\/vendors?q=Phil%20Love",
+            "card_link": "shopify:\/\/collections\/phil-love",
             "blank_page_redirection": false,
             "title": "",
             "text": "",
