@@ -1613,7 +1613,7 @@
             "image": "shopify:\/\/shop_images\/brand-western_express.png",
             "image_full_width": false,
             "retina": true,
-            "card_link": "https:\/\/cowtowncowboyoutfitters.myshopify.com\/collections\/vendors?q=Western%20Express",
+            "card_link": "shopify:\/\/collections\/western-express",
             "blank_page_redirection": false,
             "title": "",
             "text": "",
