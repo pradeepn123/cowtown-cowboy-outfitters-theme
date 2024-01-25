@@ -59,7 +59,7 @@
             "title": "CLEARANCE SALE",
             "text": "Limited stock, irresistible prices. Shop now before it's gone!",
             "link_label": "Shop Now",
-            "link": "",
+            "link": "shopify:\/\/collections\/clearance",
             "use_text_button": true,
             "block_link": "shopify:\/\/collections\/clearance",
             "overlay_color": "#151515",
