@@ -1207,7 +1207,7 @@
             "image": "shopify:\/\/shop_images\/brand-paris_mfg_company.png",
             "image_full_width": false,
             "retina": true,
-            "card_link": "https:\/\/cowtowncowboyoutfitters.myshopify.com\/collections\/vendors?q=Parris%20Mfg.%20Company",
+            "card_link": "shopify:\/\/collections\/parris-mfg-company",
             "blank_page_redirection": false,
             "title": "",
             "text": "",
