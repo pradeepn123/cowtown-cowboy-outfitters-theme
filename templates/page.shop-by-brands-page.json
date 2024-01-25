@@ -1235,7 +1235,7 @@
             "image": "shopify:\/\/shop_images\/brand-phunky_horse.png",
             "image_full_width": false,
             "retina": true,
-            "card_link": "https:\/\/cowtowncowboyoutfitters.myshopify.com\/collections\/vendors?q=Phunky%20Horse",
+            "card_link": "shopify:\/\/collections\/phunky-horse",
             "blank_page_redirection": false,
             "title": "",
             "text": "",
