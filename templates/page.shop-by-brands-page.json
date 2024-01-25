@@ -997,7 +997,7 @@
             "image": "shopify:\/\/shop_images\/brand-los_altos_boots.png",
             "image_full_width": false,
             "retina": true,
-            "card_link": "https:\/\/cowtowncowboyoutfitters.myshopify.com\/collections\/vendors?q=Los%20Altos%20Boots",
+            "card_link": "shopify:\/\/collections\/los-altos-boots",
             "blank_page_redirection": false,
             "title": "",
             "text": "",
