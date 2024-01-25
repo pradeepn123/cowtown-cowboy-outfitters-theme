@@ -40,6 +40,29 @@
         "disable_bottom_spacing": false
       }
     },
+    "contact_form_Jqec7w": {
+      "type": "contact-form",
+      "blocks": {
+        "text_jFpHy4": {
+          "type": "text",
+          "settings": {
+            "heading": "",
+            "text": "<p>For general enquiries use the general enquiries form on contact us page.<\/p><p><a href=\"\/pages\/contact-us\" title=\"Contact Us\">Contact Us<\/a><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_jFpHy4"
+      ],
+      "disabled": true,
+      "settings": {
+        "heading": "Contact form",
+        "description": "<p>Fill out the form for questions regarding hat restoration.<\/p>",
+        "show_phone_number": true,
+        "disable_top_spacing": true,
+        "disable_bottom_spacing": false
+      }
+    },
     "multicolumn_K6X7ap": {
       "type": "multicolumn",
       "blocks": {
@@ -50,6 +73,7 @@
             "image_full_width": false,
             "retina": false,
             "card_link": "",
+            "blank_page_redirection": false,
             "title": "",
             "text": "<p><strong>Give Us a Call<br\/><\/strong>Feel free to call us at<\/p>",
             "link_label": "(856) 769-1761",
@@ -63,6 +87,7 @@
             "image_full_width": false,
             "retina": false,
             "card_link": "",
+            "blank_page_redirection": false,
             "title": "",
             "text": "<p><strong>Send Us an Email<br\/><\/strong>Drop us a message at<\/p>",
             "link_label": "contact@cowtowncowboy.com",
@@ -76,6 +101,7 @@
             "image_full_width": false,
             "retina": false,
             "card_link": "",
+            "blank_page_redirection": false,
             "title": "",
             "text": "<p><strong>Main Store<br\/><\/strong>Visit us in person<\/p>",
             "link_label": "Get directions",
@@ -113,6 +139,7 @@
   "order": [
     "image_with_text_overlay_hcQRpV",
     "main",
+    "contact_form_Jqec7w",
     "multicolumn_K6X7ap"
   ]
 }
