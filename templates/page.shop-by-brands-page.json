@@ -1627,7 +1627,7 @@
             "image": "shopify:\/\/shop_images\/brand-worlds_softest.png",
             "image_full_width": false,
             "retina": true,
-            "card_link": "https:\/\/cowtowncowboyoutfitters.myshopify.com\/collections\/vendors?q=World%27s%20Softest",
+            "card_link": "shopify:\/\/collections\/worlds-softest",
             "blank_page_redirection": false,
             "title": "",
             "text": "",
