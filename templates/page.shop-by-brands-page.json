@@ -1277,7 +1277,7 @@
             "image": "shopify:\/\/shop_images\/brand-real_time_products.png",
             "image_full_width": false,
             "retina": true,
-            "card_link": "https:\/\/cowtowncowboyoutfitters.myshopify.com\/collections\/vendors?q=Real%20Time%20Products",
+            "card_link": "shopify:\/\/collections\/real-time-products",
             "blank_page_redirection": false,
             "title": "",
             "text": "",
