@@ -1263,7 +1263,7 @@
             "image": "shopify:\/\/shop_images\/brand-RAD_wholesale.png",
             "image_full_width": false,
             "retina": true,
-            "card_link": "https:\/\/cowtowncowboyoutfitters.myshopify.com\/collections\/vendors?q=RAD%20Wholesale",
+            "card_link": "shopify:\/\/collections\/rad-wholesale",
             "blank_page_redirection": false,
             "title": "",
             "text": "",
