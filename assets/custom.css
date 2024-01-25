@@ -217,3 +217,7 @@ product-card:focus .product-card-info .product-card-title {
         min-height: 700px;
     }
 }
+
+.thb-full-menu li.menu-item-has-children.menu-item-has-megamenu .sub-menu ul.mega-menu-columns li ul li a {
+    text-transform: capitalize;
+}
