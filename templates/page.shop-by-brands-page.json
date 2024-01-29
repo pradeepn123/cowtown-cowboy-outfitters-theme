@@ -639,7 +639,7 @@
             "image": "shopify:\/\/shop_images\/brand-duke_cannon_supply.png",
             "image_full_width": false,
             "retina": true,
-            "card_link": "https:\/\/cowtowncowboyoutfitters.myshopify.com\/collections\/vendors?q=Duke%20Cannon%20Supply",
+            "card_link": "shopify:\/\/collections\/duke-cannon-supply",
             "blank_page_redirection": false,
             "title": "",
             "text": "",
