@@ -44,6 +44,36 @@
 								<li class="parent-link-back">
 									<button><span>{%- render 'svg-icons' with 'thb-mobile-menu-back' -%}</span> {{ link.title }}</button>
 								</li>
+
+                                {% if has_mega_menu == true %}
+                                  {% if mega_menu_block.settings.promo_small %}
+									<div class="mega-menu-promotion-blocks">
+									{% endif %}
+										{%- if mega_menu_block.settings.promo_1_image -%}
+											<li>
+												{% render 'header-full-menu-promotion', promotion_image: mega_menu_block.settings.promo_1_image, promotion_link: mega_menu_block.settings.promo_1_link, promotion_heading: mega_menu_block.settings.promo_1_heading, promotion_link_label: mega_menu_block.settings.promo_1_link_label %}
+											</li>
+										{%- endif -%}
+										{%- if mega_menu_block.settings.promo_2_image -%}
+											<li>
+												{% render 'header-full-menu-promotion', promotion_image: mega_menu_block.settings.promo_2_image, promotion_link: mega_menu_block.settings.promo_2_link, promotion_heading: mega_menu_block.settings.promo_2_heading, promotion_link_label: mega_menu_block.settings.promo_2_link_label %}
+											</li>
+										{%- endif -%}
+										{%- if mega_menu_block.settings.promo_3_image -%}
+											<li>
+												{% render 'header-full-menu-promotion', promotion_image: mega_menu_block.settings.promo_3_image, promotion_link: mega_menu_block.settings.promo_3_link, promotion_heading: mega_menu_block.settings.promo_3_heading, promotion_link_label: mega_menu_block.settings.promo_3_link_label %}
+											</li>
+										{%- endif -%}
+										{%- if mega_menu_block.settings.promo_4_image -%}
+											<li>
+												{% render 'header-full-menu-promotion', promotion_image: mega_menu_block.settings.promo_4_image, promotion_link: mega_menu_block.settings.promo_4_link, promotion_heading: mega_menu_block.settings.promo_4_heading, promotion_link_label: mega_menu_block.settings.promo_4_link_label %}
+											</li>
+										{%- endif -%}
+									{% if mega_menu_block.settings.promo_small %}
+									</div>
+                                  {% endif %}
+								{%- endif -%}
+                      
 				        		{%- for l in link.links -%}
 									{%- liquid
 										 assign has_sub_menu = false
@@ -77,36 +107,7 @@
 									  {%- endif -%}
 									</li>
 								{%- endfor -%}
-
-								{% if has_mega_menu == true %}
-									{% if mega_menu_block.settings.promo_small %}
-									<div class="mega-menu-promotion-blocks">
-									{% endif %}
-										{%- if mega_menu_block.settings.promo_1_image -%}
-											<li>
-												{% render 'header-full-menu-promotion', promotion_image: mega_menu_block.settings.promo_1_image, promotion_link: mega_menu_block.settings.promo_1_link, promotion_heading: mega_menu_block.settings.promo_1_heading, promotion_link_label: mega_menu_block.settings.promo_1_link_label %}
-											</li>
-										{%- endif -%}
-										{%- if mega_menu_block.settings.promo_2_image -%}
-											<li>
-												{% render 'header-full-menu-promotion', promotion_image: mega_menu_block.settings.promo_2_image, promotion_link: mega_menu_block.settings.promo_2_link, promotion_heading: mega_menu_block.settings.promo_2_heading, promotion_link_label: mega_menu_block.settings.promo_2_link_label %}
-											</li>
-										{%- endif -%}
-										{%- if mega_menu_block.settings.promo_3_image -%}
-											<li>
-												{% render 'header-full-menu-promotion', promotion_image: mega_menu_block.settings.promo_3_image, promotion_link: mega_menu_block.settings.promo_3_link, promotion_heading: mega_menu_block.settings.promo_3_heading, promotion_link_label: mega_menu_block.settings.promo_3_link_label %}
-											</li>
-										{%- endif -%}
-										{%- if mega_menu_block.settings.promo_4_image -%}
-											<li>
-												{% render 'header-full-menu-promotion', promotion_image: mega_menu_block.settings.promo_4_image, promotion_link: mega_menu_block.settings.promo_4_link, promotion_heading: mega_menu_block.settings.promo_4_heading, promotion_link_label: mega_menu_block.settings.promo_4_link_label %}
-											</li>
-										{%- endif -%}
-									{% if mega_menu_block.settings.promo_small %}
-									</div>
-									{% endif %}
-								{%- endif -%}
-					    </ul>
+    					    </ul>
 						</details>
 					{%- else -%}
 					<a href="{{ link.url }}" title="{{ link.title | escape }}">{{ link.title }}</a>
