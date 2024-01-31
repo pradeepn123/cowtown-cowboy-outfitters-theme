@@ -111,6 +111,20 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "column_6K6G44": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/popbrand_montana_silversmith.png",
+            "image_full_width": false,
+            "retina": true,
+            "card_link": "shopify:\/\/collections\/montana-silversmiths",
+            "blank_page_redirection": false,
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
@@ -118,7 +132,8 @@
         "column_i3UbWV",
         "column_LgUxpk",
         "column_wc9nGY",
-        "column_PmggDL"
+        "column_PmggDL",
+        "column_6K6G44"
       ],
       "settings": {
         "heading": "Popular",
