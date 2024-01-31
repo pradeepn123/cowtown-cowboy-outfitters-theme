@@ -125,6 +125,34 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "column_eKDNKE": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/popbrand_scully.png",
+            "image_full_width": false,
+            "retina": true,
+            "card_link": "shopify:\/\/collections\/scully",
+            "blank_page_redirection": false,
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_greHKg": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/popbrand_stetson_hats.png",
+            "image_full_width": false,
+            "retina": true,
+            "card_link": "shopify:\/\/collections\/stetson-hats",
+            "blank_page_redirection": false,
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
@@ -133,7 +161,9 @@
         "column_LgUxpk",
         "column_wc9nGY",
         "column_PmggDL",
-        "column_6K6G44"
+        "column_6K6G44",
+        "column_eKDNKE",
+        "column_greHKg"
       ],
       "settings": {
         "heading": "Popular",
