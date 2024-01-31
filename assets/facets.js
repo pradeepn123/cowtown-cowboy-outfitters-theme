@@ -278,6 +278,13 @@ class PriceSlider extends HTMLElement {
 }
 customElements.define('price-slider', PriceSlider);
 
+function keepInStockActive() {
+  const filterAvailabilityCheckbox = document.getElementById('Filter-availability-1')
+  if(!filterAvailabilityCheckbox.hasAttribute('checked')){
+    filterAvailabilityCheckbox.click()
+  }
+}
 window.addEventListener('load', () => {
   new FacetsToggle();
+  keepInStockActive()
 });

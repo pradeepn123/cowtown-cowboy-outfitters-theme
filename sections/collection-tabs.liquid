@@ -43,9 +43,11 @@
 					{% assign mainloop = forloop %}
 					{% if block.settings.collection != blank %}
 						{%- for product in block.settings.collection.products limit: product_limit -%}
-							<li class="{{ columns_class }} columns{% if mainloop.first == true %} carousel__slide{% endif %}" data-collection="{{ block.settings.collection.handle }}">
-								{% render 'product-card', product_card_product: product %}
-							</li>
+							{% if product.available %}
+								<li class="{{ columns_class }} columns{% if mainloop.first == true %} carousel__slide{% endif %}" data-collection="{{ block.settings.collection.handle }}">
+									{% render 'product-card', product_card_product: product %}
+								</li>
+							{% endif %}
 						{%- endfor -%}
 					{% else %}
 						{%- for i in (1..product_limit) -%}
