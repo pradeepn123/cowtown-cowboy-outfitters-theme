@@ -56,62 +56,6 @@
             "link": ""
           }
         },
-        "column_rf8Wnj": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/popbrand_justin_boots.png",
-            "image_full_width": false,
-            "retina": true,
-            "card_link": "shopify:\/\/collections\/justin-boot-co",
-            "blank_page_redirection": false,
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_Rg76VJ": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/popbrand_roper.png",
-            "image_full_width": false,
-            "retina": true,
-            "card_link": "shopify:\/\/collections\/roper",
-            "blank_page_redirection": false,
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_mzYUPk": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/popbrand_lucchese.png",
-            "image_full_width": false,
-            "retina": true,
-            "card_link": "shopify:\/\/collections\/lucchese-boot-co",
-            "blank_page_redirection": false,
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_aYHmWV": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/popbrand_tony_lama.png",
-            "image_full_width": false,
-            "retina": true,
-            "card_link": "shopify:\/\/collections\/tony-lama-boot-co",
-            "blank_page_redirection": false,
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
         "column_i3UbWV": {
           "type": "column",
           "settings": {
@@ -143,10 +87,24 @@
         "column_wc9nGY": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/popbrand_wrangler-1.png",
+            "image": "shopify:\/\/shop_images\/popbrand_hooey.png",
             "image_full_width": false,
             "retina": true,
-            "card_link": "shopify:\/\/collections\/durango",
+            "card_link": "shopify:\/\/collections\/hooey",
+            "blank_page_redirection": false,
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_PmggDL": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/popbrand_kimes_ranch.png",
+            "image_full_width": false,
+            "retina": true,
+            "card_link": "shopify:\/\/collections\/kimes-ranch-apparel",
             "blank_page_redirection": false,
             "title": "",
             "text": "",
@@ -157,13 +115,10 @@
       },
       "block_order": [
         "column_4VD8Nc",
-        "column_rf8Wnj",
-        "column_Rg76VJ",
-        "column_mzYUPk",
-        "column_aYHmWV",
         "column_i3UbWV",
         "column_LgUxpk",
-        "column_wc9nGY"
+        "column_wc9nGY",
+        "column_PmggDL"
       ],
       "settings": {
         "heading": "Popular",
