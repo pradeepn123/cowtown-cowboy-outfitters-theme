@@ -50,7 +50,7 @@ class FacetFiltersForm extends HTMLElement {
     });
   }
 
-  static renderPage(searchParams, event, updateURLHash = true) {
+  static renderPage(searchParams, event, updateURLHash = true) {    
     FacetFiltersForm.searchParamsPrev = searchParams;
     const sections = FacetFiltersForm.getSections();
     const container = document.getElementsByClassName('thb-filter-count');
@@ -70,7 +70,7 @@ class FacetFiltersForm extends HTMLElement {
         FacetFiltersForm.renderSectionFromFetch(url, event);
       }
     });
-    if (updateURLHash) FacetFiltersForm.updateURLHash(searchParams);
+    if (updateURLHash) FacetFiltersForm.updateURLHash(searchParams);    
 
   }
 
@@ -278,13 +278,32 @@ class PriceSlider extends HTMLElement {
 }
 customElements.define('price-slider', PriceSlider);
 
-function keepInStockActive() {
-  const filterAvailabilityCheckbox = document.getElementById('Filter-availability-1')
-  if(!filterAvailabilityCheckbox.hasAttribute('checked')){
-    filterAvailabilityCheckbox.click()
-  }
+function keepInStockActive() {  
+  // let searchParams = new URLSearchParams(window.location.search);
+  // if (!searchParams.has('filter.v.availability')) {
+  //   searchParams.set('filter.v.availability', '1');
+  //   window.location.search = searchParams.toString();
+  // }
+  const collectionLinks = document.querySelectorAll('a[href*="/collections/"]');
+  collectionLinks.forEach(link => {
+    link.addEventListener('click', function(e) {
+      e.preventDefault();
+      let href = this.getAttribute('href');
+      let url = new URL(href, window.location.origin);
+      if (url.search) {
+        url.search += '&filter.v.availability=1';
+      } else {
+        url.search = '?filter.v.availability=1';
+      }
+      window.location.href = url.href;
+    });
+  });
 }
+
+document.addEventListener('DOMContentLoaded', function() {
+  keepInStockActive();
+});
+
 window.addEventListener('load', () => {
-  new FacetsToggle();
-  keepInStockActive()
+  new FacetsToggle();  
 });
