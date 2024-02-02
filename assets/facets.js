@@ -50,7 +50,7 @@ class FacetFiltersForm extends HTMLElement {
     });
   }
 
-  static renderPage(searchParams, event, updateURLHash = true) {
+  static renderPage(searchParams, event, updateURLHash = true) {    
     FacetFiltersForm.searchParamsPrev = searchParams;
     const sections = FacetFiltersForm.getSections();
     const container = document.getElementsByClassName('thb-filter-count');
@@ -70,7 +70,7 @@ class FacetFiltersForm extends HTMLElement {
         FacetFiltersForm.renderSectionFromFetch(url, event);
       }
     });
-    if (updateURLHash) FacetFiltersForm.updateURLHash(searchParams);
+    if (updateURLHash) FacetFiltersForm.updateURLHash(searchParams);    
 
   }
 
@@ -278,13 +278,6 @@ class PriceSlider extends HTMLElement {
 }
 customElements.define('price-slider', PriceSlider);
 
-function keepInStockActive() {
-  const filterAvailabilityCheckbox = document.getElementById('Filter-availability-1')
-  if(!filterAvailabilityCheckbox.hasAttribute('checked')){
-    filterAvailabilityCheckbox.click()
-  }
-}
 window.addEventListener('load', () => {
   new FacetsToggle();
-  keepInStockActive()
 });
