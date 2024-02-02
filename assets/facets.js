@@ -278,32 +278,6 @@ class PriceSlider extends HTMLElement {
 }
 customElements.define('price-slider', PriceSlider);
 
-function keepInStockActive() {  
-  // let searchParams = new URLSearchParams(window.location.search);
-  // if (!searchParams.has('filter.v.availability')) {
-  //   searchParams.set('filter.v.availability', '1');
-  //   window.location.search = searchParams.toString();
-  // }
-  const collectionLinks = document.querySelectorAll('a[href*="/collections/"]');
-  collectionLinks.forEach(link => {
-    link.addEventListener('click', function(e) {
-      e.preventDefault();
-      let href = this.getAttribute('href');
-      let url = new URL(href, window.location.origin);
-      if (url.search) {
-        url.search += '&filter.v.availability=1';
-      } else {
-        url.search = '?filter.v.availability=1';
-      }
-      window.location.href = url.href;
-    });
-  });
-}
-
-document.addEventListener('DOMContentLoaded', function() {
-  keepInStockActive();
-});
-
 window.addEventListener('load', () => {
-  new FacetsToggle();  
+  new FacetsToggle();
 });

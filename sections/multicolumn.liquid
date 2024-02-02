@@ -50,7 +50,7 @@
         <div class="row align-stretch no-padding {{ display_type }}">
           {%- for block in section.blocks -%}
             <div class="multicolumn__column {{ columns_mobile_class }} {{ columns_desktop_class }} columns {% if display_type == 'carousel' %}carousel__slide{% endif %}">
-				{% if block.settings.card_link != blank %}<a href="{{ block.settings.card_link }}" {% if block.settings.blank_page_redirection %}target="_blank"{% endif %}>{% endif %}
+				{% if block.settings.card_link != blank %}<a href="{{ block.settings.card_link }}{% if block.settings.is_collection_link %}?filter.v.availability=1{% endif %}" {% if block.settings.blank_page_redirection %}target="_blank"{% endif %}>{% endif %}
 					{% if block.settings.image != blank %}
 						{%- liquid
 						assign ratio = 1
@@ -316,6 +316,10 @@
           "type": "url",
           "id": "card_link",
           "label": "Card Link"
+        }, {
+          "type": "checkbox",
+          "id": "is_collection_link",
+          "label": "Active available filters in collection"
         },
         {
           "type": "checkbox",
