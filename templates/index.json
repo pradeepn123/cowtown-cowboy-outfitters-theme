@@ -22,7 +22,7 @@
             "overlay_opacity": 70,
             "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.4) 100%)",
             "button_1_text": "Shop Ariat",
-            "button_1_link": "",
+            "button_1_link": "shopify:\/\/collections\/ariat",
             "button_1_outline": true,
             "button_2_text": "",
             "button_2_link": "",
@@ -48,7 +48,7 @@
             "overlay_opacity": 70,
             "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.4) 100%)",
             "button_1_text": "Shop Durango",
-            "button_1_link": "",
+            "button_1_link": "shopify:\/\/collections\/durango",
             "button_1_outline": true,
             "button_2_text": "",
             "button_2_link": "",
@@ -74,7 +74,7 @@
             "overlay_opacity": 70,
             "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.4) 100%)",
             "button_1_text": "Shop Montana Silversmiths",
-            "button_1_link": "",
+            "button_1_link": "shopify:\/\/collections\/montana-silversmiths",
             "button_1_outline": true,
             "button_2_text": "",
             "button_2_link": "",
@@ -99,8 +99,8 @@
             "overlay_color": "#000000",
             "overlay_opacity": 70,
             "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.4) 100%)",
-            "button_1_text": "Shop Outerwears",
-            "button_1_link": "",
+            "button_1_text": "Shop Outerwear",
+            "button_1_link": "shopify:\/\/collections\/outerwear-sale",
             "button_1_outline": true,
             "button_2_text": "",
             "button_2_link": "",
@@ -496,14 +496,14 @@
         "0da7006d-3f7c-445e-beea-4a390b373aad": {
           "type": "collection",
           "settings": {
-            "collection": "apparel",
+            "collection": "mens-apparel",
             "image": "shopify:\/\/shop_images\/gallery-apprel.webp"
           }
         },
         "71a1e8d7-01d1-40d2-9ef1-6f2631328763": {
           "type": "collection",
           "settings": {
-            "collection": "footwear",
+            "collection": "cowboy-boots-shoes-and-sandals",
             "image": "shopify:\/\/shop_images\/gallery-footwear.webp"
           }
         },
@@ -517,7 +517,7 @@
         "f8a00187-00e6-43cc-a1de-8250df6886c8": {
           "type": "collection",
           "settings": {
-            "collection": "wedding-collection",
+            "collection": "mens-wedding-collection",
             "image": "shopify:\/\/shop_images\/gallery-wedding_collection.webp"
           }
         }
@@ -558,7 +558,7 @@
         "button_text": "Shop Outerwear",
         "button_link": "shopify:\/\/collections\/outerwear",
         "timer_year": 2024,
-        "timer_month": "01",
+        "timer_month": "02",
         "timer_day": "15",
         "timer_hour": "15",
         "timer_minute": "16",

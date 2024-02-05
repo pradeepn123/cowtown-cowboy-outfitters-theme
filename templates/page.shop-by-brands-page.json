@@ -57,73 +57,13 @@
             "link": ""
           }
         },
-        "column_rf8Wnj": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/popbrand_justin_boots.png",
-            "image_full_width": false,
-            "retina": true,
-            "card_link": "https:\/\/cowtowncowboyoutfitters.myshopify.com\/collections\/vendors?q=Justin%20Boot%20Co&filter.v.availability=1",
-            "is_collection_link": false,
-            "blank_page_redirection": false,
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_Rg76VJ": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/popbrand_roper.png",
-            "image_full_width": false,
-            "retina": true,
-            "card_link": "https:\/\/cowtowncowboyoutfitters.myshopify.com\/collections\/vendors?q=Roper&filter.v.availability=1",
-            "is_collection_link": false,
-            "blank_page_redirection": false,
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_mzYUPk": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/popbrand_lucchese.png",
-            "image_full_width": false,
-            "retina": true,
-            "card_link": "https:\/\/cowtowncowboyoutfitters.myshopify.com\/collections\/vendors?q=Lucchese%20Boot%20Co&filter.v.availability=1",
-            "is_collection_link": false,
-            "blank_page_redirection": false,
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_aYHmWV": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/popbrand_tony_lama.png",
-            "image_full_width": false,
-            "retina": true,
-            "card_link": "https:\/\/cowtowncowboyoutfitters.myshopify.com\/collections\/vendors?q=Tony%20Lama%20Boot%20Co&filter.v.availability=1",
-            "is_collection_link": false,
-            "blank_page_redirection": false,
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
         "column_i3UbWV": {
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/popbrand_dan_post.png",
             "image_full_width": false,
             "retina": true,
-            "card_link": "https:\/\/cowtowncowboyoutfitters.myshopify.com\/collections\/vendors?q=Dan%20Post%2FLaredo%2FDingo&filter.v.availability=1",
+            "card_link": "https:\/\/cowtowncowboyoutfitters.myshopify.com\/collections\/vendors?q=Justin%20Boot%20Co&filter.v.availability=1",
             "is_collection_link": false,
             "blank_page_redirection": false,
             "title": "",
@@ -138,7 +78,7 @@
             "image": "shopify:\/\/shop_images\/popbrand_wrangler.png",
             "image_full_width": false,
             "retina": true,
-            "card_link": "https:\/\/cowtowncowboyoutfitters.myshopify.com\/collections\/vendors?q=Wrangler&filter.v.availability=1",
+            "card_link": "https:\/\/cowtowncowboyoutfitters.myshopify.com\/collections\/vendors?q=Roper&filter.v.availability=1",
             "is_collection_link": false,
             "blank_page_redirection": false,
             "title": "",
@@ -150,7 +90,67 @@
         "column_wc9nGY": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/popbrand_wrangler-1.png",
+            "image": "shopify:\/\/shop_images\/popbrand_hooey.png",
+            "image_full_width": false,
+            "retina": true,
+            "card_link": "https:\/\/cowtowncowboyoutfitters.myshopify.com\/collections\/vendors?q=Lucchese%20Boot%20Co&filter.v.availability=1",
+            "is_collection_link": false,
+            "blank_page_redirection": false,
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_PmggDL": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/popbrand_kimes_ranch.png",
+            "image_full_width": false,
+            "retina": true,
+            "card_link": "https:\/\/cowtowncowboyoutfitters.myshopify.com\/collections\/vendors?q=Tony%20Lama%20Boot%20Co&filter.v.availability=1",
+            "is_collection_link": false,
+            "blank_page_redirection": false,
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_6K6G44": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/popbrand_montana_silversmith.png",
+            "image_full_width": false,
+            "retina": true,
+            "card_link": "https:\/\/cowtowncowboyoutfitters.myshopify.com\/collections\/vendors?q=Dan%20Post%2FLaredo%2FDingo&filter.v.availability=1",
+            "is_collection_link": false,
+            "blank_page_redirection": false,
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_eKDNKE": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/popbrand_scully.png",
+            "image_full_width": false,
+            "retina": true,
+            "card_link": "https:\/\/cowtowncowboyoutfitters.myshopify.com\/collections\/vendors?q=Wrangler&filter.v.availability=1",
+            "is_collection_link": false,
+            "blank_page_redirection": false,
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_greHKg": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/popbrand_stetson_hats.png",
             "image_full_width": false,
             "retina": true,
             "card_link": "https:\/\/cowtowncowboyoutfitters.myshopify.com\/collections\/vendors?q=Durango&filter.v.availability=1",
@@ -165,13 +165,13 @@
       },
       "block_order": [
         "column_4VD8Nc",
-        "column_rf8Wnj",
-        "column_Rg76VJ",
-        "column_mzYUPk",
-        "column_aYHmWV",
         "column_i3UbWV",
         "column_LgUxpk",
-        "column_wc9nGY"
+        "column_wc9nGY",
+        "column_PmggDL",
+        "column_6K6G44",
+        "column_eKDNKE",
+        "column_greHKg"
       ],
       "settings": {
         "heading": "Popular",
@@ -205,7 +205,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/collections\/3d"
           }
         },
         "column_AJn7aA": {
@@ -220,7 +220,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/collections\/abilene-boot-co"
           }
         },
         "column_F9KnUj": {
@@ -235,7 +235,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/collections\/amer-i-mex"
           }
         },
         "column_JgzwRU": {
@@ -250,7 +250,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/collections\/angel-ranch"
           }
         },
         "column_3hWkVz": {
@@ -265,7 +265,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/collections\/ariat"
           }
         },
         "column_R3gkcL": {
@@ -280,7 +280,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/collections\/aurora-world"
           }
         },
         "column_gdnAYq": {
@@ -295,7 +295,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/collections\/austin-accent-fashion-west"
           }
         },
         "column_fCXp4e": {
@@ -310,7 +310,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/collections\/b-and-d-diamond-co"
           }
         },
         "column_jLmTiV": {
@@ -325,7 +325,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/collections\/bestto"
           }
         },
         "column_pwKWdn": {
@@ -340,7 +340,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/collections\/bigtime"
           }
         },
         "column_jfNHNE": {
@@ -370,7 +370,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/collections\/blazin-roxx"
           }
         },
         "column_9M9kc9": {
@@ -385,7 +385,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/collections\/blue-tortoise"
           }
         },
         "column_8BhcfU": {
@@ -400,7 +400,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/collections\/bluivy"
           }
         },
         "column_YKeGf8": {
@@ -415,7 +415,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/collections\/boot-doctor"
           }
         },
         "column_if7ewR": {
@@ -430,7 +430,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/collections\/brass-reminders"
           }
         },
         "column_xVrRwt": {
@@ -445,7 +445,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/collections\/canyon-of-heroes"
           }
         },
         "column_accBVT": {
@@ -460,7 +460,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/collections\/cape-shore"
           }
         },
         "column_8pdWgp": {
@@ -475,7 +475,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/collections\/cinch"
           }
         },
         "column_kLpWwR": {
@@ -490,7 +490,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/collections\/close2ur"
           }
         },
         "column_YMggtC": {
@@ -505,7 +505,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/collections\/colorado-silver-star-corp"
           }
         },
         "column_AnXKUX": {
@@ -520,7 +520,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/collections\/corral-boots"
           }
         },
         "column_NhptMR": {
@@ -535,7 +535,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/collections\/cowboy-collectables"
           }
         },
         "column_RAJYLn": {
@@ -550,7 +550,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/collections\/cowboy-hardware"
           }
         },
         "column_ghpF3N": {
@@ -565,7 +565,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/collections\/cowtown-cowboy-outfitters"
           }
         },
         "column_DbfVmg": {
@@ -580,7 +580,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/collections\/crescent-sock-company"
           }
         },
         "column_jarpmr": {
@@ -595,7 +595,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/collections\/crumrine"
           }
         },
         "column_PMiU6P": {
@@ -610,7 +610,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/collections\/cuppa-souveniers"
           }
         },
         "column_HgCW6g": {
@@ -625,7 +625,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/collections\/dan-post-laredo-dingo"
           }
         },
         "column_zp97Jz": {
@@ -640,7 +640,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/collections\/double-s"
           }
         },
         "column_Mp8Hd4": {
@@ -655,7 +655,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/collections\/douglas-company"
           }
         },
         "column_E7JXik": {
@@ -670,7 +670,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/collections\/dudleys-cottage-gifts"
           }
         },
         "column_bBhbEb": {
@@ -700,7 +700,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/collections\/durango"
           }
         },
         "column_rykBfG": {
@@ -730,7 +730,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/collections\/farm-life-crafting"
           }
         },
         "column_mttpa8": {
@@ -745,7 +745,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/collections\/fashion-west"
           }
         },
         "column_RiYMMG": {
@@ -760,7 +760,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/collections\/ganz"
           }
         },
         "column_THaMJh": {
@@ -775,7 +775,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/collections\/giftcraft"
           }
         },
         "column_XyXzpt": {
@@ -790,7 +790,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/collections\/good-southerner"
           }
         },
         "column_Uj8jy3": {
@@ -805,7 +805,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/collections\/grunt-style"
           }
         },
         "column_4xXmt6": {
@@ -820,7 +820,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/collections\/h-miller-belts"
           }
         },
         "column_i3rtfz": {
@@ -835,7 +835,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/collections\/hat-vision"
           }
         },
         "column_NKFKm6": {
@@ -850,7 +850,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/collections\/hooey"
           }
         },
         "column_y8Li7b": {
@@ -865,7 +865,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/collections\/jfh-group-inter-inc-1"
           }
         },
         "column_gcim8z": {
@@ -880,7 +880,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/collections\/just-boots"
           }
         },
         "column_Eyg87t": {
@@ -895,7 +895,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/collections\/kimes-ranch-apparel"
           }
         },
         "column_aqrHzF": {
@@ -910,7 +910,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/collections\/ks-marketing"
           }
         },
         "column_7atTcq": {
@@ -1048,7 +1048,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/collections\/little-buster-toys"
           }
         },
         "column_JEkbrC": {
@@ -1063,7 +1063,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/collections\/los-altos-boots"
           }
         },
         "column_CQjQHD": {
@@ -1078,7 +1078,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/collections\/lucchese-boot-co"
           }
         },
         "column_KGM7bT": {
@@ -1093,7 +1093,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/collections\/lucky-blessed"
           }
         },
         "column_76RNQC": {
@@ -1108,7 +1108,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/collections\/m-and-f-western-products"
           }
         },
         "column_dnB4Pq": {
@@ -1123,7 +1123,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/collections\/miss-me"
           }
         },
         "column_WRpFJm": {
@@ -1138,7 +1138,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/collections\/montana-silversmiths"
           }
         },
         "column_NKkqGg": {
@@ -1153,7 +1153,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/collections\/montecarlo-hats"
           }
         },
         "column_Q9aqje": {
@@ -1168,7 +1168,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/collections\/most-wanted-usa-inc"
           }
         },
         "column_FYXcrM": {
@@ -1183,7 +1183,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/collections\/murcielago-fragrance"
           }
         },
         "column_G9cYBg": {
@@ -1198,7 +1198,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/collections\/mv-sport"
           }
         },
         "column_eB7Dfr": {
@@ -1213,7 +1213,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/collections\/myra-bag"
           }
         },
         "column_gL8qkF": {
@@ -1228,7 +1228,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/collections\/natko-inc"
           }
         },
         "column_RjXDfW": {
@@ -1243,7 +1243,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/collections\/nocona-belt-co"
           }
         },
         "column_Ekq7R3": {
@@ -1258,7 +1258,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/collections\/outback-trading-company"
           }
         },
         "column_dVc6Ad": {
@@ -1273,7 +1273,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/collections\/panhandle-slim"
           }
         },
         "column_iExE8Q": {
@@ -1288,7 +1288,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/collections\/parris-mfg-company"
           }
         },
         "column_aijeNc": {
@@ -1303,7 +1303,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/collections\/phil-love"
           }
         },
         "column_w7HrYk": {
@@ -1318,7 +1318,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/collections\/phunky-horse"
           }
         },
         "column_73V3aX": {
@@ -1333,7 +1333,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/collections\/r-watson"
           }
         },
         "column_VbRnKa": {
@@ -1348,7 +1348,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/collections\/rad-wholesale"
           }
         },
         "column_Uaerxw": {
@@ -1363,7 +1363,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/collections\/real-time-products"
           }
         },
         "column_a7AYtG": {
@@ -1378,7 +1378,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/collections\/recherche-furnishings"
           }
         },
         "column_LnDD9i": {
@@ -1393,7 +1393,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/collections\/red-dirt-designs"
           }
         },
         "column_LnV4mp": {
@@ -1408,7 +1408,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/collections\/resistol-hats"
           }
         },
         "column_BarRxK": {
@@ -1438,7 +1438,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/collections\/rockmount-ranchwear"
           }
         },
         "column_mieKV7": {
@@ -1453,7 +1453,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/collections\/rocky-brands"
           }
         },
         "column_LPD4NM": {
@@ -1468,7 +1468,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/collections\/rogers-whitley"
           }
         },
         "column_4hB9wp": {
@@ -1483,7 +1483,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/collections\/roper"
           }
         },
         "column_XpPy8g": {
@@ -1498,7 +1498,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/collections\/rowdy-ridge"
           }
         },
         "column_eTPDgH": {
@@ -1513,7 +1513,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/collections\/scout"
           }
         },
         "column_nYjnqH": {
@@ -1528,7 +1528,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/collections\/scully"
           }
         },
         "column_ghyqMx": {
@@ -1543,7 +1543,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/collections\/seagull-intl-inc"
           }
         },
         "column_VayPaQ": {
@@ -1558,7 +1558,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/collections\/sidran"
           }
         },
         "column_XVh4tN": {
@@ -1573,7 +1573,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/collections\/silver-strike"
           }
         },
         "column_LDMAM6": {
@@ -1588,7 +1588,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/collections\/skin-shop-usa"
           }
         },
         "column_Nbm7WF": {
@@ -1603,7 +1603,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/collections\/smoky-mountain-boots"
           }
         },
         "column_Y79D8J": {
@@ -1633,7 +1633,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/collections\/sterling-kreek"
           }
         },
         "column_97ywRQ": {
@@ -1648,7 +1648,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/collections\/stetson-hats"
           }
         },
         "column_gnyi87": {
@@ -1708,7 +1708,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/collections\/twister"
           }
         },
         "column_n66aLU": {
@@ -1723,7 +1723,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/collections\/western-express"
           }
         },
         "column_RtmFdD": {
@@ -1738,7 +1738,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/collections\/worlds-softest"
           }
         },
         "column_9exGC8": {
@@ -1753,7 +1753,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/collections\/wrangler"
           }
         },
         "column_a3Ecnp": {
@@ -1768,7 +1768,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/collections\/yeeyee"
           }
         }
       },

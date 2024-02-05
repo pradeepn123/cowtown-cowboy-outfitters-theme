@@ -15,37 +15,6 @@
         "overlay_opacity": 15
       }
     },
-    "collection_list_4jdWb3": {
-      "type": "collection-list",
-      "disabled": true,
-      "settings": {
-        "heading": "",
-        "heading_left": false,
-        "description": "",
-        "full_width": true,
-        "collection_list": [
-          "cowboy-boots-shoes-and-sandals",
-          "womens-apparel",
-          "wedding-collection-women",
-          "clearance-women",
-          "belts-womens-accessories",
-          "womens-belts",
-          "womens-jewelry",
-          "womens-accessories"
-        ],
-        "image_ratio": "square",
-        "layout": "carousel",
-        "style": "style1",
-        "columns_desktop": 6,
-        "columns_mobile": "1",
-        "show_progress_bar": true,
-        "mobile_swipe": true,
-        "overlay_color": "#000000",
-        "overlay_opacity": 0,
-        "disable_top_spacing": true,
-        "disable_bottom_spacing": false
-      }
-    },
     "product-grid": {
       "type": "main-collection-product-grid",
       "blocks": {
@@ -59,7 +28,7 @@
             "title": "CLEARANCE SALE",
             "text": "Limited stock, irresistible prices. Shop now before it's gone!",
             "link_label": "Shop Now",
-            "link": "",
+            "link": "shopify:\/\/collections\/clearance",
             "use_text_button": true,
             "block_link": "shopify:\/\/collections\/clearance",
             "overlay_color": "#151515",
@@ -72,79 +41,19 @@
       ],
       "settings": {
         "full_width": true,
-        "products_per_page": 19,
+        "products_per_page": 31,
         "columns_desktop": 4,
-        "pagination_type": "paginated",
+        "pagination_type": "infinite",
         "enable_filtering": true,
         "enable_sorting": true,
         "show_counts": true,
         "filter_color_swatches": true,
         "facets_desktop": "sidebar"
       }
-    },
-    "05d4b2e3-a1e8-4fc6-a2f2-54ecc52c0caf": {
-      "type": "spacer",
-      "settings": {
-        "spacer_mobile": 0,
-        "spacer_desktop": 0,
-        "border_separator": true,
-        "border_separator_full": true
-      }
-    },
-    "166366972953e881f5": {
-      "type": "collection-list",
-      "disabled": true,
-      "custom_css": [
-        ".collection-card__link {color: #151515;}",
-        ".collection-card__link:hover {color: #cf7239;}"
-      ],
-      "settings": {
-        "heading": "Explore more collections",
-        "heading_left": true,
-        "description": "<p>Shop now to uncover unique pieces that suit your taste and preferences.<\/p>",
-        "full_width": true,
-        "collection_list": [
-          "apparel",
-          "footwear",
-          "jewelry",
-          "wedding-collection",
-          "home-decor",
-          "toys",
-          "hats",
-          "belts"
-        ],
-        "image_ratio": "square",
-        "layout": "carousel",
-        "style": "style1",
-        "columns_desktop": 5,
-        "columns_mobile": "2",
-        "show_progress_bar": false,
-        "mobile_swipe": true,
-        "overlay_color": "#000000",
-        "overlay_opacity": 0,
-        "disable_top_spacing": false,
-        "disable_bottom_spacing": false
-      }
-    },
-    "recently_viewed_products_yfrzay": {
-      "type": "recently-viewed-products",
-      "settings": {
-        "heading": "Recently viewed products",
-        "heading_left": true,
-        "description": "",
-        "full_width": true,
-        "mobile_swipe": true,
-        "disable_top_spacing": false,
-        "disable_bottom_spacing": false
-      }
     }
   },
   "order": [
     "main-collection-banner",
-    "collection_list_4jdWb3",
-    "product-grid",
-    "05d4b2e3-a1e8-4fc6-a2f2-54ecc52c0caf",
-    "166366972953e881f5",
-    "recently_viewed_products_yfrzay"
+    "product-grid"
   ]
 }
