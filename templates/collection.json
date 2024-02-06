@@ -25,7 +25,7 @@
             "promotion_position": 7,
             "promotion_width": "1",
             "image": "shopify:\/\/shop_images\/sale_clearance_image_1.webp",
-            "title": "CLEARANCE SALE",
+            "title": "ON SALE",
             "text": "Limited stock, irresistible prices. Shop now before it's gone!",
             "link_label": "Shop Now",
             "link": "shopify:\/\/collections\/clearance",
@@ -38,6 +38,9 @@
       },
       "block_order": [
         "2eb8e6da-98ad-442c-b31e-fcc9bc0532b9"
+      ],
+      "custom_css": [
+
       ],
       "settings": {
         "full_width": true,
