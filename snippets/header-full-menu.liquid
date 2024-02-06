@@ -93,7 +93,7 @@
 					{%- endif -%}
 					{% if has_mega_menu %}
 						{%- if mega_menu_block.settings.promo_1_image -%}
-							{% render 'header-full-menu-promotion', promotion_image: mega_menu_block.settings.promo_1_image, promotion_link: mega_menu_block.settings.promo_1_link, promotion_heading: mega_menu_block.settings.promo_1_heading, promotion_link_label: mega_menu_block.settings.promo_1_link_label %}
+							{% render 'header-full-menu-promotion', is_collection_link: is_collection_link, promotion_image: mega_menu_block.settings.promo_1_image, promotion_link: mega_menu_block.settings.promo_1_link, promotion_heading: mega_menu_block.settings.promo_1_heading, promotion_link_label: mega_menu_block.settings.promo_1_link_label %}
 						{%- endif -%}
 						{%- if mega_menu_block.settings.promo_2_image -%}
 							{% render 'header-full-menu-promotion', promotion_image: mega_menu_block.settings.promo_2_image, promotion_link: mega_menu_block.settings.promo_2_link, promotion_heading: mega_menu_block.settings.promo_2_heading, promotion_link_label: mega_menu_block.settings.promo_2_link_label %}

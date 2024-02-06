@@ -195,7 +195,8 @@
         "mobile_secondary_menu": "",
         "mobile_promo_heading": "",
         "mobile_promo_link_label": "",
-        "mobile_promo_link": ""
+        "mobile_promo_link": "",
+        "is_collection_link": true
       }
     }
   },
