@@ -28,7 +28,7 @@
 		<div class="section-header--button has--tabs">
 			{%- for block in blocks -%}
 				{%- if block.settings.collection != blank -%}
-					<a class="text-button linked-to-tab{% if forloop.first == true %} active{% endif %}" href="{{ block.settings.collection.url }}">{{ 'sections.featured_collection.shop_collection' | t: collection: block.settings.collection.title }}{% render 'svg-icons' with 'collection-arrow-northwest' %}</a>
+					<a class="text-button linked-to-tab{% if forloop.first == true %} active{% endif %}" href="{{ block.settings.collection.url }}{% if section.settings.is_collection_link %}?filter.v.availability=1{% endif %}">{{ 'sections.featured_collection.shop_collection' | t: collection: block.settings.collection.title }}{% render 'svg-icons' with 'collection-arrow-northwest' %}</a>
 				{%- else -%}
 					<a class="text-button linked-to-tab{% if forloop.first == true %} active{% endif %}" href="#">{{ 'sections.featured_collection.shop_collection' | t: collection: 'Collection' }}</a>
 				{%- endif -%}
